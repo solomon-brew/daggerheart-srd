@@ -8,7 +8,7 @@ Make a Spellcast Roll against a target within Far range and spend any number of 
 
 At the end of each session, clear all unspent tokens."
 WALL WALK,1,Arcana,Spell,1,Spend a Hope to allow a creature you can touch to climb on walls and ceilings as easily as walking on the ground. This lasts until the end of the scene or you cast Wall Walk again.
-CINDER GRASP,2,Arcana,Spell,1,"Make a Spellcast Roll against a target within Melee range. On a success, the target instantly bursts into flames, takes 12d20+3 magic damage, and is temporarily lit On Fire.
+CINDER GRASP,2,Arcana,Spell,1,"Make a Spellcast Roll against a target within Melee range. On a success, the target instantly bursts into flames, takes 1d20+3 magic damage, and is temporarily lit On Fire.
 
 When a creature acts while On Fire, they must take an extra 2d6 magic damage if they are still On Fire at the end of their action."
 FLOATING EYE,2,Arcana,Spell,0,"Spend a Hope to create a single, small floating orb that you can move anywhere within Very Far range. While this spell is active, you can see through the orb as though you’re looking out from its position. You can transition between using your own senses and seeing through the orb freely. If the orb takes damage or moves out of range, the spell ends."
@@ -34,7 +34,7 @@ EARTHQUAKE,9,Arcana,Spell,2,"Make a Spellcast Roll (16). Once per rest on a succ
 Additionally, when you succeed on the Spellcast Roll, all terrain within Very Far range becomes difficult to move through and structures within this range might sustain damage or crumble."
 SENSORY PROJECTION,9,Arcana,Spell,0,"Once per rest, make a Spellcast Roll (15). On a success, drop into a vision that lets you clearly see and hear any place you have been before as though you are standing there in this moment. You can move freely in this vision and are not constrained by the physics or impediments of a physical body. This spell cannot be detected by mundane or magical means. You drop out of this vision upon taking damage or casting another spell."
 ADJUST REALITY,10,Arcana,Spell,1,"After you or a willing ally make any roll, you can spend 5 Hope to change the numerical result of that roll to a result of your choice instead. The result must be plausible within the range of the dice."
-FALLING SKY,10,Arcana,Spell,1,Make a Spellcast Roll against all adversaries within Far range. Mark any number of Stress to make shards of arcana rain down from above. Targets you succeed against take 12d20+2 magic damage for each Stress marked.
+FALLING SKY,10,Arcana,Spell,1,Make a Spellcast Roll against all adversaries within Far range. Mark any number of Stress to make shards of arcana rain down from above. Targets you succeed against take 1d20+2 magic damage for each Stress marked.
 GET BACK UP,1,Blade,Ability,1,"When you take Severe damage, you can mark a Stress to reduce the severity by one threshold."
 NOT GOOD ENOUGH,1,Blade,Ability,1,"When you roll your damage dice, you can reroll any 1s or 2s."
 WHIRLWIND,1,Blade,Ability,0,"When you make a successful attack against a target within Very Close range, you can spend a Hope to use the attack against all other targets within Very Close range. All additional adversaries you succeed against with this ability take half damage."
