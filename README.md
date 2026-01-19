@@ -10,6 +10,10 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 © 2025 Critical Role LLC. All rights reserved. For more information, please visit www.darringtonpress.com/license.
 
+##### REFERENCE SITE
+
+[seansbox.github.io/daggerheart-srd](https://seansbox.github.io/daggerheart-srd/)
+
 ## CONTENTS
 
 **[Introduction](#introduction)**

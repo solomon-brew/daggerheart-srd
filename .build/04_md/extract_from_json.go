@@ -920,7 +920,14 @@ func insertContents(content string) string {
 	for i, line := range lines {
 		level, title := parseHeading(line)
 		if level == 1 && strings.EqualFold(strings.TrimSpace(title), "INTRODUCTION") {
-			block := []string{"# CONTENTS", ""}
+			block := []string{
+				"#### REFERENCE SITE",
+				"",
+				"[seansbox.github.io/daggerheart-srd](https://seansbox.github.io/daggerheart-srd/)",
+				"",
+				"# CONTENTS",
+				"",
+			}
 			block = append(block, toc...)
 			block = append(block, "")
 			out := append([]string{}, lines[:i]...)
@@ -929,7 +936,14 @@ func insertContents(content string) string {
 			return strings.Join(out, "\n")
 		}
 	}
-	block := append([]string{"# CONTENTS", ""}, toc...)
+	block := append([]string{
+		"#### REFERENCE SITE",
+		"",
+		"[seansbox.github.io/daggerheart-srd](https://seansbox.github.io/daggerheart-srd/)",
+		"",
+		"# CONTENTS",
+		"",
+	}, toc...)
 	block = append(block, "", "")
 	return strings.Join(append(block, lines...), "\n")
 }
