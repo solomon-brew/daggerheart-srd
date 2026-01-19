@@ -183,11 +183,10 @@ func collapseExtraBlankLines(path string) error {
 }
 
 type linkTarget struct {
-	name string
-	path string
+	name     string
+	path     string
 	category string
 }
-
 
 func generateSRD(basePath, outPath, jsonDir string) error {
 	baseRaw, err := os.ReadFile(basePath)
@@ -921,7 +920,7 @@ func insertContents(content string) string {
 		level, title := parseHeading(line)
 		if level == 1 && strings.EqualFold(strings.TrimSpace(title), "INTRODUCTION") {
 			block := []string{
-				"#### REFERENCE SITE",
+				"**REFERENCE SITE**",
 				"",
 				"[seansbox.github.io/daggerheart-srd](https://seansbox.github.io/daggerheart-srd/)",
 				"",
