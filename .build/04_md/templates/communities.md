@@ -1,10 +1,12 @@
-# {{ name|upper }}
+# {{ upper .name }}
 
-{{ description }}
+{{ .description }}
 
-*{{ note }}*
+_{{ .note }}_
 
 ## COMMUNITY FEATURE
-{% for feat in feats %}
-***{{ feat.name }}:*** {{ feat.text }}
-{% endfor %}
+
+{{- range .feature }}
+
+**_{{ .name }}:_** {{ .text }}
+{{- end }}

@@ -1,5 +1,5 @@
-# {{ name|upper }}
+# {{ upper .name }}
 
-{{ description }}
+{{ .description }}
 
-*Item*
+_Item_

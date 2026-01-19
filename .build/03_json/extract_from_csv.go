@@ -21,6 +21,7 @@ type regularField struct {
 type groupedField struct {
 	index int
 	sub   string
+	subIndex int
 	orig  string
 }
 
@@ -47,9 +48,65 @@ func normalizeHeader(header string) string {
 func groupDigitFields(fieldnames []string) ([]regularField, map[string][]groupedField) {
 	regular := []regularField{}
 	grouped := map[string][]groupedField{}
-	pattern := regexp.MustCompile(`^(.*?)[ _-](\d+)[ _-](.*)$`)
+	patternDot := regexp.MustCompile(`^(.*?)[ _-](\d+)\.(\d+)(?:[ _-](.*))?$`)
+	patternTwo := regexp.MustCompile(`^(.*?)[ _-](\d+)[ _-](.*?)[ _-](\d+)(?:[ _-](.*))?$`)
+	patternOne := regexp.MustCompile(`^(.*?)[ _-](\d+)[ _-](.*)$`)
 	for _, orig := range fieldnames {
-		m := pattern.FindStringSubmatch(orig)
+		if m := patternDot.FindStringSubmatch(orig); m != nil {
+			prefix, indexStr, subIndexStr, subfield := m[1], m[2], m[3], m[4]
+			index, err := strconv.Atoi(indexStr)
+			if err != nil {
+				regular = append(regular, regularField{orig: orig, norm: normalizeHeader(orig)})
+				continue
+			}
+			subIndex, err := strconv.Atoi(subIndexStr)
+			if err != nil {
+				regular = append(regular, regularField{orig: orig, norm: normalizeHeader(orig)})
+				continue
+			}
+			groupKey := normalizeHeader(prefix)
+			subKey := normalizeHeader(subfield)
+			if subKey == "" {
+				subKey = "option"
+			}
+			grouped[groupKey] = append(grouped[groupKey], groupedField{
+				index:    index,
+				sub:      subKey,
+				subIndex: subIndex,
+				orig:     orig,
+			})
+			continue
+		}
+		if m := patternTwo.FindStringSubmatch(orig); m != nil {
+			prefix, indexStr, mid, subIndexStr, tail := m[1], m[2], m[3], m[4], m[5]
+			index, err := strconv.Atoi(indexStr)
+			if err != nil {
+				regular = append(regular, regularField{orig: orig, norm: normalizeHeader(orig)})
+				continue
+			}
+			subIndex, err := strconv.Atoi(subIndexStr)
+			if err != nil {
+				regular = append(regular, regularField{orig: orig, norm: normalizeHeader(orig)})
+				continue
+			}
+			subfield := strings.TrimSpace(mid)
+			if strings.TrimSpace(tail) != "" {
+				subfield = strings.TrimSpace(subfield + " " + tail)
+			}
+			groupKey := normalizeHeader(prefix)
+			subKey := normalizeHeader(subfield)
+			if subKey == "" {
+				subKey = "value"
+			}
+			grouped[groupKey] = append(grouped[groupKey], groupedField{
+				index: index,
+				sub:   subKey,
+				subIndex: subIndex,
+				orig:  orig,
+			})
+			continue
+		}
+		m := patternOne.FindStringSubmatch(orig)
 		if m == nil {
 			regular = append(regular, regularField{orig: orig, norm: normalizeHeader(orig)})
 			continue
@@ -138,7 +195,7 @@ func csvToJSON(csvPath, jsonPath string) error {
 
 		// Grouped fields
 		for groupKey, fields := range grouped {
-			groupRows := map[int]map[string]string{}
+			groupRows := map[int]map[string]any{}
 			for _, gf := range fields {
 				idx := indexOf(header, gf.orig)
 				if idx < 0 || idx >= len(row) {
@@ -149,9 +206,18 @@ func csvToJSON(csvPath, jsonPath string) error {
 					continue
 				}
 				if _, ok := groupRows[gf.index]; !ok {
-					groupRows[gf.index] = map[string]string{}
+					groupRows[gf.index] = map[string]any{}
 				}
-				groupRows[gf.index][gf.sub] = val
+				if gf.subIndex > 0 {
+					subMap, ok := groupRows[gf.index][gf.sub].(map[int]string)
+					if !ok {
+						subMap = map[int]string{}
+					}
+					subMap[gf.subIndex] = val
+					groupRows[gf.index][gf.sub] = subMap
+				} else {
+					groupRows[gf.index][gf.sub] = val
+				}
 			}
 			if len(groupRows) == 0 {
 				continue
@@ -161,12 +227,40 @@ func csvToJSON(csvPath, jsonPath string) error {
 				indexes = append(indexes, idx)
 			}
 			sort.Ints(indexes)
-			groupList := make([]map[string]string, 0, len(indexes))
+			groupList := make([]any, 0, len(indexes))
 			for _, idx := range indexes {
 				if len(groupRows[idx]) == 0 {
 					continue
 				}
-				groupList = append(groupList, groupRows[idx])
+				entry := map[string]any{}
+				for key, val := range groupRows[idx] {
+					switch typed := val.(type) {
+					case string:
+						entry[key] = typed
+					case map[int]string:
+						subIndexes := make([]int, 0, len(typed))
+						for subIdx := range typed {
+							subIndexes = append(subIndexes, subIdx)
+						}
+						sort.Ints(subIndexes)
+						list := make([]string, 0, len(subIndexes))
+						for _, subIdx := range subIndexes {
+							list = append(list, typed[subIdx])
+						}
+						if len(list) > 0 {
+							entry[key] = list
+						}
+					}
+				}
+				if len(entry) > 0 {
+					if len(entry) == 1 {
+						if list, ok := entry["option"].([]string); ok {
+							groupList = append(groupList, list)
+							continue
+						}
+					}
+					groupList = append(groupList, entry)
+				}
 			}
 			if len(groupList) > 0 {
 				record[groupKey] = groupList

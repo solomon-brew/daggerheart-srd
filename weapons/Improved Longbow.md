@@ -1,7 +1,7 @@
-﻿# IMPROVED LONGBOW
+# IMPROVED LONGBOW
 
 **Trait:** Agility; **Range:** Very Far; **Damage:** d8+6 phy; **Burden:** Two-Handed
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Feature:** **_Cumbersome:_** -1 to Finesse
 
-*Primary Weapon - Tier 2*
+_Primary Physical Weapon - Tier 2_

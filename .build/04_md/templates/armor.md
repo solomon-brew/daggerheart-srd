@@ -1,7 +1,14 @@
-# {{ name|upper }}
+# {{ upper .name }}
 
-**Base Thresholds:** {{ base_thresholds }}; **Base Score:** {{ base_score }}
+> **Base Thresholds:** {{ .base_thresholds }} | **Base Score:** {{ .base_score }}
 
-**Feature:** {% if feat_name %}***{{ feat_name }}:*** {{ feat_text }}{% else %}—{% endif %}
+{{- if gt (len .feature) 0 }}
+{{- $feat := index .feature 0 }}
 
-*Armor - Tier {{ tier }}*
+**Feature:** **_{{ $feat.name }}:_** {{ $feat.text }}
+{{- else }}
+
+**Feature:** —
+{{- end }}
+
+_Armor - Tier {{ .tier }}_

@@ -1,7 +1,7 @@
-﻿# BROADSWORD
+# BROADSWORD
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d8 phy; **Burden:** One-Handed
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Feature:** **_Reliable:_** +1 to attack rolls
 
-*Primary Weapon - Tier 1*
+_Primary Physical Weapon - Tier 1_

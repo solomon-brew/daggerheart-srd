@@ -1,7 +1,7 @@
-﻿# GHOSTBLADE
+# GHOSTBLADE
 
 **Trait:** Presence; **Range:** Melee; **Damage:** d10+7 phy or mag; **Burden:** One-Handed
 
-**Feature:** ***Otherworldly:*** On a successful attack, you can deal physical or magic damage.
+**Feature:** **_Otherworldly:_** On a successful attack, you can deal physical or magic damage.
 
-*Primary Weapon - Tier 3*
+_Primary Magical Weapon - Tier 3_

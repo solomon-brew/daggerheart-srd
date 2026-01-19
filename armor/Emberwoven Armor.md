@@ -1,7 +1,7 @@
-﻿# EMBERWOVEN ARMOR
+# EMBERWOVEN ARMOR
 
-**Base Thresholds:** 13 / 36; **Base Score:** 6
+> **Base Thresholds:** 13 / 36 | **Base Score:** 6
 
-**Feature:** ***Burning:*** When an adversary attacks you within Melee range, they mark a Stress.
+**Feature:** **_Burning:_** When an adversary attacks you within Melee range, they mark a Stress.
 
-*Armor - Tier 4*
+_Armor - Tier 4_

@@ -1,7 +1,14 @@
-# {{ name|upper }}
+# {{ upper .name }}
 
-**Trait:** {{ trait }}; **Range:** {{ range }}; **Damage:** {{ damage }}; **Burden:** {{ burden }}
+**Trait:** {{ .trait }}; **Range:** {{ .range }}; **Damage:** {{ .damage }}; **Burden:** {{ .burden }}
 
-**Feature:** {% if feat_name %}***{{ feat_name }}:*** {{ feat_text }}{% else %}—{% endif %}
+{{- if gt (len .feature) 0 }}
+{{- $feat := index .feature 0 }}
 
-*{{ primary_or_secondary }} Weapon - Tier {{ tier }}*
+**Feature:** **_{{ $feat.name }}:_** {{ $feat.text }}
+{{- else }}
+
+**Feature:** —
+{{- end }}
+
+_{{ .primary_or_secondary }}{{ if .physical_or_magical }} {{ .physical_or_magical }}{{ end }} Weapon - Tier {{ .tier }}_

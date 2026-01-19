@@ -1,7 +1,7 @@
-﻿# CROSSBOW
+# CROSSBOW
 
 **Trait:** Finesse; **Range:** Far; **Damage:** d6+1 phy; **Burden:** One-Handed
 
 **Feature:** —
 
-*Primary Weapon - Tier 1*
+_Primary Physical Weapon - Tier 1_

@@ -2105,10 +2105,10 @@
       }
     ],
     "name": "Shortsword",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "1",
     "trait": "Agility"
   },
   {
@@ -2121,10 +2121,10 @@
       }
     ],
     "name": "Round Shield",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "1",
     "trait": "Strength"
   },
   {
@@ -2137,10 +2137,10 @@
       }
     ],
     "name": "Tower Shield",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "1",
     "trait": "Strength"
   },
   {
@@ -2153,10 +2153,10 @@
       }
     ],
     "name": "Small Dagger",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "1",
     "trait": "Finesse"
   },
   {
@@ -2169,10 +2169,10 @@
       }
     ],
     "name": "Whip",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Very Close",
-    "tier": "4",
+    "tier": "1",
     "trait": "Presence"
   },
   {
@@ -2185,20 +2185,20 @@
       }
     ],
     "name": "Grappler",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Close",
-    "tier": "4",
+    "tier": "1",
     "trait": "Finesse"
   },
   {
     "burden": "One-Handed",
     "damage": "d6+1 phy",
     "name": "Hand Crossbow",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Far",
-    "tier": "4",
+    "tier": "1",
     "trait": "Finesse"
   },
   {
@@ -2211,10 +2211,10 @@
       }
     ],
     "name": "Improved Shortsword",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "2",
     "trait": "Agility"
   },
   {
@@ -2227,10 +2227,10 @@
       }
     ],
     "name": "Improved Round Shield",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "2",
     "trait": "Strength"
   },
   {
@@ -2243,10 +2243,10 @@
       }
     ],
     "name": "Improved Tower Shield",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "2",
     "trait": "Strength"
   },
   {
@@ -2259,10 +2259,10 @@
       }
     ],
     "name": "Improved Small Dagger",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "2",
     "trait": "Finesse"
   },
   {
@@ -2275,10 +2275,10 @@
       }
     ],
     "name": "Improved Whip",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Very Close",
-    "tier": "4",
+    "tier": "2",
     "trait": "Presence"
   },
   {
@@ -2291,20 +2291,20 @@
       }
     ],
     "name": "Improved Grappler",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Close",
-    "tier": "4",
+    "tier": "2",
     "trait": "Finesse"
   },
   {
     "burden": "One-Handed",
     "damage": "d6+3 phy",
     "name": "Improved Hand Crossbow",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Far",
-    "tier": "4",
+    "tier": "2",
     "trait": "Finesse"
   },
   {
@@ -2317,10 +2317,10 @@
       }
     ],
     "name": "Spiked Shield",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "2",
     "trait": "Strength"
   },
   {
@@ -2333,10 +2333,10 @@
       }
     ],
     "name": "Parrying Dagger",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "2",
     "trait": "Finesse"
   },
   {
@@ -2349,10 +2349,10 @@
       }
     ],
     "name": "Returning Axe",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Close",
-    "tier": "4",
+    "tier": "2",
     "trait": "Agility"
   },
   {
@@ -2365,10 +2365,10 @@
       }
     ],
     "name": "Advanced Shortsword",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "3",
     "trait": "Agility"
   },
   {
@@ -2381,10 +2381,10 @@
       }
     ],
     "name": "Advanced Round Shield",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "3",
     "trait": "Strength"
   },
   {
@@ -2397,10 +2397,10 @@
       }
     ],
     "name": "Advanced Tower Shield",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "3",
     "trait": "Strength"
   },
   {
@@ -2413,10 +2413,10 @@
       }
     ],
     "name": "Advanced Small Dagger",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "3",
     "trait": "Finesse"
   },
   {
@@ -2429,10 +2429,10 @@
       }
     ],
     "name": "Advanced Whip",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Very Close",
-    "tier": "4",
+    "tier": "3",
     "trait": "Presence"
   },
   {
@@ -2445,20 +2445,20 @@
       }
     ],
     "name": "Advanced Grappler",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Close",
-    "tier": "4",
+    "tier": "3",
     "trait": "Finesse"
   },
   {
     "burden": "One-Handed",
     "damage": "d6+5 phy",
     "name": "Advanced Hand Crossbow",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Far",
-    "tier": "4",
+    "tier": "3",
     "trait": "Finesse"
   },
   {
@@ -2471,10 +2471,10 @@
       }
     ],
     "name": "Buckler",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
-    "tier": "4",
+    "tier": "3",
     "trait": "Agility"
   },
   {
@@ -2487,10 +2487,10 @@
       }
     ],
     "name": "Powered Gauntlet",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Close",
-    "tier": "4",
+    "tier": "3",
     "trait": "Knowledge"
   },
   {
@@ -2503,10 +2503,10 @@
       }
     ],
     "name": "Hand Sling",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Very Far",
-    "tier": "4",
+    "tier": "3",
     "trait": "Finesse"
   },
   {
@@ -2519,7 +2519,7 @@
       }
     ],
     "name": "Legendary Shortsword",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "4",
@@ -2535,7 +2535,7 @@
       }
     ],
     "name": "Legendary Round Shield",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "4",
@@ -2551,7 +2551,7 @@
       }
     ],
     "name": "Legendary Tower Shield",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "4",
@@ -2567,7 +2567,7 @@
       }
     ],
     "name": "Legendary Small Dagger",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "4",
@@ -2583,7 +2583,7 @@
       }
     ],
     "name": "Legendary Whip",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Very Close",
     "tier": "4",
@@ -2599,7 +2599,7 @@
       }
     ],
     "name": "Legendary Grappler",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Close",
     "tier": "4",
@@ -2609,7 +2609,7 @@
     "burden": "One-Handed",
     "damage": "d6+7 phy",
     "name": "Legendary Hand Crossbow",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Far",
     "tier": "4",
@@ -2625,7 +2625,7 @@
       }
     ],
     "name": "Braveshield",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "4",
@@ -2641,7 +2641,7 @@
       }
     ],
     "name": "Knuckle Claws",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "4",
@@ -2657,7 +2657,7 @@
       }
     ],
     "name": "Primer Shard",
-    "physical_or_magical": "Magical",
+    "physical_or_magical": "Physical",
     "primary_or_secondary": "Secondary",
     "range": "Very Close",
     "tier": "4",

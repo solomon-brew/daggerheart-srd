@@ -1,7 +1,7 @@
-﻿# ADVANCED LEATHER ARMOR
+# ADVANCED LEATHER ARMOR
 
-**Base Thresholds:** 11 / 27; **Base Score:** 5
+> **Base Thresholds:** 11 / 27 | **Base Score:** 5
 
 **Feature:** —
 
-*Armor - Tier 3*
+_Armor - Tier 3_

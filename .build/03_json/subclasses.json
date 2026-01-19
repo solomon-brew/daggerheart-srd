@@ -63,7 +63,7 @@
         "text": "You further embody your element. While _Channeling_, you gain the following benefit:\n\n- _Fire:_ You gain a +1 bonus to your Proficiency for attacks and spells that deal damage.\n- _Earth:_ When you would mark Hit Points, roll a **d6** per Hit Point marked. For each result of 6, reduce the number of Hit Points you mark by 1.\n- _Water:_ When an attack against you succeeds, you can **mark a Stress** to make the attacker temporarily _Vulnerable_.\n- _Air:_ You gain a +1 bonus to your Evasion and can fly."
       }
     ],
-    "name": "Warden Of The Elements",
+    "name": "Warden of the Elements",
     "specialization": [
       {
         "name": "Elemental Aura",
@@ -90,7 +90,7 @@
         "text": "Your animal transformation embodies a healing guardian spirit. When you're in Beastform and an ally within Close range marks 2 or more Hit Points, you can **mark a Stress** to reduce the number of Hit Points they mark by 1."
       }
     ],
-    "name": "Warden Of Renewal",
+    "name": "Warden of Renewal",
     "specialization": [
       {
         "name": "Regenerative Reach",
@@ -393,7 +393,7 @@
         "text": "Your unwavering bravery is a rallying point for your allies. You can initiate a Tag Team Roll one additional time per session. Additionally, when an ally initiates a Tag Team Roll with you, they only need to spend 2 Hope to do so."
       }
     ],
-    "name": "Call Of The Brave",
+    "name": "Call of the Brave",
     "specialization": [
       {
         "name": "Rise to the Challenge",
@@ -415,7 +415,7 @@
         "text": "You're an inspirational warrior to all who travel with you. Your party gains access to the Martial Preparation downtime move. To use this move during a rest, describe how you instruct and train with your party. You and each ally who chooses this downtime move gain a **d6** Slayer Die. A PC with a Slayer Die can spend it to roll the die and add the result to an attack or damage roll of their choice."
       }
     ],
-    "name": "Call Of The Slayer",
+    "name": "Call of the Slayer",
     "specialization": [
       {
         "name": "Weapon Specialist",
@@ -445,7 +445,7 @@
         "text": "When you use an Experience, roll a **d6.** On a result of 5 or higher, you can use it without spending Hope."
       }
     ],
-    "name": "School Of Knowledge",
+    "name": "School of Knowledge",
     "specialization": [
       {
         "name": "Accomplished",
@@ -480,7 +480,7 @@
         "text": "The extra magic damage from your \"Face Your Fear\" feature increases to **3d10.**"
       }
     ],
-    "name": "School Of War",
+    "name": "School of War",
     "specialization": [
       {
         "name": "Conjure Shield",

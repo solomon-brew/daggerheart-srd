@@ -1,7 +1,7 @@
-﻿# LEGENDARY GAMBESON ARMOR
+# LEGENDARY GAMBESON ARMOR
 
-**Base Thresholds:** 11 / 32; **Base Score:** 6
+> **Base Thresholds:** 11 / 32 | **Base Score:** 6
 
-**Feature:** ***Flexible:*** +1 to Evasion
+**Feature:** **_Flexible:_** +1 to Evasion
 
-*Armor - Tier 4*
+_Armor - Tier 4_

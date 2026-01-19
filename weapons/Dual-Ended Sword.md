@@ -1,7 +1,7 @@
-﻿# DUAL-ENDED SWORD
+# DUAL-ENDED SWORD
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d10+9 phy; **Burden:** Two-Handed
 
-**Feature:** ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.
+**Feature:** **_Quick:_** When you make an attack, you can mark a Stress to target another creature within range.
 
-*Primary Weapon - Tier 4*
+_Primary Physical Weapon - Tier 4_

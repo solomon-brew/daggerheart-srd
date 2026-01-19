@@ -1,7 +1,7 @@
-﻿# BLOODSTAFF
+# BLOODSTAFF
 
 **Trait:** Instinct; **Range:** Far; **Damage:** d20+7 mag; **Burden:** Two-Handed
 
-**Feature:** ***Painful:*** Each time you make a successful attack, you must mark a Stress.
+**Feature:** **_Painful:_** Each time you make a successful attack, you must mark a Stress.
 
-*Primary Weapon - Tier 4*
+_Primary Magical Weapon - Tier 4_

@@ -1,6 +1,6 @@
-﻿# VALOR-TOUCHED
+# VALOR-TOUCHED
 
-> **Level 7 Valor Ability**  
+> **Level 7 Valor Ability**
 > **Recall Cost:** 1
 
 When 4 or more of the domain cards in your loadout are from the Valor domain, gain the following benefits:

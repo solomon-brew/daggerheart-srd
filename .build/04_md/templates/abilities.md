@@ -1,6 +1,6 @@
-# {{ name|upper }}
+# {{ upper .name }}
 
-> **Level {{ level }} {{ domain }} {{ type }}**  
-> **Recall Cost:** {{ recall }}
+> **Level {{ .level }} {{ .domain }} {{ .type }}**
+> **Recall Cost:** {{ .recall }}
 
-{{ text }}
+{{ .text }}

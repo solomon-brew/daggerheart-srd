@@ -1,5 +1,5 @@
-﻿# MYTHIC DUST RECIPE
+# MYTHIC DUST RECIPE
 
 As a downtime move, you can use a handful of fine gold dust to craft Mythic Dust.
 
-*Item*
+_Item_

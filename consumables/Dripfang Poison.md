@@ -1,5 +1,5 @@
-﻿# DRIPFANG POISON
+# DRIPFANG POISON
 
-A creature who consumes this poison takes 2d10 direct magic damage.
+A creature who consumes this poison takes 8d10 direct magic damage.
 
-*Consumable*
+_Consumable_

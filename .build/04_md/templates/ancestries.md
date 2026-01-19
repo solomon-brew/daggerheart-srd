@@ -1,8 +1,10 @@
-# {{ name|upper }}
+# {{ upper .name }}
 
-{{ description }}
+{{ .description }}
 
 ## ANCESTRY FEATURES
-{% for feat in feats %}
-***{{ feat.name }}:*** {{ feat.text }}
-{% endfor %}
+
+{{- range .feature }}
+
+**_{{ .name }}:_** {{ .text }}
+{{- end }}

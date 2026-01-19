@@ -1,7 +1,7 @@
-﻿# IMPROVED GAMBESON ARMOR
+# IMPROVED GAMBESON ARMOR
 
-**Base Thresholds:** 7 / 16; **Base Score:** 4
+> **Base Thresholds:** 7 / 16 | **Base Score:** 4
 
-**Feature:** ***Flexible:*** +1 to Evasion
+**Feature:** **_Flexible:_** +1 to Evasion
 
-*Armor - Tier 2*
+_Armor - Tier 2_

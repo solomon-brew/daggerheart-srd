@@ -1,7 +1,7 @@
-﻿# ADVANCED CHAINMAIL ARMOR
+# ADVANCED CHAINMAIL ARMOR
 
-**Base Thresholds:** 13 / 31; **Base Score:** 6
+> **Base Thresholds:** 13 / 31 | **Base Score:** 6
 
-**Feature:** ***Heavy:*** -1 to Evasion
+**Feature:** **_Heavy:_** -1 to Evasion
 
-*Armor - Tier 3*
+_Armor - Tier 3_

@@ -1,25 +1,14 @@
-﻿# AMBUSHERS
+# AMBUSHERS
 
-***Tier 1 Event***  
-*An ambush is set by the PCs to catch unsuspecting adversaries off-guard.*  
+**_Tier 1 Event_**
+_An ambush is set by the PCs to catch unsuspecting adversaries off-guard._
 **Impulses:** Escape, group up, protect the most vulnerable
 
-> **Difficulty:** Special (see “Relative Strength”)  
+> **Difficulty:** <no value>
 > **Potential Adversaries:** Any
-
-
-
-
-## FEATURE QUESTIONS
-- Which adversary is the least prepared?
-- Which one is the most?
-- What are the adversaries in the middle of doing when the ambush starts?
-- How does this impact their approach to the fight?
-
-
 
 ## FEATURES
 
-***Relative Strength - Passive:*** The Difficulty of this environment equals that of the adversary with the highest Difficulty.
+**_Relative Strength - Passive:_** The Difficulty of this environment equals that of the adversary with the highest Difficulty. _Which adversary is the least prepared? Which one is the most?_
 
-***Where Did They Come From? - Reaction:*** When a PC starts the ambush on unsuspecting adversaries, you lose 2 Fear and the first attack roll a PC makes has advantage.
+**_Where Did They Come From? - Reaction:_** When a PC starts the ambush on unsuspecting adversaries, you lose 2 Fear and the first attack roll a PC makes has advantage. _What are the adversaries in the middle of doing when the ambush starts? How does this impact their approach to the fight?_

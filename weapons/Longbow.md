@@ -1,7 +1,7 @@
-﻿# LONGBOW
+# LONGBOW
 
 **Trait:** Agility; **Range:** Very Far; **Damage:** d8+3 phy; **Burden:** Two-Handed
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Feature:** **_Cumbersome:_** -1 to Finesse
 
-*Primary Weapon - Tier 1*
+_Primary Physical Weapon - Tier 1_

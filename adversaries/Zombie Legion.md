@@ -1,18 +1,18 @@
-﻿# ZOMBIE LEGION
+# ZOMBIE LEGION
 
-***Tier 4 Horde (3/HP)***  
-*A large pack of undead, still powerful despite their rotting flesh.*  
+**_Tier 4 Horde (3/HP)_**
+_A large pack of undead, still powerful despite their rotting flesh._
 **Motives & Tactics:** Consume brain, shred flesh, surround
 
-> **Difficulty:** 17 | **Thresholds:** 25/45 | **HP:** 8 | **Stress:** 5  
-> **ATK:** +2 | **Tentacles:** Close | 4d6+10 phy  
+> **Difficulty:** 17 | **Thresholds:** 25/45 | **HP:** 8 | **Stress:** 5
+> **ATK:** +2 | **Undead Hands:** Close | 4d6+10 phy
 
 ## FEATURES
 
-***Horde (2d6+5) - Passive:*** When Legion has half or more HP marked, standard attack deals 2d6+5 physical damage instead.
+**_Horde (2d6+5) - Passive:_** When the Legion has marked half or more of their HP, their standard attack deals **2d6+5** physical damage instead.
 
-***Unyielding - Passive:*** Legion has resistance to physical damage.
+**_Unyielding - Passive:_** The Legion has resistance to physical damage.
 
-***Relentless (2) - Passive:*** Legion can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight.
+**_Relentless (2) - Passive:_** The Legion can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
 
-***Overwhelm - Reaction:*** When Legion takes Minor damage from attack within Melee, mark a Stress to make standard attack with advantage against the attacker.
+**_Overwhelm - Reaction:_** When the Legion takes Minor damage from an attack within Melee range, you can **mark a Stress** to make a standard attack with advantage against the attacker.

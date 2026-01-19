@@ -1,14 +1,16 @@
-# {{ name|upper }}
+# {{ upper .name }}
 
-***Tier {{ tier }} {{ type }}***  
-*{{ description }}*  
-**Motives & Tactics:** {{ motives_and_tactics }}
+**_Tier {{ .tier }} {{ .type }}_**
+_{{ .description }}_
+**Motives & Tactics:** {{ .motives_and_tactics }}
 
-> **Difficulty:** {{ difficulty }} | **Thresholds:** {{ thresholds }} | **HP:** {{ hp }} | **Stress:** {{ stress }}  
-> **ATK:** {{ atk }} | **{{ attack }}:** {{ range }} | {{ damage }}  {% if experience %}
-> **Experience:** {{ experience }}{% endif %}
+> **Difficulty:** {{ .difficulty }} | **Thresholds:** {{ .thresholds }} | **HP:** {{ .hp }} | **Stress:** {{ .stress }}
+> **ATK:** {{ .atk }} | **{{ .attack }}:** {{ .range }} | {{ .damage }}{{ if .experience }}
+> **Experience:** {{ .experience }}{{ end }}
 
 ## FEATURES
-{% for feat in feats %}
-***{{ feat.name }}:*** {{ feat.text }}
-{% endfor %}
+
+{{- range .feature }}
+
+**_{{ .name }}:_** {{ .text }}
+{{- end }}

@@ -1,7 +1,7 @@
-﻿# LEGENDARY HALBERD
+# LEGENDARY HALBERD
 
 **Trait:** Strength; **Range:** Very Close; **Damage:** d10+11 phy; **Burden:** Two-Handed
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Feature:** **_Cumbersome:_** -1 to Finesse
 
-*Primary Weapon - Tier 4*
+_Primary Physical Weapon - Tier 4_

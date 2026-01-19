@@ -1,5 +1,5 @@
-﻿# MINOR HEALTH POTION
+# MINOR HEALTH POTION
 
 Clear 1d4 HP.
 
-*Consumable*
+_Consumable_

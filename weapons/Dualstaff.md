@@ -1,7 +1,7 @@
-﻿# DUALSTAFF
+# DUALSTAFF
 
 **Trait:** Instinct; **Range:** Far; **Damage:** d6+3 mag; **Burden:** Two-Handed
 
 **Feature:** —
 
-*Primary Weapon - Tier 1*
+_Primary Magical Weapon - Tier 1_

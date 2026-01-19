@@ -1,7 +1,7 @@
-﻿# FINEHAIR BOW
+# FINEHAIR BOW
 
 **Trait:** Agility; **Range:** Very Far; **Damage:** d6+5 phy; **Burden:** Two-Handed
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Feature:** **_Reliable:_** +1 to attack rolls
 
-*Primary Weapon - Tier 2*
+_Primary Physical Weapon - Tier 2_

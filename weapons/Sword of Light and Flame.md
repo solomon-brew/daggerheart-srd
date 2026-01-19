@@ -1,7 +1,7 @@
-﻿# SWORD OF LIGHT AND FLAME
+# SWORD OF LIGHT & FLAME
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+11 mag; **Burden:** Two-Handed
 
-**Feature:** ***Hot:*** This weapon cuts through solid material.
+**Feature:** **_Hot:_** This weapon cuts through solid material.
 
-*Primary Weapon - Tier 4*
+_Primary Magical Weapon - Tier 4_

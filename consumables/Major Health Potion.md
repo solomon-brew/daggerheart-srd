@@ -1,5 +1,5 @@
-﻿# MAJOR HEALTH POTION
+# MAJOR HEALTH POTION
 
 Clear 1d4+2 HP.
 
-*Consumable*
+_Consumable_

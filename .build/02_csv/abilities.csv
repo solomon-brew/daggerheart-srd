@@ -73,7 +73,7 @@ Battle Cry,8,Blade,Ability,2,"Once per long rest, while you're charging into dan
 Frenzy,8,Blade,Ability,3,"Once per long rest, you can go into a _Frenzy_ until there are no more adversaries within sight.
 
 While _Frenzied_, you can't use Armor Slots, and you gain a +10 bonus to your damage rolls and a +8 bonus to your Severe damage threshold."
-Gore And Glory,9,Blade,Ability,2,"When you critically succeed on a weapon attack, gain an additional Hope or clear an additional Stress.
+Gore and Glory,9,Blade,Ability,2,"When you critically succeed on a weapon attack, gain an additional Hope or clear an additional Stress.
 
 Additionally, when you deal enough damage to defeat an enemy, gain a Hope or clear a Stress."
 Reaper's Strike,9,Blade,Ability,3,"Once per long rest, **spend a Hope** to make an attack roll. The GM tells you which targets within range it would succeed against. Choose one of these targets and force them to mark 5 Hit Points."
@@ -120,49 +120,49 @@ Bone-touched,7,Bone,Ability,2,"When 4 or more of the domain cards in your loadou
 Cruel Precision,7,Bone,Ability,1,"When you make a successful attack with a weapon, gain a bonus to your damage roll equal to either your Finesse or Agility."
 Breaking Blow,8,Bone,Ability,3,"When you make a successful attack, you can **mark a Stress** to make the next successful attack against that same target deal an extra **2d12** damage."
 Wrangle,8,Bone,Ability,1,"Make an Agility Roll against all targets within Close range. **Spend a Hope** to move targets you succeed against, and any willing allies within Close range, to another point within Close range."
-On The Brink,9,Bone,Ability,1,"When you have 2 or fewer Hit Points unmarked, you don't take Minor damage."
+On the Brink,9,Bone,Ability,1,"When you have 2 or fewer Hit Points unmarked, you don't take Minor damage."
 Splintering Strike,9,Bone,Ability,3,"**Spend a Hope** and make an attack against all adversaries within your weapon's range. Once per long rest, on a success against any targets, roll your weapon's damage and distribute that damage however you wish between the targets you succeeded against. Before you deal damage to each target, roll an additional damage die and add its result to the damage you deal to them."
 Deathrun,10,Bone,Ability,1,"**Spend 3 Hope** to run a straight path through the battlefield to a point within Far range, making an attack against all adversaries within your weapon's range along that path. Choose the order in which you deal damage to the targets you succeeded against. For the first, roll your weapon damage with a +1 bonus to your Proficiency. Then remove a die from your damage roll and deal the remaining damage to the next target. Continue to remove a die for each subsequent target until you have no more damage dice or adversaries.
 
 You can't target the same adversary more than once per attack."
 Swift Step,10,Bone,Ability,2,"When an attack made against you fails, clear a Stress. If you can't clear a Stress, gain a Hope."
-Book Of Ava,1,Codex,Grimoire,2,"_Power Push:_ Make a **Spellcast Roll** against a target within Melee range. On a success, they're knocked back to Far range and take **d10+2** magic damage using your Proficiency.
+Book of Ava,1,Codex,Grimoire,2,"_Power Push:_ Make a **Spellcast Roll** against a target within Melee range. On a success, they're knocked back to Far range and take **d10+2** magic damage using your Proficiency.
 
 _Tava's Armor:_ **Spend a Hope** to give a target you can touch a +1 bonus to their Armor Score until their next rest or you cast Tava's Armor again.
 
 _Ice Spike:_ Make a **Spellcast Roll (12)** to summon a large ice spike within Far range. If you use it as a weapon, make the Spellcast Roll against the target's Difficulty instead. On a success, deal **d6** physical damage using your Proficiency."
-Book Of Illiat,1,Codex,Grimoire,2,"_Slumber:_ Make a **Spellcast Roll** against a target within Very Close range. On a success, they're _Asleep_ until they take damage or the GM spends a Fear on their turn to clear this condition.
+Book of Illiat,1,Codex,Grimoire,2,"_Slumber:_ Make a **Spellcast Roll** against a target within Very Close range. On a success, they're _Asleep_ until they take damage or the GM spends a Fear on their turn to clear this condition.
 
 _Arcane Barrage:_ Once per rest, **spend any number of Hope** and shoot magical projectiles that strike a target of your choice within Close range. Roll a number of **d6s** equal to the Hope spent and deal that much magic damage to the target.
 
 _Telepathy:_ **Spend a Hope** to open a line of mental communication with one target you can see. This connection lasts until your next rest or you cast Telepathy again."
-Book Of Tyfar,1,Codex,Grimoire,2,"_Wild Flame:_ Make a **Spellcast Roll** against up to three adversaries within Melee range. Targets you succeed against take **2d6** magic damage and must mark a Stress as flames erupt from your hand.
+Book of Tyfar,1,Codex,Grimoire,2,"_Wild Flame:_ Make a **Spellcast Roll** against up to three adversaries within Melee range. Targets you succeed against take **2d6** magic damage and must mark a Stress as flames erupt from your hand.
 
 _Magic Hand:_ You conjure a magical hand with the same size and strength as your own within Far range.
 
 _Mysterious Mist:_ Make a **Spellcast Roll (13)** to cast a temporary thick fog that gathers in a stationary area within Very Close range. The fog heavily obscures this area and everything in it."
-Book Of Sitil,2,Codex,Grimoire,2,"_Adjust Appearance:_ You magically shift your appearance and clothing to avoid recognition.
+Book of Sitil,2,Codex,Grimoire,2,"_Adjust Appearance:_ You magically shift your appearance and clothing to avoid recognition.
 
 _Parallela:_ **Spend 2 Hope** to cast this spell on yourself or an ally within Close range. The next time the target makes an attack, they can hit an additional target within range that their attack roll would succeed against. You can only hold this spell on one creature at a time.
 
 _Illusion:_ Make a **Spellcast Roll (14)**. On a success, create a temporary visual illusion no larger than you within Close range that lasts for as long as you look at it. It holds up to scrutiny until an observer is within Melee range."
-Book Of Vagras,2,Codex,Grimoire,2,"_Runic Lock:_ Make a **Spellcast Roll (15)** on an object you're touching that can close (such as a lock, chest, or box). Once per rest on a success, you can lock the object so it can only be opened by creatures of your choice. Someone with access to magic and an hour of time to study the spell can break it.
+Book of Vagras,2,Codex,Grimoire,2,"_Runic Lock:_ Make a **Spellcast Roll (15)** on an object you're touching that can close (such as a lock, chest, or box). Once per rest on a success, you can lock the object so it can only be opened by creatures of your choice. Someone with access to magic and an hour of time to study the spell can break it.
 
 _Arcane Door:_ When you have no adversaries within Melee range, make a **Spellcast Roll (13)**. On a success, **spend a Hope** to create a portal from where you are to a point within Far range you can see. It closes once a creature has passed through it.
 
 _Reveal:_ Make a **Spellcast Roll**. If there is anything magically hidden within Close range, it is revealed."
-Book Of Korvax,3,Codex,Grimoire,2,"_Levitation:_ Make a **Spellcast Roll** to temporarily lift a target you can see up into the air and move them within Close range of their original position.
+Book of Korvax,3,Codex,Grimoire,2,"_Levitation:_ Make a **Spellcast Roll** to temporarily lift a target you can see up into the air and move them within Close range of their original position.
 
 _Recant:_ **Spend a Hope** to force a target within Melee range to make a Reaction Roll (15). On a failure, they forget the last minute of your conversation.
 
 _Rune Circle:_ **Mark a Stress** to create a temporary magical circle on the ground where you stand. All adversaries within Melee range, or who enter Melee range, take **2d12+4** magic damage and are knocked back to Very Close range."
-Book Of Norai,3,Codex,Grimoire,2,"_Mystic Tether:_ Make a **Spellcast Roll** against a target within Far range. On a success, they're temporarily _Restrained_ and must mark a Stress. If you target a flying creature, this spell grounds and temporarily _Restrains_ them.
+Book of Norai,3,Codex,Grimoire,2,"_Mystic Tether:_ Make a **Spellcast Roll** against a target within Far range. On a success, they're temporarily _Restrained_ and must mark a Stress. If you target a flying creature, this spell grounds and temporarily _Restrains_ them.
 
 _Fireball:_ Make a **Spellcast Roll** against a target within Very Far range. On a success, hurl a sphere of fire toward them that explodes on impact. The target and all creatures within Very Close range of them must make a Reaction Roll (13). Targets who fail take **d20+5** magic damage using your Proficiency. Targets who succeed take half damage."
-Book Of Exota,4,Codex,Grimoire,3,"_Repudiate:_ You can interrupt a magical effect taking place. Make a reaction roll using your Spellcast trait. Once per rest on a success, the effect stops and any consequences are avoided.
+Book of Exota,4,Codex,Grimoire,3,"_Repudiate:_ You can interrupt a magical effect taking place. Make a reaction roll using your Spellcast trait. Once per rest on a success, the effect stops and any consequences are avoided.
 
 _Create Construct:_ **Spend a Hope** to choose a group of objects around you and create an animated construct from them that obeys basic commands. Make a **Spellcast Roll** to command them to take action. When necessary, they share your Evasion and traits and their attacks deal **2d10+3** physical damage. You can only maintain one construct at a time, and they fall apart when they take any amount of damage."
-Book Of Grynn,4,Codex,Grimoire,2,"_Arcane Deflection:_ Once per long rest, **spend a Hope** to negate the damage of an attack targeting you or an ally within Very Close range.
+Book of Grynn,4,Codex,Grimoire,2,"_Arcane Deflection:_ Once per long rest, **spend a Hope** to negate the damage of an attack targeting you or an ally within Very Close range.
 
 _Time Lock:_ Target an object within Far range. That object stops in time and space exactly where it is until your next rest. If a creature tries to move it, make a **Spellcast Roll** against them to maintain this spell.
 
@@ -179,25 +179,25 @@ On a success, you appear where you were intending to go. On a failure, you appea
 Banish,6,Codex,Spell,0,"Make a **Spellcast Roll** against a target within Close range. On a success, roll a number of **d20s** equal to your Spellcast trait. The target must make a reaction roll with a Difficulty equal to your highest result. On a success, the target must mark a Stress but isn't banished. Once per rest on a failure, they are banished from this realm.
 
 When the PCs roll with Fear, the Difficulty gains a -1 penalty and the target makes another reaction roll. On a success, they return from banishment."
-Sigil Of Retribution,6,Codex,Spell,2,"Mark an adversary within Close range with a sigil of retribution. The GM gains a Fear. When the marked adversary deals damage to you or your allies, place a **d8** on this card. You can hold a number of **d8s** equal to your level. When you successfully attack the marked adversary, roll the dice on this card and add the total to your damage roll, then clear the dice. This effect ends when the marked adversary is defeated or you cast Sigil of Retribution again."
-Book Of Homet,7,Codex,Grimoire,0,"_Pass Through:_ Make a **Spellcast Roll (13)**. Once per rest on a success, you and all creatures touching you can pass through a wall or door within Close range. The effect ends once everyone is on the other side.
+Sigil of Retribution,6,Codex,Spell,2,"Mark an adversary within Close range with a sigil of retribution. The GM gains a Fear. When the marked adversary deals damage to you or your allies, place a **d8** on this card. You can hold a number of **d8s** equal to your level. When you successfully attack the marked adversary, roll the dice on this card and add the total to your damage roll, then clear the dice. This effect ends when the marked adversary is defeated or you cast Sigil of Retribution again."
+Book of Homet,7,Codex,Grimoire,0,"_Pass Through:_ Make a **Spellcast Roll (13)**. Once per rest on a success, you and all creatures touching you can pass through a wall or door within Close range. The effect ends once everyone is on the other side.
 
 _Plane Gate:_ Make a **Spellcast Roll (14)**. Once per long rest on a success, open a gateway to a location in another dimension or plane of existence you've been to before. This gateway lasts until your next rest."
 Codex-touched,7,Codex,Ability,2,"When 4 or more of the domain cards in your loadout are from the Codex domain, gain the following benefits:
 
 - You can **mark a Stress** to add your Proficiency to a Spellcast Roll.
 - Once per rest, replace this card with any card from your vault without paying its Recall Cost."
-Book Of Vyola,8,Codex,Grimoire,2,"_Memory Delve:_ Make a **Spellcast Roll** against a target within Far range. On a success, peer into the target's mind and ask the GM a question. The GM describes any memories the target has pertaining to the answer.
+Book of Vyola,8,Codex,Grimoire,2,"_Memory Delve:_ Make a **Spellcast Roll** against a target within Far range. On a success, peer into the target's mind and ask the GM a question. The GM describes any memories the target has pertaining to the answer.
 
 _Shared Clarity:_ Once per long rest, **spend a Hope** to choose two willing creatures. When one of them would mark Stress, they can choose between the two of them who marks it. This spell lasts until their next rest."
 Safe Haven,8,Codex,Spell,3,"When you have a few minutes of calm to focus, you can **spend 2 Hope** to summon your Safe Haven, a large interdimensional home where you and your allies can take shelter. When you do, a magical door appears somewhere within Close range. Only creatures of your choice can enter. Once inside, you can make the entrance invisible. You and anyone else inside can always exit. Once you leave, the doorway must be summoned again.
 
 When you take a rest within your own Safe Haven, you can choose an additional downtime move."
-Book Of Ronin,9,Codex,Grimoire,4,"_Transform:_ Make a **Spellcast Roll (15)**. On a success, transform into an inanimate object no larger than twice your normal size. You can remain in this shape until you take damage.
+Book of Ronin,9,Codex,Grimoire,4,"_Transform:_ Make a **Spellcast Roll (15)**. On a success, transform into an inanimate object no larger than twice your normal size. You can remain in this shape until you take damage.
 
 _Eternal Enervation:_ Once per long rest, make a **Spellcast Roll** against a target within Close range. On a success, they become permanently _Vulnerable_. They can't clear this condition by any means."
 Disintegration Wave,9,Codex,Spell,4,"Make a **Spellcast Roll (18)**. Once per long rest on a success, the GM tells you which adversaries within Far range have a Difficulty of 18 or lower. **Mark a Stress** for each one you wish to hit with this spell. They are killed and can't come back to life by any means."
-Book Of Yarrow,10,Codex,Grimoire,2,"_Timejammer:_ Make a **Spellcast Roll (18)**. On a success, time temporarily slows to a halt for everyone within Far range except for you. It resumes the next time you make an action roll that targets another creature.
+Book of Yarrow,10,Codex,Grimoire,2,"_Timejammer:_ Make a **Spellcast Roll (18)**. On a success, time temporarily slows to a halt for everyone within Far range except for you. It resumes the next time you make an action roll that targets another creature.
 
 _Magic Immunity:_ **Spend 5 Hope** to become immune to magic damage until your next rest."
 Transcendent Union,10,Codex,Spell,1,"Once per long rest, **spend 5 Hope** to cast this spell on two or more willing creatures. Until your next rest, when a creature connected by this union would mark Stress or Hit Points, the connected creatures can choose who marks it."
@@ -221,11 +221,11 @@ Through Your Eyes,4,Grace,Spell,1,Choose a target within Very Far range. You can
 Thought Delver,5,Grace,Spell,2,"You can peek into the minds of others. **Spend a Hope** to read the vague surface thoughts of a target within Far range. Make a **Spellcast Roll** against the target to delve for deeper, more hidden thoughts.
 
 On a roll with Fear, the target might, at the GM's discretion, become aware that you're reading their thoughts."
-Words Of Discord,5,Grace,Spell,1,"Whisper words of discord to an adversary within Melee range and make a **Spellcast Roll (13)**. On a success, the target must mark a Stress and make an attack against another adversary instead of against you or your allies.
+Words of Discord,5,Grace,Spell,1,"Whisper words of discord to an adversary within Melee range and make a **Spellcast Roll (13)**. On a success, the target must mark a Stress and make an attack against another adversary instead of against you or your allies.
 
 Once this attack is over, the target realizes what happened. The next time you cast Words of Discord on them, gain a -5 penalty to the Spellcast Roll."
 Never Upstaged,6,Grace,Ability,2,"When you mark 1 or more Hit Points from an attack, you can **mark a Stress** to place a number of tokens equal to the number of Hit Points you marked on this card. On your next successful attack, gain a +5 bonus to your damage roll for each token on this card, then clear all tokens."
-Share The Burden,6,Grace,Spell,0,"Once per rest, take on the Stress from a willing creature within Melee range. The target describes what intimate knowledge or emotions telepathically leak from their mind in this moment between you. Transfer any number of their marked Stress to you, then gain a Hope for each Stress transferred."
+Share the Burden,6,Grace,Spell,0,"Once per rest, take on the Stress from a willing creature within Melee range. The target describes what intimate knowledge or emotions telepathically leak from their mind in this moment between you. Transfer any number of their marked Stress to you, then gain a Hope for each Stress transferred."
 Endless Charisma,7,Grace,Ability,1,"After you make an action roll to persuade, lie, or garner favor, you can **spend a Hope** to reroll the Hope or Fear Die."
 Grace-touched,7,Grace,Ability,2,"When 4 or more of the domain cards in your loadout are from the Grace domain, gain the following benefits:
 
@@ -236,15 +236,13 @@ Astral Projection,8,Grace,Spell,0,"Once per long rest, **mark a Stress** to crea
 You can see and hear through the projection as though it were you and affect the world as though you were there. A creature investigating the projection can tell it's of magical origin. This effect lasts until your next rest or your projection takes any damage."
 Mass Enrapture,8,Grace,Spell,3,"Make a **Spellcast Roll** against all targets within Far range. Targets you succeed against become temporarily _Enraptured_. While _Enraptured_, a target's attention is fixed on you, narrowing their field of view and drowning out any sound but your voice. **Mark a Stress** to force all _Enraptured_ targets to mark a Stress, ending this spell."
 Copycat,9,Grace,Spell,3,"Once per long rest, this card can mimic the features of another domain card of level 8 or lower in another player's loadout. **Spend Hope equal to half the card's level** to gain access to the feature. It lasts until your next rest or they place the card in their vault."
-Master Of The Craft,9,Grace,Ability,0,Gain a permanent +2 bonus to two of your Experiences or a permanent +3 bonus to one of your Experiences. Then place this card in your vault permanently.
+Master of the Craft,9,Grace,Ability,0,Gain a permanent +2 bonus to two of your Experiences or a permanent +3 bonus to one of your Experiences. Then place this card in your vault permanently.
 Encore,10,Grace,Spell,1,"When an ally within Close range deals damage to an adversary, you can make a **Spellcast Roll** against that same target. On a success, you deal the same damage to the target that your ally dealt. If your Spellcast Roll succeeds with Fear, place this card in your vault."
 Notorious,10,Grace,Ability,0,"People know who you are and what you've done, and they treat you differently because of it. When you leverage your notoriety to get what you want, you can **mark a Stress** before you roll to gain a +10 bonus to the result. Your food and drinks are always free wherever you go, and everything else you buy is reduced in price by one bag of gold (to a minimum of one handful).
 
-This card doesn't count against your loadout's domain card maximum of 5 and can't be placed in your vault.
-
-your vault."
-Pick And Pull,1,Midnight,Ability,0,"You have advantage on action rolls to pick nonmagical locks, disarm nonmagical traps, or steal items from a target (either through stealth or by force)."
-Rain Of Blades,1,Midnight,Spell,1,"**Spend a Hope** to make a **Spellcast Roll** and conjure throwing blades that strike out at all targets within Very Close range. Targets you succeed against take **d8+2** magic damage using your Proficiency.
+This card doesn't count against your loadout's domain card maximum of 5 and can't be placed in your vault."
+Pick and Pull,1,Midnight,Ability,0,"You have advantage on action rolls to pick nonmagical locks, disarm nonmagical traps, or steal items from a target (either through stealth or by force)."
+Rain of Blades,1,Midnight,Spell,1,"**Spend a Hope** to make a **Spellcast Roll** and conjure throwing blades that strike out at all targets within Very Close range. Targets you succeed against take **d8+2** magic damage using your Proficiency.
 
 If a target you hit is _Vulnerable_, they take an extra **1d8** damage."
 Uncanny Disguise,1,Midnight,Spell,0,"When you have a few minutes to prepare, you can **mark a Stress** to don the facade of any humanoid you can picture clearly in your mind. While disguised, you have advantage on Presence Rolls to avoid scrutiny.
@@ -257,11 +255,11 @@ Shadowbind,2,Midnight,Spell,0,Make a **Spellcast Roll** against all adversaries 
 Chokehold,3,Midnight,Ability,1,"When you position yourself behind a creature who's about your size, you can **mark a Stress** to pull them into a chokehold, making them temporarily _Vulnerable_.
 
 When a creature attacks a target who is _Vulnerable_ in this way, they deal an extra **2d6** damage."
-Veil Of Night,3,Midnight,Spell,1,"Make a **Spellcast Roll (13)**. On a success, you can create a temporary curtain of darkness between two points within Far range. Only you can see through this darkness. You're considered _Hidden_ to adversaries on the other side of the veil, and you have advantage on attacks you make through the darkness. The veil remains until you cast another spell."
+Veil of Night,3,Midnight,Spell,1,"Make a **Spellcast Roll (13)**. On a success, you can create a temporary curtain of darkness between two points within Far range. Only you can see through this darkness. You're considered _Hidden_ to adversaries on the other side of the veil, and you have advantage on attacks you make through the darkness. The veil remains until you cast another spell."
 Stealth Expertise,4,Midnight,Ability,0,"When you roll with Fear while attempting to move unnoticed through a dangerous area, you can **mark a Stress** to roll with Hope instead.
 
 If an ally within Close range is also attempting to move unnoticed and rolls with Fear, you can **mark a Stress** to change their result to a roll with Hope."
-Glyph Of Nightfall,4,Midnight,Spell,1,"Make a **Spellcast Roll** against a target within Very Close range. On a success, **spend a Hope** to conjure a dark glyph upon their body that exposes their weak points, temporarily reducing the target's Difficulty by a value equal to your Knowledge (minimum 1)."
+Glyph of Nightfall,4,Midnight,Spell,1,"Make a **Spellcast Roll** against a target within Very Close range. On a success, **spend a Hope** to conjure a dark glyph upon their body that exposes their weak points, temporarily reducing the target's Difficulty by a value equal to your Knowledge (minimum 1)."
 Hush,5,Midnight,Spell,1,"Make a **Spellcast Roll** against a target within Close range. On a success, **spend a Hope** to conjure suppressive magic around the target that encompasses everything within Very Close range of them and follows them as they move.
 
 The target and anything within the area is _Silenced_ until the GM spends a Fear on their turn to clear this condition, you cast Hush again, or you take Major damage. While _Silenced_, they can't make noise and can't cast spells."
@@ -293,10 +291,8 @@ Eclipse,10,Midnight,Spell,2,"Make a **Spellcast Roll (16)**. Once per long rest 
 Additionally, when you or an ally succeeds with Hope against an adversary within this shadow, the target must mark a Stress.
 
 This spell lasts until the GM spends a Fear on their turn to clear this effect or you take Severe damage."
-Specter Of The Dark,10,Midnight,Spell,1,"**Mark a Stress** to become _Spectral_ until you make an action roll targeting another creature. While _Spectral_, you're immune to physical damage and can float and pass through solid objects. Other creatures can still see you while you're in this form."
-Gifted Tracker,1,Sage,Ability,0,"When you're tracking a specific creature or group of creatures based
-
-on signs of their passage, you can **spend any number of Hope** and ask the GM that many questions from the following list.
+Specter of the Dark,10,Midnight,Spell,1,"**Mark a Stress** to become _Spectral_ until you make an action roll targeting another creature. While _Spectral_, you're immune to physical damage and can float and pass through solid objects. Other creatures can still see you while you're in this form."
+Gifted Tracker,1,Sage,Ability,0,"When you're tracking a specific creature or group of creatures based on signs of their passage, you can **spend any number of Hope** and ask the GM that many questions from the following list.
 
 - What direction did they go?
 - How long ago did they pass through?
@@ -361,7 +357,7 @@ A sprite vanishes after granting a benefit or taking any damage."
 Rejuvenation Barrier,8,Sage,Spell,1,"Make a **Spellcast Roll (15)**. Once per rest on a success, create a temporary barrier of protective energy around you at Very Close range. You and all allies within the barrier when this spell is cast clear **1d4** Hit Points. While the barrier is up, you and all allies within have resistance to physical damage from outside the barrier.
 
 When you move, the barrier follows you."
-Fane Of The Wilds,9,Sage,Ability,2,"After a long rest, place a number of tokens equal to the number of Sage domain cards in your loadout and vault on this card.
+Fane of the Wilds,9,Sage,Ability,2,"After a long rest, place a number of tokens equal to the number of Sage domain cards in your loadout and vault on this card.
 
 When you would make a Spellcast Roll, you can spend any number of tokens after the roll to gain a +1 bonus for each token spent.
 
@@ -369,7 +365,7 @@ When you critically succeed on a Spellcast Roll for a Sage domain spell, gain a 
 
 When you take a long rest, clear all unspent tokens."
 Plant Dominion,9,Sage,Spell,1,"Make a **Spellcast Roll (18)**. Once per long rest on a success, you reshape the natural world, changing the surrounding plant life anywhere within Far range of you. For example, you can grow trees instantly, clear a path through dense vines, or create a wall of roots."
-Force Of Nature,10,Sage,Spell,2,"**Mark a Stress** to transform into a hulking nature spirit, gaining the following benefits:
+Force of Nature,10,Sage,Spell,2,"**Mark a Stress** to transform into a hulking nature spirit, gaining the following benefits:
 
 - When you succeed on an attack or Spellcast Roll, gain a +10 bonus to the damage roll.
 - When you deal enough damage to defeat a creature within Close range, you absorb them and clear an Armor Slot.
@@ -389,21 +385,23 @@ Reassurance,1,Splendor,Ability,0,"Once per rest, after an ally attempts an actio
 Final Words,2,Splendor,Spell,1,"You can infuse a corpse with a moment of life to speak with it. Make a **Spellcast Roll (13)**. On a success with Hope, the corpse answers up to three questions. On a success with Fear, the corpse answers one question. The corpse answers truthfully, but it can't impart information it didn't know in life. On a failure, or once the corpse has finished answering your questions, the body turns to dust."
 Healing Hands,2,Splendor,Spell,1,"Make a **Spellcast Roll (13)** and target a creature other than yourself within Melee range. On a success, **mark a Stress** to clear 2 Hit Points or 2 Stress on the target. On a failure, **mark a Stress** to clear a Hit Point or a Stress on the target. You can't heal the same target again until your next long rest."
 Second Wind,3,Splendor,Ability,2,"Once per rest, when you succeed on an attack against an adversary, you can clear 3 Stress or a Hit Point. On a success with Hope, you also clear 3 Stress or a Hit Point on an ally within Close range of you."
-Voice Of Reason,3,Splendor,Ability,1,"You speak with an unmatched power and authority. You have advantage on action rolls to de-escalate violent situations or convince someone to follow your lead.
+Voice of Reason,3,Splendor,Ability,1,"You speak with an unmatched power and authority. You have advantage on action rolls to de-escalate violent situations or convince someone to follow your lead.
 
 Additionally, you're emboldened in moments of duress. When all of your Stress slots are marked, you gain a +1 bonus to your Proficiency for damage rolls."
 Divination,4,Splendor,Spell,1,"Once per long rest, **spend 3 Hope** to reach out to the forces beyond and ask one ""yes or no"" question about an event, person, place, or situation in the near future. For a moment, the present falls away and you see the answer before you."
 Life Ward,4,Splendor,Spell,1,"**Spend 3 Hope** and choose an ally within Close range. They are marked with a glowing sigil of protection. When this ally would make a death move, they clear a Hit Point instead.
 
 This effect ends when it saves the target from a death move, you cast Life Ward on another target, or you take a long rest."
-Shape Material,5,Splendor,Spell,1,"**Spend a Hope** to shape a section of natural material you're touching (such as stone, ice, or wood) to suit your purpose. The area of the material can be no larger than you. For example, you can form a rudimentary tool or create a door. You can only affect the material within Close range of where you're touching it."
+Shape Material,5,Splendor,Spell,1,"**Spend a Hope** to shape a section of natural material you're touching (such as stone, ice, or wood) to suit your purpose. The area of the material can be no larger than you. For example, you can form a rudimentary tool or create a door.
+
+You can only affect the material within Close range of where you're touching it."
 Smite,5,Splendor,Spell,2,"Once per rest, **spend 3 Hope** to charge your powerful smite. When you next successfully attack with a weapon, double the result of your damage roll. This attack deals magic damage regardless of the weapon's damage type."
 Restoration,6,Splendor,Spell,2,"After a long rest, place a number of tokens equal to your Spellcast trait on this card. Touch a creature and spend any number of tokens to clear 2 Hit Points or 2 Stress for each token spent.
 
 You can also spend a token from this card when touching a creature to clear the _Vulnerable_ condition or heal a physical or magical ailment (the GM might require additional tokens depending on the strength of the ailment).
 
 When you take a long rest, clear all unspent tokens."
-Zone Of Protection,6,Splendor,Spell,2,"Make a **Spellcast Roll (16)**. Once per long rest on a success, choose a point within Far range and create a visible zone of protection there for all allies within Very Close range of that point. When you do, place a **d6** on this card with the 1 value facing up. When an ally in this zone takes damage, they reduce it by the die's value. You then increase the die's value by one. When the die's value would exceed 6, this effect ends."
+Zone of Protection,6,Splendor,Spell,2,"Make a **Spellcast Roll (16)**. Once per long rest on a success, choose a point within Far range and create a visible zone of protection there for all allies within Very Close range of that point. When you do, place a **d6** on this card with the 1 value facing up. When an ally in this zone takes damage, they reduce it by the die's value. You then increase the die's value by one. When the die's value would exceed 6, this effect ends."
 Healing Strike,7,Splendor,Spell,1,"When you deal damage to an adversary, you can **spend 2 Hope** to clear a Hit Point on an ally within Close range."
 Splendor-touched,7,Splendor,Ability,2,"When 4 or more of the domain cards in your loadout are from the Splendor domain, gain the following benefits:
 
@@ -438,8 +436,8 @@ Bold Presence,2,Valor,Ability,0,"When you make a Presence Roll, you can **spend 
 
 Additionally, once per rest when you would gain a condition, you can describe how your bold presence aids you in the situation and avoid gaining the condition."
 Critical Inspiration,3,Valor,Ability,1,"Once per rest, when you critically succeed on an attack, all allies within Very Close range can clear a Stress or gain a Hope."
-Lean On Me,3,Valor,Ability,1,"Once per long rest, when you console or inspire an ally who failed an action roll, you can both clear 2 Stress."
-Goad Them On,4,Valor,Ability,1,"Describe how you taunt a target within Close range, then make a **Presence Roll** against them. On a success, the target must mark a Stress, and the next time the GM spotlights them, they must target you with an attack, which they make with disadvantage."
+Lean on Me,3,Valor,Ability,1,"Once per long rest, when you console or inspire an ally who failed an action roll, you can both clear 2 Stress."
+Goad Them on,4,Valor,Ability,1,"Describe how you taunt a target within Close range, then make a **Presence Roll** against them. On a success, the target must mark a Stress, and the next time the GM spotlights them, they must target you with an attack, which they make with disadvantage."
 Support Tank,4,Valor,Ability,2,"When an ally within Close range fails a roll, you can **spend 2 Hope** to allow them to reroll either their Hope or Fear Die."
 Armorer,5,Valor,Ability,1,"While you're wearing armor, gain a +1 bonus to your Armor Score.
 
@@ -456,9 +454,9 @@ Valor-touched,7,Valor,Ability,1,"When 4 or more of the domain cards in your load
 - When you mark 1 or more Hit Points without marking an Armor Slot, clear an Armor Slot."
 Full Surge,8,Valor,Ability,1,"Once per long rest, **mark 3 Stress** to push your body to its limits. Gain a +2 bonus to all of your character traits until your next rest."
 Ground Pound,8,Valor,Ability,2,**Spend 2 Hope** to strike the ground where you stand and make a **Strength Roll** against all targets within Very Close range. Targets you succeed against are thrown back to Far range and must make a Reaction Roll (17). Targets who fail take **4d10+8** damage. Targets who succeed take half damage.
-Hold The Line,9,Valor,Ability,1,"Describe the defensive stance you take and **spend a Hope**. If an adversary moves within Very Close range, they're pulled into Melee range and _Restrained_.
+Hold the Line,9,Valor,Ability,1,"Describe the defensive stance you take and **spend a Hope**. If an adversary moves within Very Close range, they're pulled into Melee range and _Restrained_.
 
 This condition lasts until you move or fail a roll with Fear, or the GM spends 2 Fear on their turn to clear it."
-Lead By Example,9,Valor,Ability,3,"When you deal damage to an adversary, you can **mark a Stress** and describe how you encourage your allies. The next PC to make an attack against that adversary can clear a Stress or gain a Hope."
+Lead by Example,9,Valor,Ability,3,"When you deal damage to an adversary, you can **mark a Stress** and describe how you encourage your allies. The next PC to make an attack against that adversary can clear a Stress or gain a Hope."
 Unbreakable,10,Valor,Ability,4,"When you mark your last Hit Point, instead of making a death move, you can roll a **d6** and clear a number of Hit Points equal to the result. Then place this card in your vault."
 Unyielding Armor,10,Valor,Ability,1,"When you would mark an Armor Slot, roll a number of **d6s** equal to your Proficiency. If any roll a 6, reduce the severity by one threshold without marking an Armor Slot."

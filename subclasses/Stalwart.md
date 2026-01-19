@@ -1,21 +1,21 @@
-﻿# STALWART
+# STALWART
 
 Play the Stalwart if you want to take heavy blows and keep fighting.
 
 ## FOUNDATION FEATURES
 
-***Unwavering:*** Gain a permanent +1 bonus to your damage thresholds.
+**_Unwavering:_** Gain a permanent +1 bonus to your damage thresholds.
 
-***Iron Will:*** When you take physical damage, you can mark an additional Armor Slot to reduce the severity.
+**_Iron Will:_** When you take physical damage, you can **mark an additional Armor Slot** to reduce the severity.
 
 ## SPECIALIZATION FEATURES
 
-***Unrelenting:*** Gain a permanent +2 bonus to your damage thresholds.
+**_Unrelenting:_** Gain a permanent +2 bonus to your damage thresholds.
 
-***Partners-in-Arms:*** When an ally within Very Close range takes damage, you can mark an Armor Slot to reduce the severity by one threshold.
+**_Partners-in-Arms:_** When an ally within Very Close range takes damage, you can **mark an Armor Slot** to reduce the severity by one threshold.
 
 ## MASTERY FEATURES
 
-***Undaunted:*** Gain a permanent +3 bonus to your damage thresholds.
+**_Undaunted:_** Gain a permanent +3 bonus to your damage thresholds.
 
-***Loyal Protector:*** When an ally within Close range has 2 or fewer Hit Points and would take damage, you can mark a Stress to sprint to their side and take the damage instead.
+**_Loyal Protector:_** When an ally within Close range has 2 or fewer Hit Points and would take damage, you can **mark a Stress** to sprint to their side and take the damage instead.

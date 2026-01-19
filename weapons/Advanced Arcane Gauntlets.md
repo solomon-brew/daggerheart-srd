@@ -1,7 +1,7 @@
-﻿# ADVANCED ARCANE GAUNTLETS
+# ADVANCED ARCANE GAUNTLETS
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+9 mag; **Burden:** Two-Handed
 
 **Feature:** —
 
-*Primary Weapon - Tier 3*
+_Primary Magical Weapon - Tier 3_

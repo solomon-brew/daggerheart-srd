@@ -1,5 +1,5 @@
-﻿# BOLSTER POTION
+# BOLSTER POTION
 
 You gain a +1 bonus to your next Strength Roll.
 
-*Consumable*
+_Consumable_

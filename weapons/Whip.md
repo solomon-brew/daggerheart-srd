@@ -1,7 +1,7 @@
-﻿# WHIP
+# WHIP
 
 **Trait:** Presence; **Range:** Very Close; **Damage:** d6 phy; **Burden:** One-Handed
 
-**Feature:** ***Startling:*** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
+**Feature:** **_Startling:_** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
 
-*Secondary Weapon - Tier 1*
+_Secondary Physical Weapon - Tier 1_

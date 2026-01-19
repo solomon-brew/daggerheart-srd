@@ -1,7 +1,7 @@
-﻿# ADVANCED GLOWING RINGS
+# ADVANCED GLOWING RINGS
 
 **Trait:** Agility; **Range:** Very Close; **Damage:** d10+8 mag; **Burden:** Two-Handed
 
 **Feature:** —
 
-*Primary Weapon - Tier 3*
+_Primary Magical Weapon - Tier 3_

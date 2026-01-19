@@ -1,6 +1,6 @@
-﻿# GORE AND GLORY
+# GORE AND GLORY
 
-> **Level 9 Blade Ability**  
+> **Level 9 Blade Ability**
 > **Recall Cost:** 2
 
 When you critically succeed on a weapon attack, gain an additional Hope or clear an additional Stress.

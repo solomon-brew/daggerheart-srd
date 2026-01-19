@@ -1,5 +1,5 @@
-﻿# PREMIUM BEDROLL
+# PREMIUM BEDROLL
 
 During downtime, you automatically clear a Stress.
 
-*Item*
+_Item_

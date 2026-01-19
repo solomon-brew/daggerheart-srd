@@ -1,7 +1,7 @@
-﻿# SLEDGE AXE
+# SLEDGE AXE
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d12+13 phy; **Burden:** Two-Handed
 
-**Feature:** ***Destructive:*** -1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress.
+**Feature:** **_Destructive:_** -1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress.
 
-*Primary Weapon - Tier 4*
+_Primary Physical Weapon - Tier 4_

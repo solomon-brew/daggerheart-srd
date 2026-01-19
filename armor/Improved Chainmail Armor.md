@@ -1,7 +1,7 @@
-﻿# IMPROVED CHAINMAIL ARMOR
+# IMPROVED CHAINMAIL ARMOR
 
-**Base Thresholds:** 11 / 24; **Base Score:** 5
+> **Base Thresholds:** 11 / 24 | **Base Score:** 5
 
-**Feature:** ***Heavy:*** -1 to Evasion
+**Feature:** **_Heavy:_** -1 to Evasion
 
-*Armor - Tier 2*
+_Armor - Tier 2_

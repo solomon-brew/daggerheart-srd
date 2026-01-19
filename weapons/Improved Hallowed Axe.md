@@ -1,7 +1,7 @@
-﻿# IMPROVED HALLOWED AXE
+# IMPROVED HALLOWED AXE
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d8+4 mag; **Burden:** One-Handed
 
 **Feature:** —
 
-*Primary Weapon - Tier 2*
+_Primary Magical Weapon - Tier 2_

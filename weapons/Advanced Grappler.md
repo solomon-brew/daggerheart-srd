@@ -1,7 +1,7 @@
-﻿# ADVANCED GRAPPLER
+# ADVANCED GRAPPLER
 
 **Trait:** Finesse; **Range:** Close; **Damage:** d6+4 phy; **Burden:** One-Handed
 
-**Feature:** ***Hooked:*** On a successful attack, you can pull the target into Melee range.
+**Feature:** **_Hooked:_** On a successful attack, you can pull the target into Melee range.
 
-*Secondary Weapon - Tier 3*
+_Secondary Physical Weapon - Tier 3_

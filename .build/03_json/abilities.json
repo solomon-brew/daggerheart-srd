@@ -306,7 +306,7 @@
   {
     "domain": "Blade",
     "level": "9",
-    "name": "Gore And Glory",
+    "name": "Gore and Glory",
     "recall": "2",
     "text": "When you critically succeed on a weapon attack, gain an additional Hope or clear an additional Stress.\n\nAdditionally, when you deal enough damage to defeat an enemy, gain a Hope or clear a Stress.",
     "type": "Ability"
@@ -474,7 +474,7 @@
   {
     "domain": "Bone",
     "level": "9",
-    "name": "On The Brink",
+    "name": "On the Brink",
     "recall": "1",
     "text": "When you have 2 or fewer Hit Points unmarked, you don't take Minor damage.",
     "type": "Ability"
@@ -506,7 +506,7 @@
   {
     "domain": "Codex",
     "level": "1",
-    "name": "Book Of Ava",
+    "name": "Book of Ava",
     "recall": "2",
     "text": "_Power Push:_ Make a **Spellcast Roll** against a target within Melee range. On a success, they're knocked back to Far range and take **d10+2** magic damage using your Proficiency.\n\n_Tava's Armor:_ **Spend a Hope** to give a target you can touch a +1 bonus to their Armor Score until their next rest or you cast Tava's Armor again.\n\n_Ice Spike:_ Make a **Spellcast Roll (12)** to summon a large ice spike within Far range. If you use it as a weapon, make the Spellcast Roll against the target's Difficulty instead. On a success, deal **d6** physical damage using your Proficiency.",
     "type": "Grimoire"
@@ -514,7 +514,7 @@
   {
     "domain": "Codex",
     "level": "1",
-    "name": "Book Of Illiat",
+    "name": "Book of Illiat",
     "recall": "2",
     "text": "_Slumber:_ Make a **Spellcast Roll** against a target within Very Close range. On a success, they're _Asleep_ until they take damage or the GM spends a Fear on their turn to clear this condition.\n\n_Arcane Barrage:_ Once per rest, **spend any number of Hope** and shoot magical projectiles that strike a target of your choice within Close range. Roll a number of **d6s** equal to the Hope spent and deal that much magic damage to the target.\n\n_Telepathy:_ **Spend a Hope** to open a line of mental communication with one target you can see. This connection lasts until your next rest or you cast Telepathy again.",
     "type": "Grimoire"
@@ -522,7 +522,7 @@
   {
     "domain": "Codex",
     "level": "1",
-    "name": "Book Of Tyfar",
+    "name": "Book of Tyfar",
     "recall": "2",
     "text": "_Wild Flame:_ Make a **Spellcast Roll** against up to three adversaries within Melee range. Targets you succeed against take **2d6** magic damage and must mark a Stress as flames erupt from your hand.\n\n_Magic Hand:_ You conjure a magical hand with the same size and strength as your own within Far range.\n\n_Mysterious Mist:_ Make a **Spellcast Roll (13)** to cast a temporary thick fog that gathers in a stationary area within Very Close range. The fog heavily obscures this area and everything in it.",
     "type": "Grimoire"
@@ -530,7 +530,7 @@
   {
     "domain": "Codex",
     "level": "2",
-    "name": "Book Of Sitil",
+    "name": "Book of Sitil",
     "recall": "2",
     "text": "_Adjust Appearance:_ You magically shift your appearance and clothing to avoid recognition.\n\n_Parallela:_ **Spend 2 Hope** to cast this spell on yourself or an ally within Close range. The next time the target makes an attack, they can hit an additional target within range that their attack roll would succeed against. You can only hold this spell on one creature at a time.\n\n_Illusion:_ Make a **Spellcast Roll (14)**. On a success, create a temporary visual illusion no larger than you within Close range that lasts for as long as you look at it. It holds up to scrutiny until an observer is within Melee range.",
     "type": "Grimoire"
@@ -538,7 +538,7 @@
   {
     "domain": "Codex",
     "level": "2",
-    "name": "Book Of Vagras",
+    "name": "Book of Vagras",
     "recall": "2",
     "text": "_Runic Lock:_ Make a **Spellcast Roll (15)** on an object you're touching that can close (such as a lock, chest, or box). Once per rest on a success, you can lock the object so it can only be opened by creatures of your choice. Someone with access to magic and an hour of time to study the spell can break it.\n\n_Arcane Door:_ When you have no adversaries within Melee range, make a **Spellcast Roll (13)**. On a success, **spend a Hope** to create a portal from where you are to a point within Far range you can see. It closes once a creature has passed through it.\n\n_Reveal:_ Make a **Spellcast Roll**. If there is anything magically hidden within Close range, it is revealed.",
     "type": "Grimoire"
@@ -546,7 +546,7 @@
   {
     "domain": "Codex",
     "level": "3",
-    "name": "Book Of Korvax",
+    "name": "Book of Korvax",
     "recall": "2",
     "text": "_Levitation:_ Make a **Spellcast Roll** to temporarily lift a target you can see up into the air and move them within Close range of their original position.\n\n_Recant:_ **Spend a Hope** to force a target within Melee range to make a Reaction Roll (15). On a failure, they forget the last minute of your conversation.\n\n_Rune Circle:_ **Mark a Stress** to create a temporary magical circle on the ground where you stand. All adversaries within Melee range, or who enter Melee range, take **2d12+4** magic damage and are knocked back to Very Close range.",
     "type": "Grimoire"
@@ -554,7 +554,7 @@
   {
     "domain": "Codex",
     "level": "3",
-    "name": "Book Of Norai",
+    "name": "Book of Norai",
     "recall": "2",
     "text": "_Mystic Tether:_ Make a **Spellcast Roll** against a target within Far range. On a success, they're temporarily _Restrained_ and must mark a Stress. If you target a flying creature, this spell grounds and temporarily _Restrains_ them.\n\n_Fireball:_ Make a **Spellcast Roll** against a target within Very Far range. On a success, hurl a sphere of fire toward them that explodes on impact. The target and all creatures within Very Close range of them must make a Reaction Roll (13). Targets who fail take **d20+5** magic damage using your Proficiency. Targets who succeed take half damage.",
     "type": "Grimoire"
@@ -562,7 +562,7 @@
   {
     "domain": "Codex",
     "level": "4",
-    "name": "Book Of Exota",
+    "name": "Book of Exota",
     "recall": "3",
     "text": "_Repudiate:_ You can interrupt a magical effect taking place. Make a reaction roll using your Spellcast trait. Once per rest on a success, the effect stops and any consequences are avoided.\n\n_Create Construct:_ **Spend a Hope** to choose a group of objects around you and create an animated construct from them that obeys basic commands. Make a **Spellcast Roll** to command them to take action. When necessary, they share your Evasion and traits and their attacks deal **2d10+3** physical damage. You can only maintain one construct at a time, and they fall apart when they take any amount of damage.",
     "type": "Grimoire"
@@ -570,7 +570,7 @@
   {
     "domain": "Codex",
     "level": "4",
-    "name": "Book Of Grynn",
+    "name": "Book of Grynn",
     "recall": "2",
     "text": "_Arcane Deflection:_ Once per long rest, **spend a Hope** to negate the damage of an attack targeting you or an ally within Very Close range.\n\n_Time Lock:_ Target an object within Far range. That object stops in time and space exactly where it is until your next rest. If a creature tries to move it, make a **Spellcast Roll** against them to maintain this spell.\n\n_Wall of Flame:_ Make a **Spellcast Roll (15)**. On a success, create a temporary wall of magical flame between two points within Far range. All creatures in its path must choose a side to be on, and anything that subsequently passes through the wall takes **4d10+3** magic damage.",
     "type": "Grimoire"
@@ -602,7 +602,7 @@
   {
     "domain": "Codex",
     "level": "6",
-    "name": "Sigil Of Retribution",
+    "name": "Sigil of Retribution",
     "recall": "2",
     "text": "Mark an adversary within Close range with a sigil of retribution. The GM gains a Fear. When the marked adversary deals damage to you or your allies, place a **d8** on this card. You can hold a number of **d8s** equal to your level. When you successfully attack the marked adversary, roll the dice on this card and add the total to your damage roll, then clear the dice. This effect ends when the marked adversary is defeated or you cast Sigil of Retribution again.",
     "type": "Spell"
@@ -610,7 +610,7 @@
   {
     "domain": "Codex",
     "level": "7",
-    "name": "Book Of Homet",
+    "name": "Book of Homet",
     "recall": "0",
     "text": "_Pass Through:_ Make a **Spellcast Roll (13)**. Once per rest on a success, you and all creatures touching you can pass through a wall or door within Close range. The effect ends once everyone is on the other side.\n\n_Plane Gate:_ Make a **Spellcast Roll (14)**. Once per long rest on a success, open a gateway to a location in another dimension or plane of existence you've been to before. This gateway lasts until your next rest.",
     "type": "Grimoire"
@@ -626,7 +626,7 @@
   {
     "domain": "Codex",
     "level": "8",
-    "name": "Book Of Vyola",
+    "name": "Book of Vyola",
     "recall": "2",
     "text": "_Memory Delve:_ Make a **Spellcast Roll** against a target within Far range. On a success, peer into the target's mind and ask the GM a question. The GM describes any memories the target has pertaining to the answer.\n\n_Shared Clarity:_ Once per long rest, **spend a Hope** to choose two willing creatures. When one of them would mark Stress, they can choose between the two of them who marks it. This spell lasts until their next rest.",
     "type": "Grimoire"
@@ -642,7 +642,7 @@
   {
     "domain": "Codex",
     "level": "9",
-    "name": "Book Of Ronin",
+    "name": "Book of Ronin",
     "recall": "4",
     "text": "_Transform:_ Make a **Spellcast Roll (15)**. On a success, transform into an inanimate object no larger than twice your normal size. You can remain in this shape until you take damage.\n\n_Eternal Enervation:_ Once per long rest, make a **Spellcast Roll** against a target within Close range. On a success, they become permanently _Vulnerable_. They can't clear this condition by any means.",
     "type": "Grimoire"
@@ -658,7 +658,7 @@
   {
     "domain": "Codex",
     "level": "10",
-    "name": "Book Of Yarrow",
+    "name": "Book of Yarrow",
     "recall": "2",
     "text": "_Timejammer:_ Make a **Spellcast Roll (18)**. On a success, time temporarily slows to a halt for everyone within Far range except for you. It resumes the next time you make an action roll that targets another creature.\n\n_Magic Immunity:_ **Spend 5 Hope** to become immune to magic damage until your next rest.",
     "type": "Grimoire"
@@ -754,7 +754,7 @@
   {
     "domain": "Grace",
     "level": "5",
-    "name": "Words Of Discord",
+    "name": "Words of Discord",
     "recall": "1",
     "text": "Whisper words of discord to an adversary within Melee range and make a **Spellcast Roll (13)**. On a success, the target must mark a Stress and make an attack against another adversary instead of against you or your allies.\n\nOnce this attack is over, the target realizes what happened. The next time you cast Words of Discord on them, gain a -5 penalty to the Spellcast Roll.",
     "type": "Spell"
@@ -770,7 +770,7 @@
   {
     "domain": "Grace",
     "level": "6",
-    "name": "Share The Burden",
+    "name": "Share the Burden",
     "recall": "0",
     "text": "Once per rest, take on the Stress from a willing creature within Melee range. The target describes what intimate knowledge or emotions telepathically leak from their mind in this moment between you. Transfer any number of their marked Stress to you, then gain a Hope for each Stress transferred.",
     "type": "Spell"
@@ -818,7 +818,7 @@
   {
     "domain": "Grace",
     "level": "9",
-    "name": "Master Of The Craft",
+    "name": "Master of the Craft",
     "recall": "0",
     "text": "Gain a permanent +2 bonus to two of your Experiences or a permanent +3 bonus to one of your Experiences. Then place this card in your vault permanently.",
     "type": "Ability"
@@ -836,13 +836,13 @@
     "level": "10",
     "name": "Notorious",
     "recall": "0",
-    "text": "People know who you are and what you've done, and they treat you differently because of it. When you leverage your notoriety to get what you want, you can **mark a Stress** before you roll to gain a +10 bonus to the result. Your food and drinks are always free wherever you go, and everything else you buy is reduced in price by one bag of gold (to a minimum of one handful).\n\nThis card doesn't count against your loadout's domain card maximum of 5 and can't be placed in your vault.\n\nyour vault.",
+    "text": "People know who you are and what you've done, and they treat you differently because of it. When you leverage your notoriety to get what you want, you can **mark a Stress** before you roll to gain a +10 bonus to the result. Your food and drinks are always free wherever you go, and everything else you buy is reduced in price by one bag of gold (to a minimum of one handful).\n\nThis card doesn't count against your loadout's domain card maximum of 5 and can't be placed in your vault.",
     "type": "Ability"
   },
   {
     "domain": "Midnight",
     "level": "1",
-    "name": "Pick And Pull",
+    "name": "Pick and Pull",
     "recall": "0",
     "text": "You have advantage on action rolls to pick nonmagical locks, disarm nonmagical traps, or steal items from a target (either through stealth or by force).",
     "type": "Ability"
@@ -850,7 +850,7 @@
   {
     "domain": "Midnight",
     "level": "1",
-    "name": "Rain Of Blades",
+    "name": "Rain of Blades",
     "recall": "1",
     "text": "**Spend a Hope** to make a **Spellcast Roll** and conjure throwing blades that strike out at all targets within Very Close range. Targets you succeed against take **d8+2** magic damage using your Proficiency.\n\nIf a target you hit is _Vulnerable_, they take an extra **1d8** damage.",
     "type": "Spell"
@@ -890,7 +890,7 @@
   {
     "domain": "Midnight",
     "level": "3",
-    "name": "Veil Of Night",
+    "name": "Veil of Night",
     "recall": "1",
     "text": "Make a **Spellcast Roll (13)**. On a success, you can create a temporary curtain of darkness between two points within Far range. Only you can see through this darkness. You're considered _Hidden_ to adversaries on the other side of the veil, and you have advantage on attacks you make through the darkness. The veil remains until you cast another spell.",
     "type": "Spell"
@@ -906,7 +906,7 @@
   {
     "domain": "Midnight",
     "level": "4",
-    "name": "Glyph Of Nightfall",
+    "name": "Glyph of Nightfall",
     "recall": "1",
     "text": "Make a **Spellcast Roll** against a target within Very Close range. On a success, **spend a Hope** to conjure a dark glyph upon their body that exposes their weak points, temporarily reducing the target's Difficulty by a value equal to your Knowledge (minimum 1).",
     "type": "Spell"
@@ -1002,7 +1002,7 @@
   {
     "domain": "Midnight",
     "level": "10",
-    "name": "Specter Of The Dark",
+    "name": "Specter of the Dark",
     "recall": "1",
     "text": "**Mark a Stress** to become _Spectral_ until you make an action roll targeting another creature. While _Spectral_, you're immune to physical damage and can float and pass through solid objects. Other creatures can still see you while you're in this form.",
     "type": "Spell"
@@ -1012,7 +1012,7 @@
     "level": "1",
     "name": "Gifted Tracker",
     "recall": "0",
-    "text": "When you're tracking a specific creature or group of creatures based\n\non signs of their passage, you can **spend any number of Hope** and ask the GM that many questions from the following list.\n\n- What direction did they go?\n- How long ago did they pass through?\n- What were they doing in this location?\n- How many of them were here?\n\nWhen you encounter creatures you've tracked in this way, gain a +1 bonus to your Evasion against them.",
+    "text": "When you're tracking a specific creature or group of creatures based on signs of their passage, you can **spend any number of Hope** and ask the GM that many questions from the following list.\n\n- What direction did they go?\n- How long ago did they pass through?\n- What were they doing in this location?\n- How many of them were here?\n\nWhen you encounter creatures you've tracked in this way, gain a +1 bonus to your Evasion against them.",
     "type": "Ability"
   },
   {
@@ -1146,7 +1146,7 @@
   {
     "domain": "Sage",
     "level": "9",
-    "name": "Fane Of The Wilds",
+    "name": "Fane of the Wilds",
     "recall": "2",
     "text": "After a long rest, place a number of tokens equal to the number of Sage domain cards in your loadout and vault on this card.\n\nWhen you would make a Spellcast Roll, you can spend any number of tokens after the roll to gain a +1 bonus for each token spent.\n\nWhen you critically succeed on a Spellcast Roll for a Sage domain spell, gain a token.\n\nWhen you take a long rest, clear all unspent tokens.",
     "type": "Ability"
@@ -1162,7 +1162,7 @@
   {
     "domain": "Sage",
     "level": "10",
-    "name": "Force Of Nature",
+    "name": "Force of Nature",
     "recall": "2",
     "text": "**Mark a Stress** to transform into a hulking nature spirit, gaining the following benefits:\n\n- When you succeed on an attack or Spellcast Roll, gain a +10 bonus to the damage roll.\n- When you deal enough damage to defeat a creature within Close range, you absorb them and clear an Armor Slot.\n- You can't be _Restrained_.\n\nBefore you make an action roll, you must **spend a Hope**. If you can't, you revert to your normal form.",
     "type": "Spell"
@@ -1226,7 +1226,7 @@
   {
     "domain": "Splendor",
     "level": "3",
-    "name": "Voice Of Reason",
+    "name": "Voice of Reason",
     "recall": "1",
     "text": "You speak with an unmatched power and authority. You have advantage on action rolls to de-escalate violent situations or convince someone to follow your lead.\n\nAdditionally, you're emboldened in moments of duress. When all of your Stress slots are marked, you gain a +1 bonus to your Proficiency for damage rolls.",
     "type": "Ability"
@@ -1252,7 +1252,7 @@
     "level": "5",
     "name": "Shape Material",
     "recall": "1",
-    "text": "**Spend a Hope** to shape a section of natural material you're touching (such as stone, ice, or wood) to suit your purpose. The area of the material can be no larger than you. For example, you can form a rudimentary tool or create a door. You can only affect the material within Close range of where you're touching it.",
+    "text": "**Spend a Hope** to shape a section of natural material you're touching (such as stone, ice, or wood) to suit your purpose. The area of the material can be no larger than you. For example, you can form a rudimentary tool or create a door.\n\nYou can only affect the material within Close range of where you're touching it.",
     "type": "Spell"
   },
   {
@@ -1274,7 +1274,7 @@
   {
     "domain": "Splendor",
     "level": "6",
-    "name": "Zone Of Protection",
+    "name": "Zone of Protection",
     "recall": "2",
     "text": "Make a **Spellcast Roll (16)**. Once per long rest on a success, choose a point within Far range and create a visible zone of protection there for all allies within Very Close range of that point. When you do, place a **d6** on this card with the 1 value facing up. When an ally in this zone takes damage, they reduce it by the die's value. You then increase the die's value by one. When the die's value would exceed 6, this effect ends.",
     "type": "Spell"
@@ -1394,7 +1394,7 @@
   {
     "domain": "Valor",
     "level": "3",
-    "name": "Lean On Me",
+    "name": "Lean on Me",
     "recall": "1",
     "text": "Once per long rest, when you console or inspire an ally who failed an action roll, you can both clear 2 Stress.",
     "type": "Ability"
@@ -1402,7 +1402,7 @@
   {
     "domain": "Valor",
     "level": "4",
-    "name": "Goad Them On",
+    "name": "Goad Them on",
     "recall": "1",
     "text": "Describe how you taunt a target within Close range, then make a **Presence Roll** against them. On a success, the target must mark a Stress, and the next time the GM spotlights them, they must target you with an attack, which they make with disadvantage.",
     "type": "Ability"
@@ -1482,7 +1482,7 @@
   {
     "domain": "Valor",
     "level": "9",
-    "name": "Hold The Line",
+    "name": "Hold the Line",
     "recall": "1",
     "text": "Describe the defensive stance you take and **spend a Hope**. If an adversary moves within Very Close range, they're pulled into Melee range and _Restrained_.\n\nThis condition lasts until you move or fail a roll with Fear, or the GM spends 2 Fear on their turn to clear it.",
     "type": "Ability"
@@ -1490,7 +1490,7 @@
   {
     "domain": "Valor",
     "level": "9",
-    "name": "Lead By Example",
+    "name": "Lead by Example",
     "recall": "3",
     "text": "When you deal damage to an adversary, you can **mark a Stress** and describe how you encourage your allies. The next PC to make an attack against that adversary can clear a Stress or gain a Hope.",
     "type": "Ability"

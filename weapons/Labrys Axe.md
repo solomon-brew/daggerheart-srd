@@ -1,7 +1,7 @@
-﻿# LABRYS AXE
+# LABRYS AXE
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** Two-Handed
 
-**Feature:** ***Protective:*** +1 to Armor Score
+**Feature:** **_Protective:_** +1 to Armor Score
 
-*Primary Weapon - Tier 3*
+_Primary Physical Weapon - Tier 3_

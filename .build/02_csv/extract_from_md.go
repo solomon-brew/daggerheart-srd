@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	markdownPath := "SRD.md"
+	markdownPath := ".build/01_pdf/DH-SRD-2025-09-09.md"
 	contentBytes, err := os.ReadFile(markdownPath)
 	if err != nil {
 		fmt.Printf("Error reading markdown file: %v\n", err)
@@ -66,9 +66,28 @@ func isAllCaps(s string) bool {
 }
 
 func titleizeAllCaps(s string) string {
+	smallWords := map[string]bool{
+		"a": true, "an": true, "and": true, "as": true, "at": true,
+		"but": true, "by": true, "for": true, "from": true, "in": true,
+		"of": true, "on": true, "or": true, "the": true, "to": true,
+		"via": true, "with": true, "over": true, "into": true,
+	}
+	acronyms := map[string]bool{
+		"GM": true, "SRD": true, "HP": true, "XP": true, "PC": true, "NPC": true, "ATK": true,
+	}
 	words := strings.Fields(s)
 	for i, w := range words {
-		runes := []rune(strings.ToLower(w))
+		upper := strings.ToUpper(w)
+		lower := strings.ToLower(w)
+		if i > 0 && smallWords[lower] {
+			words[i] = lower
+			continue
+		}
+		if w == upper && acronyms[w] {
+			words[i] = w
+			continue
+		}
+		runes := []rune(lower)
 		if len(runes) == 0 {
 			continue
 		}
@@ -83,6 +102,26 @@ func titleizeIfAllCaps(s string) string {
 		return titleizeAllCaps(s)
 	}
 	return s
+}
+
+func normalizeHeading(text string) string {
+	clean := strings.ToLower(strings.TrimSpace(text))
+	clean = strings.ReplaceAll(clean, "’", "")
+	clean = strings.ReplaceAll(clean, "'", "")
+	var b strings.Builder
+	space := false
+	for _, r := range clean {
+		if (r >= 'a' && r <= 'z') || (r >= '0' && r <= '9') {
+			b.WriteRune(r)
+			space = false
+			continue
+		}
+		if !space {
+			b.WriteByte(' ')
+			space = true
+		}
+	}
+	return strings.TrimSpace(b.String())
 }
 
 func headerLevel(line string) int {
@@ -427,20 +466,20 @@ func scanVariations(content string) {
 	reWeaponTier := regexp.MustCompile(`(?i)^####\s+TIER`)
 
 	knownFeatureHeadings := map[string]bool{
-		"##### FEATURES":               true,
-		"##### ANCESTRY FEATURES":      true,
-		"##### ANCESTRY FEATURE":       true,
-		"##### COMMUNITY FEATURE":      true,
-		"##### CLASS FEATURE":          true,
-		"##### CLASS FEATURES":         true,
-		"##### FOUNDATION FEATURE":     true,
-		"##### FOUNDATION FEATURES":    true,
-		"##### SPECIALIZATION FEATURE": true,
-		"##### SPECIALIZATION FEATURES": true,
-		"##### MASTERY FEATURE":        true,
-		"##### MASTERY FEATURES":       true,
-		"##### SPELLCAST TRAIT":        true,
-		"##### HOPE FEATURE":           true,
+		"##### FEATURES":                    true,
+		"##### ANCESTRY FEATURES":           true,
+		"##### ANCESTRY FEATURE":            true,
+		"##### COMMUNITY FEATURE":           true,
+		"##### CLASS FEATURE":               true,
+		"##### CLASS FEATURES":              true,
+		"##### FOUNDATION FEATURE":          true,
+		"##### FOUNDATION FEATURES":         true,
+		"##### SPECIALIZATION FEATURE":      true,
+		"##### SPECIALIZATION FEATURES":     true,
+		"##### MASTERY FEATURE":             true,
+		"##### MASTERY FEATURES":            true,
+		"##### SPELLCAST TRAIT":             true,
+		"##### HOPE FEATURE":                true,
 		"##### USING FEATURES AFTER A ROLL": true,
 	}
 
@@ -1111,8 +1150,17 @@ func extractConsumables(content, outputDir string) {
 
 func extractDomains(content, outputDir string) {
 	section := getSection(content, "## DOMAINS")
+	cardMap := extractDomainCardReference(content)
 	chunks := strings.Split(section, "\n#### ")
 	var records [][]string
+	headers := []string{"Name", "Description"}
+	for level := 1; level <= 10; level++ {
+		headers = append(headers,
+			fmt.Sprintf("Card %d.1", level),
+			fmt.Sprintf("Card %d.2", level),
+			fmt.Sprintf("Card %d.3", level),
+		)
+	}
 	for i, chunk := range chunks {
 		if i == 0 || strings.HasPrefix(chunk, "##") {
 			continue
@@ -1120,9 +1168,68 @@ func extractDomains(content, outputDir string) {
 		lines := strings.Split(chunk, "\n")
 		name := titleizeIfAllCaps(strings.TrimSpace(lines[0]))
 		desc := strings.Trim(strings.Join(lines[1:], "\n"), "\n")
-		records = append(records, []string{name, desc})
+		row := []string{name, desc}
+		cardKey := normalizeHeading(name)
+		cards := cardMap[cardKey]
+		expected := 21
+		if len(cards) != expected {
+			fmt.Printf("Warning: Domain '%s' has %d cards (expected %d)\n", name, len(cards), expected)
+		}
+		idx := 0
+		for level := 1; level <= 10; level++ {
+			opts := []string{"", "", ""}
+			need := 2
+			if level == 1 {
+				need = 3
+			}
+			for j := 0; j < need; j++ {
+				if idx < len(cards) {
+					opts[j] = cards[idx]
+				}
+				idx++
+			}
+			row = append(row, opts...)
+		}
+		if idx < len(cards) {
+			fmt.Printf("Warning: Domain '%s' has %d extra cards\n", name, len(cards)-idx)
+		}
+		records = append(records, row)
 	}
-	writeCSV(outputDir+"/domains.csv", []string{"Name", "Description"}, records)
+	writeCSV(outputDir+"/domains.csv", headers, records)
+}
+
+func extractDomainCardReference(content string) map[string][]string {
+	section := getSection(content, "## DOMAIN CARD REFERENCE")
+	chunks := strings.Split(section, "\n### ")
+	results := map[string][]string{}
+	reCard := regexp.MustCompile(`(?m)^#{4,6}\s+(.+)$`)
+	for i, chunk := range chunks {
+		if i == 0 {
+			continue
+		}
+		lines := strings.Split(chunk, "\n")
+		if len(lines) == 0 {
+			continue
+		}
+		domainLine := strings.TrimSpace(lines[0])
+		domainName := strings.TrimSpace(strings.TrimSuffix(domainLine, "DOMAIN"))
+		domainName = strings.TrimSpace(strings.TrimSuffix(domainName, "Domain"))
+		domainName = titleizeIfAllCaps(domainName)
+		if domainName == "" {
+			continue
+		}
+		var cards []string
+		matches := reCard.FindAllStringSubmatch(chunk, -1)
+		for _, match := range matches {
+			cardName := titleizeIfAllCaps(strings.TrimSpace(match[1]))
+			if cardName == "" {
+				continue
+			}
+			cards = append(cards, cardName)
+		}
+		results[normalizeHeading(domainName)] = cards
+	}
+	return results
 }
 
 func extractEnvironments(content, outputDir string) {
@@ -1559,7 +1666,7 @@ func extractWeapons(content, outputDir string) {
 
 	var records [][]string
 	tier, category, damageType := "", "Primary", ""
-	reTier := regexp.MustCompile(`(?i)^####\s+TIER\s+(\d+).*?(Physical|Magic)`)
+	reTier := regexp.MustCompile(`(?i)^####\s+TIER\s+(\d+)(?:.*?(Physical|Magic))?`)
 	for _, line := range strings.Split(section, "\n") {
 		if strings.Contains(strings.ToUpper(line), "PRIMARY WEAPON TABLES") {
 			category = "Primary"
@@ -1567,11 +1674,14 @@ func extractWeapons(content, outputDir string) {
 		if strings.Contains(strings.ToUpper(line), "SECONDARY WEAPON TABLES") {
 			category = "Secondary"
 		}
-		if m := reTier.FindStringSubmatch(line); len(m) > 2 {
+		if m := reTier.FindStringSubmatch(line); len(m) > 1 {
 			tier = strings.TrimSpace(m[1])
-			damageType = "Physical"
-			if strings.EqualFold(strings.TrimSpace(m[2]), "Magic") {
-				damageType = "Magical"
+			damageType = ""
+			if len(m) > 2 && strings.TrimSpace(m[2]) != "" {
+				damageType = "Physical"
+				if strings.EqualFold(strings.TrimSpace(m[2]), "Magic") {
+					damageType = "Magical"
+				}
 			}
 		}
 
@@ -1599,6 +1709,14 @@ func extractWeapons(content, outputDir string) {
 		}
 		if featT == "—" {
 			featN, featT = "", ""
+		}
+		if damageType == "" {
+			lower := strings.ToLower(dmg)
+			if strings.Contains(lower, "mag") {
+				damageType = "Magical"
+			} else if strings.Contains(lower, "phy") {
+				damageType = "Physical"
+			}
 		}
 		if tier == "" || damageType == "" {
 			warnMissing("Weapon", n, "Tier or Damage Type")

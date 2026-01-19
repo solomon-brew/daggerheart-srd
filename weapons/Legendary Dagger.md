@@ -1,7 +1,7 @@
-﻿# LEGENDARY DAGGER
+# LEGENDARY DAGGER
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+10 phy; **Burden:** One-Handed
+**Trait:** Finesse; **Range:** Melee; **Damage:** d8+9 phy; **Burden:** One-Handed
 
 **Feature:** —
 
-*Primary Weapon - Tier 4*
+_Primary Physical Weapon - Tier 4_

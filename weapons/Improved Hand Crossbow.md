@@ -1,7 +1,7 @@
-﻿# IMPROVED HAND CROSSBOW
+# IMPROVED HAND CROSSBOW
 
 **Trait:** Finesse; **Range:** Far; **Damage:** d6+3 phy; **Burden:** One-Handed
 
 **Feature:** —
 
-*Secondary Weapon - Tier 2*
+_Secondary Physical Weapon - Tier 2_

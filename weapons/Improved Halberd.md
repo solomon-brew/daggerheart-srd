@@ -1,7 +1,7 @@
-﻿# IMPROVED HALBERD
+# IMPROVED HALBERD
 
 **Trait:** Strength; **Range:** Very Close; **Damage:** d10+5 phy; **Burden:** Two-Handed
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Feature:** **_Cumbersome:_** -1 to Finesse
 
-*Primary Weapon - Tier 2*
+_Primary Physical Weapon - Tier 2_

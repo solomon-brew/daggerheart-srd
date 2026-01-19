@@ -1,5 +1,5 @@
-﻿# SNAP POWDER
+# SNAP POWDER
 
 Mark a Stress and clear a HP.
 
-*Consumable*
+_Consumable_

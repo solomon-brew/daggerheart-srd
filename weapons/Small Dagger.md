@@ -1,7 +1,7 @@
-﻿# SMALL DAGGER
+# SMALL DAGGER
 
 **Trait:** Finesse; **Range:** Melee; **Damage:** d8 phy; **Burden:** One-Handed
 
-**Feature:** ***Paired:*** +2 to primary weapon damage to targets within Melee range
+**Feature:** **_Paired:_** +2 to primary weapon damage to targets within Melee range
 
-*Secondary Weapon - Tier 1*
+_Secondary Physical Weapon - Tier 1_

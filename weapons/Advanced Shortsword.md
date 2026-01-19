@@ -1,7 +1,7 @@
-﻿# ADVANCED SHORTSWORD
+# ADVANCED SHORTSWORD
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d8+4 phy; **Burden:** One-Handed
 
-**Feature:** ***Paired:*** +4 to primary weapon damage to targets within Melee range
+**Feature:** **_Paired:_** +4 to primary weapon damage to targets within Melee range
 
-*Secondary Weapon - Tier 3*
+_Secondary Physical Weapon - Tier 3_

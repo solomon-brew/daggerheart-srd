@@ -1,7 +1,7 @@
-﻿# SAVIOR CHAINMAIL
+# SAVIOR CHAINMAIL
 
-**Base Thresholds:** 18 / 48; **Base Score:** 8
+> **Base Thresholds:** 18 / 48 | **Base Score:** 8
 
-**Feature:** ***Difficult:*** -1 to all character traits and Evasion
+**Feature:** **_Difficult:_** -1 to all character traits and Evasion
 
-*Armor - Tier 4*
+_Armor - Tier 4_

@@ -1,7 +1,7 @@
-﻿# IMPROVED CROSSBOW
+# IMPROVED CROSSBOW
 
 **Trait:** Finesse; **Range:** Far; **Damage:** d6+4 phy; **Burden:** One-Handed
 
 **Feature:** —
 
-*Primary Weapon - Tier 2*
+_Primary Physical Weapon - Tier 2_
