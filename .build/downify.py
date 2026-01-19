@@ -2,6 +2,7 @@ import os
 import re
 import json
 import shutil
+from pathlib import Path
 from jinja2 import Template
 from titlecase import titlecase
 from urllib.parse import quote
@@ -14,11 +15,15 @@ def clear_output_dir(output_dir):
 
 
 def ensure_symlink(target, link_name):
-    # Remove existing symlink or file
-    if os.path.islink(link_name) or os.path.exists(link_name):
+    # Remove existing symlink or file; avoid os.remove on dirs.
+    if os.path.islink(link_name) or os.path.isfile(link_name):
         os.remove(link_name)
-    os.symlink(target, link_name)
-    print(f"Linked {link_name} → {target}")
+    elif os.path.isdir(link_name):
+        shutil.rmtree(link_name)
+    # Use relative targets to keep the repo portable.
+    rel_target = os.path.relpath(target, start=os.path.dirname(link_name))
+    os.symlink(rel_target, link_name)
+    print(f"Linked {link_name} → {rel_target}")
 
 
 def url_encode(value):
@@ -65,12 +70,15 @@ def process_json_to_md(json_file, template_file, output_dir, feature_count=7):
 
 
 if __name__ == "__main__":
+    base_dir = Path(__file__).resolve().parent
+    repo_root = base_dir.parent
+    docs_dir = base_dir / "docs"
+
     jobs = find_matching_jobs()
     for json_file, template_file, table in jobs:
-        output_dir = f"../{table}"
+        output_dir = repo_root / table
         clear_output_dir(output_dir)
-        os.makedirs(output_dir, exist_ok=True)
         process_json_to_md(json_file, template_file, output_dir)
-        link_name = f"docs/{table}"
-        output_dir = f"../{output_dir}"
+
+        link_name = docs_dir / table
         ensure_symlink(output_dir, link_name)

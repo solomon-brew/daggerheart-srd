@@ -7,6 +7,23 @@
 > **Difficulty:** 20  
 > **Potential Adversaries:** Bladed Guard, Courtesan, Knight of the Realm, Monarch, Spy
 
+
+
+
+## FEATURE QUESTIONS
+- How does the way language is used make even discussing alternative ways of living difficult?
+- What obvious benefits for loyalty create friction when you try to discuss alternatives?
+- How do they benefit from vassalage, and what has it cost them?
+- What exploitation drives them to consider opposing the unstoppable?
+- What do the PCs want so desperately they might consider throwing in with this ruthless power?
+- How did imperial agents learn the PC's greatest desires?
+- What display of power or transfer of wealth was needed to expedite this plan?
+- Whose lives were disrupted or upended to make this happen?
+- How has the empire compromised this witness?
+- Why is their first impulse to protect the empire, even if it doesn't treat them well?
+
+
+
 ## FEATURES
 
 ***All Roads Lead Here - Passive:*** While in the Imperial Court, a PC has disadvantage on Presence Rolls made to take actions that don’t fit the imperial way of life or support the empire’s dominance.

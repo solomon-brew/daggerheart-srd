@@ -104,9 +104,9 @@ Advanced Wand,Primary,3,Magical,Knowledge,Far,d6+7 mag,One-Handed,,
 Advanced Greatstaff,Primary,3,Magical,Knowledge,Very Far,d6+6 mag,Two-Handed,Powerful,"On a successful attack, roll an additional damage die and discard the lowest result."
 Axe of Fortunis,Primary,3,Magical,Strength,Melee,d10+8 mag,Two-Handed,Lucky,"On a failed attack, you can mark a Stress to reroll your attack."
 Blessed Anlace,Primary,3,Magical,Instinct,Melee,d10+6 mag,One-Handed,Healing,"During downtime, automatically clear a Hit Point."
-Ghostblade,"Primary",3,"Physical or Magical",Presence,Melee,"d10+7 phy or mag",One-Handed,Otherworldly,"On a successful attack, you can deal physical or magic damage."
+Ghostblade,Primary,3,Physical or Magical,Presence,Melee,d10+7 phy or mag,One-Handed,Otherworldly,"On a successful attack, you can deal physical or magic damage."
 Runes of Ruination,Primary,3,Magical,Knowledge,Very Close,d20+4 mag,One-Handed,Painful,"Each time you make a successful attack, you must mark a Stress."
-Widgast Pendant,Primary,3,Magical,Knowledge,Close,d10+5 mag,One-Handed,Timebending,"You choose the target of your attack after making your attack roll."
+Widgast Pendant,Primary,3,Magical,Knowledge,Close,d10+5 mag,One-Handed,Timebending,You choose the target of your attack after making your attack roll.
 Gilded Bow,Primary,3,Magical,Finesse,Far,d6+7 mag,Two-Handed,Self-Correcting,"When you roll a 1 on a damage die, it deals 6 damage instead."
 Firestaff,Primary,3,Magical,Instinct,Far,d6+7 mag,Two-Handed,Burning,"When you roll a 6 on a damage die, the target must mark a Stress."
 Mage Orb,Primary,3,Magical,Knowledge,Far,d6+7 mag,One-Handed,Powerful,"On a successful attack, roll an additional damage die and discard the lowest result."

@@ -7,6 +7,20 @@
 > **Difficulty:** 10  
 > **Potential Adversaries:** Guards (Bladed Guard, Head Guard), Masked Thief, Merchant
 
+
+
+
+## FEATURE QUESTIONS
+- Will any coin be accepted, or only local currency?
+- How overt are the PCs in offering this bribe?
+- What cost beyond gold will the merchant ask for in exchange for this rarity?
+- What drove this person to pickpocketing?
+- Where is the thief's hideout and how has it avoided notice?
+- Where does the crowd's movement carry them?
+- How do they feel about being alone but surrounded?
+
+
+
 ## FEATURES
 
 ***Tip the Scales - Passive:*** PCs can gain advantage on a Presence Roll by offering a handful of gold as part of the interaction.

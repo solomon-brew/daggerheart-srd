@@ -7,6 +7,15 @@
     "impulses": "Draw in the curious, echo the past",
     "difficulty": "11",
     "potential_adversaries": "Beasts (Bear, Dire Wolf, Glass Snake), Grove Guardians (Minor Treant, Sylvan Soldier, Young Dryad)",
+    "feature_question_1": "Why did these groups come to blows?",
+    "feature_question_2": "Why is the grove unused now?",
+    "feature_question_3": "How many vines are there?",
+    "feature_question_4": "Where do they grab you?",
+    "feature_question_5": "Do they pull you down or lift you off the ground?",
+    "feature_question_6": "What are the grove guardians concealing?",
+    "feature_question_7": "What threat to the forest could the PCs confront to appease the Dryad?",
+    "feature_question_8": "What color does the grass turn as the elemental appears?",
+    "feature_question_9": "How does the chaos warp insects and small wildlife within the grove?",
     "feats": [
       {
         "name": "Overgrown Battlefield - Passive",
@@ -22,7 +31,7 @@
       },
       {
         "name": "Defiler - Action",
-        "text": "Spend a Fear to summon a Minor Chaos Adversary drawn to the echoes of violence and discord. They appear within Far range of a chosen PC and immediately take the spotlight."
+        "text": "Spend a Fear to summon a Minor Chaos Elemental drawn to the echoes of violence and discord. They appear within Far range of a chosen PC and immediately take the spotlight."
       }
     ]
   },
@@ -34,6 +43,10 @@
     "impulses": "Overwhelm, scatter, surround",
     "difficulty": "Special (see “Relative Strength”)",
     "potential_adversaries": "Any",
+    "feature_question_1": "Who cues the ambush?",
+    "feature_question_2": "What makes it clear they're in charge?",
+    "feature_question_3": "What do the ambushers want from the party?",
+    "feature_question_4": "How do their tactics in the ambush reflect that?",
     "feats": [
       {
         "name": "Relative Strength - Passive",
@@ -53,6 +66,10 @@
     "impulses": "Escape, group up, protect the most vulnerable",
     "difficulty": "Special (see “Relative Strength”)",
     "potential_adversaries": "Any",
+    "feature_question_1": "Which adversary is the least prepared?",
+    "feature_question_2": "Which one is the most?",
+    "feature_question_3": "What are the adversaries in the middle of doing when the ambush starts?",
+    "feature_question_4": "How does this impact their approach to the fight?",
     "feats": [
       {
         "name": "Relative Strength - Passive",
@@ -72,6 +89,13 @@
     "impulses": "Buy low, sell high, tempt and tantalize with wares from near and far",
     "difficulty": "10",
     "potential_adversaries": "Guards (Bladed Guard, Head Guard), Masked Thief, Merchant",
+    "feature_question_1": "Will any coin be accepted, or only local currency?",
+    "feature_question_2": "How overt are the PCs in offering this bribe?",
+    "feature_question_3": "What cost beyond gold will the merchant ask for in exchange for this rarity?",
+    "feature_question_4": "What drove this person to pickpocketing?",
+    "feature_question_5": "Where is the thief's hideout and how has it avoided notice?",
+    "feature_question_6": "Where does the crowd's movement carry them?",
+    "feature_question_7": "How do they feel about being alone but surrounded?",
     "feats": [
       {
         "name": "Tip the Scales - Passive",
@@ -99,6 +123,12 @@
     "impulses": "Cast the unwary down to a rocky doom, draw people in with promise of what lies at the top",
     "difficulty": "12",
     "potential_adversaries": "Construct, Deeproot Defender, Giant Scorpion, Glass Snake",
+    "feature_question_1": "What strange formations are the stones arranged in?",
+    "feature_question_2": "What ominous warnings did previous adventurers leave?",
+    "feature_question_3": "What do the shape and material of these pitons tell you about the previous climbers?",
+    "feature_question_4": "How far apart are they from one another?",
+    "feature_question_5": "How can you tell many others have fallen here before?",
+    "feature_question_6": "What lives in these walls that might try to scare adventurers into falling for an easy meal?",
     "feats": [
       {
         "name": "The Climb - Passive",
@@ -122,6 +152,18 @@
     "impulses": "Provide opportunities for adventurers, nurture community",
     "difficulty": "10",
     "potential_adversaries": "Guards (Bladed Guard, Head Guard), Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Merchant",
+    "feature_question_1": "Who has what kind of information?",
+    "feature_question_2": "What gossip do the locals start spreading about the PCs?",
+    "feature_question_3": "What piece do you perform?",
+    "feature_question_4": "What does that piece mean to you?",
+    "feature_question_5": "When's the last time you performed it for a crowd?",
+    "feature_question_6": "What do they want?",
+    "feature_question_7": "What's their impression of the PCs?",
+    "feature_question_8": "What mannerisms or accessories do they have?",
+    "feature_question_9": "Did they know the PCs were here?",
+    "feature_question_10": "What do they want in this town?",
+    "feature_question_11": "Who started the fight?",
+    "feature_question_12": "What will it take to stop it?",
     "feats": [
       {
         "name": "What’s the Talk of the Town? - Passive",
@@ -153,6 +195,13 @@
     "impulses": "Drive the desperate to certain doom, profit off of ragged hope",
     "difficulty": "12",
     "potential_adversaries": "Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper), Masked Thief, Merchant",
+    "feature_question_1": "What news do the PCs have that they could pass along to curious travelers?",
+    "feature_question_2": "What do the locals think about these events?",
+    "feature_question_3": "What boasts do the adventurers here make, and which do you think are true?",
+    "feature_question_4": "Which PC has a connection to one of the rival party members?",
+    "feature_question_5": "Do they approach the PC first or do they wait for the PC to move?",
+    "feature_question_6": "What trouble does it cause if the PCs intervene?",
+    "feature_question_7": "What details show the party that these people are desperate former adventurers?",
     "feats": [
       {
         "name": "Rumors Abound - Passive",
@@ -184,6 +233,12 @@
     "impulses": "Bar crossing, carry away the unready, divide the land",
     "difficulty": "10",
     "potential_adversaries": "Beasts (Bear, Glass Snake), Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper)",
+    "feature_question_1": "Have any of the PCs forded rivers like this before?",
+    "feature_question_2": "Are any of them afraid of drowning?",
+    "feature_question_3": "What trinkets and baubles lie along the bottom of the riverbed?",
+    "feature_question_4": "Do predators swim these rivers?",
+    "feature_question_5": "What treasures does the beast have in their burrow?",
+    "feature_question_6": "What travelers have already fallen victim to this predator?",
     "feats": [
       {
         "name": "Dangerous Crossing - Passive",
@@ -207,6 +262,13 @@
     "impulses": "Profane the land, unite the Mortal Realm with the Circles Below",
     "difficulty": "14",
     "potential_adversaries": "Cult of the Fallen (Cult Adept, Cult Fang, Cult Initiate, Secret-Keeper)",
+    "feature_question_1": "How do the PCs first notice that something is wrong about this place?",
+    "feature_question_2": "What fears resurface while hope is kept at bay?",
+    "feature_question_3": "How does the enemy change in appearance?",
+    "feature_question_4": "What fears do their blows bring to the surface?",
+    "feature_question_5": "What will the cult do with this leashed demon if they succeed?",
+    "feature_question_6": "What will they try to summon next?",
+    "feature_question_7": "What does it feel like to see such devotion turned to the pursuit of fear and domination?",
     "feats": [
       {
         "name": "Desecrated Ground - Passive",
@@ -234,6 +296,13 @@
     "impulses": "Connect the Mortal Realm with the Hallows Above, display the power of the divine, provide aid and succor to the faithful",
     "difficulty": "13",
     "potential_adversaries": "Guards (Archer Guard, Bladed Guard, Head Guard)",
+    "feature_question_1": "What does the incense smell like?",
+    "feature_question_2": "What kinds of songs do the acolytes sing?",
+    "feature_question_3": "What does it feel like as you are touched by this vision?",
+    "feature_question_4": "What feeling lingers after the images have passed?",
+    "feature_question_5": "What emotions or memories do you connect with when fear presses in?",
+    "feature_question_6": "What symbols or icons do they bear that signal they are anointed agents of the divinity?",
+    "feature_question_7": "Who leads the group and what led them to this calling?",
     "feats": [
       {
         "name": "A Place of Healing - Passive",
@@ -261,6 +330,15 @@
     "impulses": "Misdirect and disorient, replay apocalypses both public and personal",
     "difficulty": "14",
     "potential_adversaries": "Ghosts (Spectral Archer, Spectral Captain, Spectral Guardian), (ghostly versions of other adversaries (see “Ghostly Form”))",
+    "feature_question_1": "What greater secrets does the city contain?",
+    "feature_question_2": "Why have so many ghosts lingered here?",
+    "feature_question_3": "What doomed adventurers have met a bad fate here already?",
+    "feature_question_4": "What injuries to their physical form speak to their cause of death?",
+    "feature_question_5": "What unfulfilled purpose holds them in the Mortal Plane?",
+    "feature_question_6": "What do the ghosts want from you?",
+    "feature_question_7": "What do you need from them?",
+    "feature_question_8": "Is this the disaster that led the city to be abandoned?",
+    "feature_question_9": "What is known about this disaster, and how could that help the PCs escape?",
     "feats": [
       {
         "name": "Buried Knowledge - Passive",
@@ -288,6 +366,15 @@
     "impulses": "Exact a chilling toll in supplies and stamina, reveal magical slumber, slow down travel",
     "difficulty": "15",
     "potential_adversaries": "Beasts (Bear, Giant Eagle, Glass Snake), Chaos Skull, Minotaur Wrecker, Mortal Hunter",
+    "feature_question_1": "Who laid this enchantment?",
+    "feature_question_2": "Are they nearby?",
+    "feature_question_3": "Why did they want the weather to be more daunting?",
+    "feature_question_4": "How do the PCs try to weather the avalanche?",
+    "feature_question_5": "What approach do the characters take to find one another when their companions go hurtling down the mountainside?",
+    "feature_question_6": "How long has it been since the eagles last found prey?",
+    "feature_question_7": "Do they have eggs in their nest, or unfledged young?",
+    "feature_question_8": "What parts of the PCs' bodies go numb first?",
+    "feature_question_9": "How do they try to keep warm as they press forward?",
     "feats": [
       {
         "name": "Engraved Sigils - Passive",
@@ -315,6 +402,14 @@
     "impulses": "Beat out an uncanny rhythm for all to follow, corrupt the woods",
     "difficulty": "16",
     "potential_adversaries": "Beasts (Bear, Glass Snake), Elementals (Elemental Spark), Verdant Defenders (Dryad, Oak Treant, Stag Knight)",
+    "feature_question_1": "What does it feel like to work magic in this chaos-touched place?",
+    "feature_question_2": "What do you fear will happen if you lose control of the spell?",
+    "feature_question_3": "What Fallen cult corrupted these woods?",
+    "feature_question_4": "What have they already done with the cursed wood and sap from this tree?",
+    "feature_question_5": "What painful memories do the vines bring to the surface as they pierce flesh?",
+    "feature_question_6": "Are these real animals consumed by the flame or merely constructs of the corrupting magic?",
+    "feature_question_7": "What hallucinations does the ash induce?",
+    "feature_question_8": "What incongruous taste does it possess?",
     "feats": [
       {
         "name": "Chaos Magic Locus - Passive",
@@ -346,6 +441,15 @@
     "impulses": "Bleed out the will to fight, breach the walls, build tension",
     "difficulty": "17",
     "potential_adversaries": "Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)",
+    "feature_question_1": "How do they get in without revealing the pathway to the attackers?",
+    "feature_question_2": "Are any of the defenders monitoring this path?",
+    "feature_question_3": "What siege weapons are being deployed?",
+    "feature_question_4": "Are they magical, mundane, or a mixture of both?",
+    "feature_question_5": "What defenses must the characters overcome to storm the castle?",
+    "feature_question_6": "Who are they targeting first?",
+    "feature_question_7": "What formation do they take?",
+    "feature_question_8": "What debris is scattered by the attack?",
+    "feature_question_9": "What is broken by the strike that can't be easily mended?",
     "feats": [
       {
         "name": "Secret Entrance - Passive",
@@ -373,6 +477,14 @@
     "impulses": "Seize people, land, and wealth, spill blood for greed and glory",
     "difficulty": "17",
     "potential_adversaries": "Mercenaries (Sellsword, Harrier, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)",
+    "feature_question_1": "Do the combatants mistake you for the enemy or consider you interlopers?",
+    "feature_question_2": "Can you tell the difference between friend and foe in the fray?",
+    "feature_question_3": "What is valuable here?",
+    "feature_question_4": "Who is most vulnerable?",
+    "feature_question_5": "What form does the attack take--fireball, raining acid, a storm of blades?",
+    "feature_question_6": "What tactical objective is this attack meant to accomplish, and what comes next?",
+    "feature_question_7": "Who are they targeting first?",
+    "feature_question_8": "What formation do they take?",
     "feats": [
       {
         "name": "Adrift on a Sea of Steel - Passive",
@@ -400,6 +512,18 @@
     "impulses": "Annihilate certainty, consume power, defy logic",
     "difficulty": "20",
     "potential_adversaries": "Outer Realms Monstrosities (Abomination, Corruptor, Thrall)",
+    "feature_question_1": "What does it feel like to move in a space so alien to the Mortal Realm?",
+    "feature_question_2": "What landmark or point do you fixate on to maintain your balance?",
+    "feature_question_3": "What bizarre landmarks do you traverse on your journey?",
+    "feature_question_4": "How does this place try to steal from you that which makes you legendary?",
+    "feature_question_5": "What does it feel like to have this power taken from you?",
+    "feature_question_6": "What glimpse of other worlds do you catch while this place tries to unmake you?",
+    "feature_question_7": "What core facet of your personality does the unmaking try to erase?",
+    "feature_question_8": "What half-consumed remnants of the shattered world do these monstrosities cast aside in pursuit of living flesh?",
+    "feature_question_9": "What jagged reflections of former personhood do you catch between moments of unquestioning malice?",
+    "feature_question_10": "What moment do they see?",
+    "feature_question_11": "If it's a memory, how is it warped by this place?",
+    "feature_question_12": "How hard will it be to hold on to the real memory?",
     "feats": [
       {
         "name": "Impossible Architecture - Passive",
@@ -431,6 +555,21 @@
     "impulses": "Collect power, overawe, silence dissent",
     "difficulty": "20",
     "potential_adversaries": "Arch-Necromancer, Fallen Shock Troops, Mortal Hunter, Oracle of Doom, Perfected Zombie",
+    "feature_question_1": "The heart of a High Seraph?",
+    "feature_question_2": "The lodestone of an ancient waygate?",
+    "feature_question_3": "The loyalty of two archenemies?",
+    "feature_question_4": "The heartbroken tears of a pure soul?",
+    "feature_question_5": "What god favors you as you fight against this usurpation?",
+    "feature_question_6": "How does your renewed power reflect their influence?",
+    "feature_question_7": "Which High Fallen do these troops serve?",
+    "feature_question_8": "Which god's flesh do they wish to feast upon?",
+    "feature_question_9": "Which god meets their end?",
+    "feature_question_10": "What are their last words?",
+    "feature_question_11": "How does the Usurper's new stolen power manifest?",
+    "feature_question_12": "How does the Mortal Realm writhe as the natural order is violated?",
+    "feature_question_13": "What mortals witness this blasphemy from afar?",
+    "feature_question_14": "What visions of failures past torment you as your efforts fall short?",
+    "feature_question_15": "How are these memories twisted by the Usurper?",
     "feats": [
       {
         "name": "Final Preparations - Passive",
@@ -466,6 +605,16 @@
     "impulses": "Justify and perpetuate imperial rule, seduce rivals with promises of power and comfort",
     "difficulty": "20",
     "potential_adversaries": "Bladed Guard, Courtesan, Knight of the Realm, Monarch, Spy",
+    "feature_question_1": "How does the way language is used make even discussing alternative ways of living difficult?",
+    "feature_question_2": "What obvious benefits for loyalty create friction when you try to discuss alternatives?",
+    "feature_question_3": "How do they benefit from vassalage, and what has it cost them?",
+    "feature_question_4": "What exploitation drives them to consider opposing the unstoppable?",
+    "feature_question_5": "What do the PCs want so desperately they might consider throwing in with this ruthless power?",
+    "feature_question_6": "How did imperial agents learn the PC's greatest desires?",
+    "feature_question_7": "What display of power or transfer of wealth was needed to expedite this plan?",
+    "feature_question_8": "Whose lives were disrupted or upended to make this happen?",
+    "feature_question_9": "How has the empire compromised this witness?",
+    "feature_question_10": "Why is their first impulse to protect the empire, even if it doesn't treat them well?",
     "feats": [
       {
         "name": "All Roads Lead Here - Passive",
@@ -497,6 +646,15 @@
     "impulses": "Confound intruders, delve into secrets best left buried, manifest unlife, unleash a tide of undead",
     "difficulty": "19",
     "potential_adversaries": "Arch-Necromancer’s Host (Perfected Zombie, Zombie Legion)",
+    "feature_question_1": "What does it feel like to try to heal in a place so antithetical to life?",
+    "feature_question_2": "What are the names of the tomes?",
+    "feature_question_3": "What project is the necromancer working on and what does it communicate about their plans?",
+    "feature_question_4": "What ancient skeletal architecture is destroyed?",
+    "feature_question_5": "What bones stick in your armor?",
+    "feature_question_6": "How does their renewed vigor manifest?",
+    "feature_question_7": "Do they look more lifelike or, paradoxically, are they more decayed but vigorous?",
+    "feature_question_8": "Who were these people before they became the necromancer's pawns?",
+    "feature_question_9": "What vestiges of those lives remain for the heroes to see?",
     "feats": [
       {
         "name": "No Place for the Living - Passive",

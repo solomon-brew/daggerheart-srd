@@ -2,7 +2,7 @@
 
 Unless their table chooses to use pre-generated characters, each player creates their own PC by making a series of guided choices. Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they’re more (or less) likely to succeed at when making moves and taking action.
 
-> ***Note:*** *You can fill in your character’s name, pronouns, and Character Description details at any point of the character creation process.*
+> **_Note:_** _You can fill in your character’s name, pronouns, and Character Description details at any point of the character creation process._
 
 ## STEP 1: CHOOSE A CLASS AND SUBCLASS
 
@@ -24,17 +24,17 @@ Your character’s **heritage** combines two elements: **[ancestry](Ancestries.m
 
 Your character has six traits that represent their physical, mental, and social aptitude:
 
-- **Agility** (Use it to Sprint, Leap, Maneuver, etc.)  
+- **Agility** (Use it to Sprint, Leap, Maneuver, etc.)
   A high Agility means you’re fast on your feet, nimble on difficult terrain, and quick to react to danger. You’ll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.
-- **Strength** (Use it to Lift, Smash, Grapple, etc.)  
+- **Strength** (Use it to Lift, Smash, Grapple, etc.)
   A high Strength means you’re better at feats that test your physical prowess and stamina. You’ll make a Strength Roll to break through a door, lift heavy objects, or hold your ground against a charging foe.
-- **Finesse** (Use it to Control, Hide, Tinker, etc.)  
+- **Finesse** (Use it to Control, Hide, Tinker, etc.)
   A high Finesse means you’re skilled at tasks that require accuracy, stealth, or the utmost control. You’ll make a Finesse Roll to use fine tools, escape notice, or strike with precision.
-- **Instinct** (Use it to Perceive, Sense, Navigate, etc.)  
+- **Instinct** (Use it to Perceive, Sense, Navigate, etc.)
   A high Instinct means you have a keen sense of your surroundings and a natural intuition. You’ll make an Instinct Roll to sense danger, notice details in the world around you, or track an elusive foe.
-- **Presence** (Use it to Charm, Perform, Deceive, etc.)  
+- **Presence** (Use it to Charm, Perform, Deceive, etc.)
   A high Presence means you have a strong force of personality and a facility for social situations. You’ll make a Presence Roll to plead your case, intimidate a foe, or capture the attention of a crowd.
-- **Knowledge** (Use it to Recall, Analyze, Comprehend, etc.)  
+- **Knowledge** (Use it to Recall, Analyze, Comprehend, etc.)
   A high Knowledge means you know information others don’t and understand how to apply your mind through deduction and inference. You’ll make a Knowledge Roll to interpret facts, see the patterns clearly, or remember important information.
 
 When you “roll with a trait,” that trait’s modifier is added to the roll’s total. Assign the modifiers +2, +1, +1, +0, +0, -1 to your character’s traits in any order you wish.
@@ -52,12 +52,12 @@ When you “roll with a trait,” that trait’s modifier is added to the roll�
 Choose your **[weapon(s)](Weapons.md)**:
 
 - Select from the Tier 1 Weapon Tables. Either a **two-handed primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon**. Then equip your selection by recording it in the Active Weapon field of your character sheet.
-- At Level 1, your **Proficiency** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** *Example: If your Proficiency is 1 and your weapon’s damage dice is d6+1, your damage roll is 1d6+1. Proficiency only determines how many damage dice you roll, and does not affect any flat damage modifiers.*
+- At Level 1, your **Proficiency** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** _Example: If your Proficiency is 1 and your weapon’s damage dice is d6+1, your damage roll is 1d6+1. Proficiency only determines how many damage dice you roll, and does not affect any flat damage modifiers._
 
 Choose and equip one set of **[armor](Armor.md)** from the Tier 1 Armor Table, then record its details in the **Active Armor** field of your character sheet.
 
-- Add your character’s level to your equipped armor’s **Base Score** and record the total for both numbers in the corresponding fields. At character creation, your level is 1.
-- Record your **Armor Score** in the field at the top left of your character sheet. Your Armor Score is equal to your equipped armor’s **Base Score** plus any permanent bonuses your character has to their Armor Score from other abilities, features, or effects.
+- Add your character’s level to your equipped armor’s **Base Threshold** and record the total for both numbers in the corresponding fields. At character creation, your level is 1.
+- Record your **Armor Score** in the field at the top left of your character sheet. Your Armor Score is equal to your equipped armor’s **Base Threshold** plus any permanent bonuses your character has to their Armor Score from other abilities, features, or effects.
 
 Add the following items to the **Inventory** fields on your character sheet:
 
@@ -71,26 +71,26 @@ Add the following items to the **Inventory** fields on your character sheet:
 
 Develop your character’s **background** by answering the **background questions** in your character guide, modifying or replacing them if they don’t fit the character you want to play.
 
-> ***Note:*** *Your background has no explicit mechanical effect, but it greatly affects the character you’ll play and the prep the GM will do. Throughout character creation, you can adjust choices you made in earlier steps to better reflect this background as your character takes shape. If you wish, you can leave your character’s past more ambiguous for the time being and discover their backstory through play.*
+> **_Note:_** _Your background has no explicit mechanical effect, but it greatly affects the character you’ll play and the prep the GM will do. Throughout character creation, you can adjust choices you made in earlier steps to better reflect this background as your character takes shape. If you wish, you can leave your character’s past more ambiguous for the time being and discover their backstory through play._
 
 ## STEP 7: CREATE YOUR EXPERIENCES
 
 An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life. When your PC makes a move, they can spend a Hope to add a relevant Experience’s modifier to an action or reaction roll.
 
 - Your PC gets two Experiences at character creation, each with a +2 modifier.
-- There’s no set list of Experiences to choose from, but an Experience can’t be too broadly applicable and it can’t grant your character specific mechanical benefits, such as magic spells or special abilities. *For example, “Lucky” and “Highly Skilled” are too broad because they could apply to virtually any roll. Likewise, “Supersonic Flight” and “Invulnerable” imply game-breaking special abilities.*
+- There’s no set list of Experiences to choose from, but an Experience can’t be too broadly applicable and it can’t grant your character specific mechanical benefits, such as magic spells or special abilities. _For example, “Lucky” and “Highly Skilled” are too broad because they could apply to virtually any roll. Likewise, “Supersonic Flight” and “Invulnerable” imply game-breaking special abilities._
 
 > **EXAMPLE EXPERIENCES**
 >
-> **Backgrounds:** *Assassin, Blacksmith, Bodyguard, Bounty Hunter, Chef to the Royal Family, Circus Performer, Con Artist, Fallen Monarch, Field Medic, High Priestess, Merchant, Noble, Pirate, Politician, Runaway, Scholar, Sellsword, Soldier, Storyteller, Thief, World Traveler*
+> **Backgrounds:** _Assassin, Blacksmith, Bodyguard, Bounty Hunter, Chef to the Royal Family, Circus Performer, Con Artist, Fallen Monarch, Field Medic, High Priestess, Merchant, Noble, Pirate, Politician, Runaway, Scholar, Sellsword, Soldier, Storyteller, Thief, World Traveler_
 >
-> **Characteristics:** *Affable, Battle-Hardened, Bookworm, Charming, Cowardly, Friend to All, Helpful, Intimidating Presence, Leader, Lone Wolf, Loyal, Observant, Prankster, Silver Tongue, Sticky Fingers, Stubborn to a Fault, Survivor, Young and Naive*
+> **Characteristics:** _Affable, Battle-Hardened, Bookworm, Charming, Cowardly, Friend to All, Helpful, Intimidating Presence, Leader, Lone Wolf, Loyal, Observant, Prankster, Silver Tongue, Sticky Fingers, Stubborn to a Fault, Survivor, Young and Naive_
 >
-> **Specialties:** *Acrobat, Gambler, Healer, Inventor, Magical Historian, Mapmaker, Master of Disguise, Navigator, Sharpshooter, Survivalist, Suashbuckler, Tactician*
+> **Specialties:** _Acrobat, Gambler, Healer, Inventor, Magical Historian, Mapmaker, Master of Disguise, Navigator, Sharpshooter, Survivalist, Suashbuckler, Tactician_
 >
-> **Skills:** *Animal Whisperer, Barter, Deadly Aim, Fast Learner, Incredible Strength, Liar, Light Feet, Negotiator, Photographic Memory, Quick Hands, Repair, Scavenger, Tracker*
+> **Skills:** _Animal Whisperer, Barter, Deadly Aim, Fast Learner, Incredible Strength, Liar, Light Feet, Negotiator, Photographic Memory, Quick Hands, Repair, Scavenger, Tracker_
 >
-> **Phrases:** *Catch Me If You Can, Fake It Till You Make It, First Time’s the Charm, Hold the Line, I Won’t Let You Down, I’ll Catch You, I’ve Got Your Back, Knowledge Is Power, Nature’s Friend, Never Again, No One Left Behind, Pick on Someone Your Own Size, The Show Must Go On, This Is Not a Negotiation, Wolf in Sheep’s Clothing*
+> **Phrases:** _Catch Me If You Can, Fake It Till You Make It, First Time’s the Charm, Hold the Line, I Won’t Let You Down, I’ll Catch You, I’ve Got Your Back, Knowledge Is Power, Nature’s Friend, Never Again, No One Left Behind, Pick on Someone Your Own Size, The Show Must Go On, This Is Not a Negotiation, Wolf in Sheep’s Clothing_
 
 ## STEP 8: CHOOSE DOMAIN CARDS
 
@@ -104,4 +104,4 @@ Connections are the relationships between the PCs. To create connections, follow
 - Discuss potential connections between the PCs using the questions included in the “Connections” section of your character guide as inspiration.
 - Suggest at least one connection between your character and each other player’s PC. Accept any suggested connections you want to explore, reject any you don’t.
 
-> ***Note:*** *A player can reject a suggested connection for any reason, and it’s okay if there isn’t an established connection between every pair of PCs—you can always discover and develop those relationships through play.*
+> **_Note:_** _A player can reject a suggested connection for any reason, and it’s okay if there isn’t an established connection between every pair of PCs—you can always discover and develop those relationships through play._

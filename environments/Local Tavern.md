@@ -7,6 +7,25 @@
 > **Difficulty:** 10  
 > **Potential Adversaries:** Guards (Bladed Guard, Head Guard), Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Merchant
 
+
+
+
+## FEATURE QUESTIONS
+- Who has what kind of information?
+- What gossip do the locals start spreading about the PCs?
+- What piece do you perform?
+- What does that piece mean to you?
+- When's the last time you performed it for a crowd?
+- What do they want?
+- What's their impression of the PCs?
+- What mannerisms or accessories do they have?
+- Did they know the PCs were here?
+- What do they want in this town?
+- Who started the fight?
+- What will it take to stop it?
+
+
+
 ## FEATURES
 
 ***What’s the Talk of the Town? - Passive:*** A PC can ask the bartender, staff, or patrons about local events, rumors, and potential work with a Presence Roll. On a success, they can pick two of the below details to learn—or three if they critically succeed. On a failure, they can pick one and mark a Stress as the local carries on about something irrelevant.

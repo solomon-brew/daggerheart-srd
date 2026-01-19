@@ -4,7 +4,6 @@ import base64
 import json
 import fitz  # PyMuPDF
 import mdformat
-from collections import Counter, defaultdict
 from dotenv import load_dotenv
 from openai import OpenAI
 

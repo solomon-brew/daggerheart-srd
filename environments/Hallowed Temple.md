@@ -7,6 +7,20 @@
 > **Difficulty:** 13  
 > **Potential Adversaries:** Guards (Archer Guard, Bladed Guard, Head Guard)
 
+
+
+
+## FEATURE QUESTIONS
+- What does the incense smell like?
+- What kinds of songs do the acolytes sing?
+- What does it feel like as you are touched by this vision?
+- What feeling lingers after the images have passed?
+- What emotions or memories do you connect with when fear presses in?
+- What symbols or icons do they bear that signal they are anointed agents of the divinity?
+- Who leads the group and what led them to this calling?
+
+
+
 ## FEATURES
 
 ***A Place of Healing - Passive:*** A PC who takes a rest in the Hallowed Temple automatically clears all HP.

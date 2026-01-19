@@ -7,6 +7,21 @@
 > **Difficulty:** 16  
 > **Potential Adversaries:** Beasts (Bear, Glass Snake), Elementals (Elemental Spark), Verdant Defenders (Dryad, Oak Treant, Stag Knight)
 
+
+
+
+## FEATURE QUESTIONS
+- What does it feel like to work magic in this chaos-touched place?
+- What do you fear will happen if you lose control of the spell?
+- What Fallen cult corrupted these woods?
+- What have they already done with the cursed wood and sap from this tree?
+- What painful memories do the vines bring to the surface as they pierce flesh?
+- Are these real animals consumed by the flame or merely constructs of the corrupting magic?
+- What hallucinations does the ash induce?
+- What incongruous taste does it possess?
+
+
+
 ## FEATURES
 
 ***Chaos Magic Locus - Passive:*** When a PC makes a Spellcast Roll, they must roll two Fear Dice and take the higher result.

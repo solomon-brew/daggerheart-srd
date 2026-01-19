@@ -1,6 +1,5 @@
 import os
 import csv
-import tempfile
 import shutil
 
 csv_dir = "csv"

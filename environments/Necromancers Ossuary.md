@@ -7,6 +7,22 @@
 > **Difficulty:** 19  
 > **Potential Adversaries:** Arch-Necromancer’s Host (Perfected Zombie, Zombie Legion)
 
+
+
+
+## FEATURE QUESTIONS
+- What does it feel like to try to heal in a place so antithetical to life?
+- What are the names of the tomes?
+- What project is the necromancer working on and what does it communicate about their plans?
+- What ancient skeletal architecture is destroyed?
+- What bones stick in your armor?
+- How does their renewed vigor manifest?
+- Do they look more lifelike or, paradoxically, are they more decayed but vigorous?
+- Who were these people before they became the necromancer's pawns?
+- What vestiges of those lives remain for the heroes to see?
+
+
+
 ## FEATURES
 
 ***No Place for the Living - Passive:*** A feature or action that clears HP requires spending a Hope to use. If it already costs Hope, a PC must spend an additional Hope.

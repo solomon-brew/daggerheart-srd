@@ -7,6 +7,22 @@
 > **Difficulty:** 15  
 > **Potential Adversaries:** Beasts (Bear, Giant Eagle, Glass Snake), Chaos Skull, Minotaur Wrecker, Mortal Hunter
 
+
+
+
+## FEATURE QUESTIONS
+- Who laid this enchantment?
+- Are they nearby?
+- Why did they want the weather to be more daunting?
+- How do the PCs try to weather the avalanche?
+- What approach do the characters take to find one another when their companions go hurtling down the mountainside?
+- How long has it been since the eagles last found prey?
+- Do they have eggs in their nest, or unfledged young?
+- What parts of the PCs' bodies go numb first?
+- How do they try to keep warm as they press forward?
+
+
+
 ## FEATURES
 
 ***Engraved Sigils - Passive:*** Large markings and engravings have been made in the mountainside. A PC with a relevant background or Experience identifies them as weather magic increasing the power of the icy winds. A PC who succeeds on a Knowledge Roll can recall information about the sigils, potential information about their creators, and the knowledge of how to dispel them. If a PC critically succeeds, they recognize that the sigils are of a style created by highborne enchanters and they gain advantage on a roll to dispel the sigils.

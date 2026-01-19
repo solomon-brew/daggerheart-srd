@@ -7,6 +7,19 @@
 > **Difficulty:** 10  
 > **Potential Adversaries:** Beasts (Bear, Glass Snake), Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper)
 
+
+
+
+## FEATURE QUESTIONS
+- Have any of the PCs forded rivers like this before?
+- Are any of them afraid of drowning?
+- What trinkets and baubles lie along the bottom of the riverbed?
+- Do predators swim these rivers?
+- What treasures does the beast have in their burrow?
+- What travelers have already fallen victim to this predator?
+
+
+
 ## FEATURES
 
 ***Dangerous Crossing - Passive:*** Crossing the river requires the party to complete a Progress Countdown (4). A PC who rolls a failure with Fear is immediately targeted by the “Undertow” action without requiring a Fear to be spent on the feature.

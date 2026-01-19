@@ -7,6 +7,22 @@
 > **Difficulty:** 17  
 > **Potential Adversaries:** Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)
 
+
+
+
+## FEATURE QUESTIONS
+- How do they get in without revealing the pathway to the attackers?
+- Are any of the defenders monitoring this path?
+- What siege weapons are being deployed?
+- Are they magical, mundane, or a mixture of both?
+- What defenses must the characters overcome to storm the castle?
+- Who are they targeting first?
+- What formation do they take?
+- What debris is scattered by the attack?
+- What is broken by the strike that can't be easily mended?
+
+
+
 ## FEATURES
 
 ***Secret Entrance - Passive:*** A PC can find or recall a secret way into the castle with a successful Instinct or Knowledge Roll.

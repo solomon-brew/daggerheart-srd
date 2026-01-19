@@ -7,6 +7,20 @@
 > **Difficulty:** 14  
 > **Potential Adversaries:** Cult of the Fallen (Cult Adept, Cult Fang, Cult Initiate, Secret-Keeper)
 
+
+
+
+## FEATURE QUESTIONS
+- How do the PCs first notice that something is wrong about this place?
+- What fears resurface while hope is kept at bay?
+- How does the enemy change in appearance?
+- What fears do their blows bring to the surface?
+- What will the cult do with this leashed demon if they succeed?
+- What will they try to summon next?
+- What does it feel like to see such devotion turned to the pursuit of fear and domination?
+
+
+
 ## FEATURES
 
 ***Desecrated Ground - Passive:*** Cultists dedicated this place to the Fallen Gods, and their foul influence seeps into it. Reduce the PCs’ Hope Die to a d10 while in this environment. The desecration can be removed with a Progress Countdown (6).

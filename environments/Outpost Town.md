@@ -7,6 +7,20 @@
 > **Difficulty:** 12  
 > **Potential Adversaries:** Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper), Masked Thief, Merchant
 
+
+
+
+## FEATURE QUESTIONS
+- What news do the PCs have that they could pass along to curious travelers?
+- What do the locals think about these events?
+- What boasts do the adventurers here make, and which do you think are true?
+- Which PC has a connection to one of the rival party members?
+- Do they approach the PC first or do they wait for the PC to move?
+- What trouble does it cause if the PCs intervene?
+- What details show the party that these people are desperate former adventurers?
+
+
+
 ## FEATURES
 
 ***Rumors Abound - Passive:*** Gossip is the fastest-traveling currency in the realm. A PC can inquire about major events by making a Presence Roll. What they learn depends on the outcome of their roll, based on the following criteria:

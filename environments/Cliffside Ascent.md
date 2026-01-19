@@ -7,6 +7,19 @@
 > **Difficulty:** 12  
 > **Potential Adversaries:** Construct, Deeproot Defender, Giant Scorpion, Glass Snake
 
+
+
+
+## FEATURE QUESTIONS
+- What strange formations are the stones arranged in?
+- What ominous warnings did previous adventurers leave?
+- What do the shape and material of these pitons tell you about the previous climbers?
+- How far apart are they from one another?
+- How can you tell many others have fallen here before?
+- What lives in these walls that might try to scare adventurers into falling for an easy meal?
+
+
+
 ## FEATURES
 
 ***The Climb - Passive:*** Climbing up the cliffside uses a Progress Countdown (12). It ticks down according to the following criteria when the PCs make an action roll to climb:

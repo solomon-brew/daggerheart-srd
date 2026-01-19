@@ -7,6 +7,17 @@
 > **Difficulty:** Special (see “Relative Strength”)  
 > **Potential Adversaries:** Any
 
+
+
+
+## FEATURE QUESTIONS
+- Who cues the ambush?
+- What makes it clear they're in charge?
+- What do the ambushers want from the party?
+- How do their tactics in the ambush reflect that?
+
+
+
 ## FEATURES
 
 ***Relative Strength - Passive:*** The Difficulty of this environment equals that of the adversary with the highest Difficulty.

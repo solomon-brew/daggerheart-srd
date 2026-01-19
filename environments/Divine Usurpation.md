@@ -7,6 +7,28 @@
 > **Difficulty:** 20  
 > **Potential Adversaries:** Arch-Necromancer, Fallen Shock Troops, Mortal Hunter, Oracle of Doom, Perfected Zombie
 
+
+
+
+## FEATURE QUESTIONS
+- The heart of a High Seraph?
+- The lodestone of an ancient waygate?
+- The loyalty of two archenemies?
+- The heartbroken tears of a pure soul?
+- What god favors you as you fight against this usurpation?
+- How does your renewed power reflect their influence?
+- Which High Fallen do these troops serve?
+- Which god's flesh do they wish to feast upon?
+- Which god meets their end?
+- What are their last words?
+- How does the Usurper's new stolen power manifest?
+- How does the Mortal Realm writhe as the natural order is violated?
+- What mortals witness this blasphemy from afar?
+- What visions of failures past torment you as your efforts fall short?
+- How are these memories twisted by the Usurper?
+
+
+
 ## FEATURES
 
 ***Final Preparations - Passive:*** When the environment first takes the spotlight, designate one adversary as the Usurper seeking to overthrow the gods. Activate a Long-Term Countdown (8) as the Usurper assembles what they need to conduct the ritual. When it triggers, spotlight this environment to use the “Beginning of the End” feature. While this environment remains in play, you can hold up to 15 Fear.

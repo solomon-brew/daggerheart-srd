@@ -7,6 +7,22 @@
 > **Difficulty:** 14  
 > **Potential Adversaries:** Ghosts (Spectral Archer, Spectral Captain, Spectral Guardian), (ghostly versions of other adversaries (see “Ghostly Form”))
 
+
+
+
+## FEATURE QUESTIONS
+- What greater secrets does the city contain?
+- Why have so many ghosts lingered here?
+- What doomed adventurers have met a bad fate here already?
+- What injuries to their physical form speak to their cause of death?
+- What unfulfilled purpose holds them in the Mortal Plane?
+- What do the ghosts want from you?
+- What do you need from them?
+- Is this the disaster that led the city to be abandoned?
+- What is known about this disaster, and how could that help the PCs escape?
+
+
+
 ## FEATURES
 
 ***Buried Knowledge - Passive:*** The city has countless mysteries to unfold. A PC who seeks knowledge about the fallen city can make an Instinct or Knowledge Roll to learn about this place and discover (potentially haunted) loot.
