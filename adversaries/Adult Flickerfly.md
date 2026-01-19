@@ -1,13 +1,12 @@
-# ADULT FLICKERFLY
+# Adult Flickerfly
 
-**_Tier 3 Solo_**
-_A winged insect the size of a large house with iridescent scales and wings that move too fast to track._
-**Motives & Tactics:** Collect shiny things, hunt, nest, swoop
+**_Tier 3 Solo._** _A winged insect the size of a large house with iridescent scales and wings that move too fast to track._
 
-> **Difficulty:** 17 | **Thresholds:** 20/35 | **HP:** 12 | **Stress:** 6
-> **ATK:** +3 | **Wing Slash:** Very Close | 3d20 phy
+- **Motives & Tactics:** Collect shiny things, hunt, nest, swoop
+- **Difficulty:** 17 | **Thresholds:** 20/35 | **HP:** 12 | **Stress:** 6
+- **ATK:** +3 | **Wing Slash:** Very Close | 3d20 phy
 
-## FEATURES
+### FEATURES
 
 **_Relentless (4) - Passive:_** The Flickerfly can be spotlighted up to four times per GM turn. Spend Fear as usual to spotlight them.
 

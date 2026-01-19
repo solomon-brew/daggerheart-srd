@@ -1,13 +1,13 @@
-# STRIKING SERPENT
+# Striking Serpent
 
-_Tier 2_
+**_Tier 2_** _(Cobra, Rattlesnake, Viper, etc.)_
 
-(Cobra, Rattlesnake, Viper, etc.)
+- **Trait Bonus:** Finesse +1
+- **Evasion Bonus:** Evasion +2
+- **Attack:** Very Close Finesse d8+4 phy
+- **Advantages:** climb, deceive, sprint
 
-> **Trait Bonus:** Finesse +1 | **Evasion Bonus:** Evasion +2
-> **Attack:** Very Close Finesse d8+4 phy | **Advantages:** climb, deceive, sprint
-
-## FEATURES
+### FEATURES
 
 **_Venomous Strike:_** Make an attack against any number of targets within Very Close range. On a success, a target is temporarily _Poisoned_. A _Poisoned_ creature takes **1d10** direct physical damage each time they act.
 

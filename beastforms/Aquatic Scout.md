@@ -1,13 +1,13 @@
-# AQUATIC SCOUT
+# Aquatic Scout
 
-_Tier 1_
+**_Tier 1_** _(Eel, Fish, Octopus, etc.)_
 
-(Eel, Fish, Octopus, etc.)
+- **Trait Bonus:** Agility +1
+- **Evasion Bonus:** Evasion +2
+- **Attack:** Melee Agility d4 phy
+- **Advantages:** navigate, sneak, swim
 
-> **Trait Bonus:** Agility +1 | **Evasion Bonus:** Evasion +2
-> **Attack:** Melee Agility d4 phy | **Advantages:** navigate, sneak, swim
-
-## FEATURES
+### FEATURES
 
 **_Aquatic:_** You can breathe and move naturally underwater.
 

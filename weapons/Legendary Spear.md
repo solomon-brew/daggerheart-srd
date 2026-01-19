@@ -1,7 +1,8 @@
-# LEGENDARY SPEAR
+# Legendary Spear
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+12 phy; **Burden:** Two-Handed
+**_Tier 4_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 4_
+- **Trait:** Finesse
+- **Range:** Very Close
+- **Damage:** d8+12 phy
+- **Burden:** Two-Handed

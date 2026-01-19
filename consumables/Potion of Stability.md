@@ -1,5 +1,5 @@
-# POTION OF STABILITY
+# Potion of Stability
+
+**_Consumable_**
 
 You can drink this potion to choose one additional downtime move.
-
-_Consumable_

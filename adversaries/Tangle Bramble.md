@@ -1,13 +1,12 @@
-# TANGLE BRAMBLE
+# Tangle Bramble
 
-**_Tier 1 Minion_**
-_An animate, blood-drinking tumbleweed._
-**Motives & Tactics:** Combine, drain, entangle
+**_Tier 1 Minion._** _An animate, blood-drinking tumbleweed._
 
-> **Difficulty:** 11 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** -1 | **Thorns:** Melee | 2 phy
+- **Motives & Tactics:** Combine, drain, entangle
+- **Difficulty:** 11 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
+- **ATK:** -1 | **Thorns:** Melee | 2 phy
 
-## FEATURES
+### FEATURES
 
 **_Minion (4) - Passive:_** The Bramble is defeated when they take any damage. For every 4 damage a PC deals to the Tangle Bramble, defeat an additional Minion within range the attack would succeed against.
 

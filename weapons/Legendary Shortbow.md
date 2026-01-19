@@ -1,7 +1,8 @@
-# LEGENDARY SHORTBOW
+# Legendary Shortbow
 
-**Trait:** Agility; **Range:** Far; **Damage:** d6+12 phy; **Burden:** Two-Handed
+**_Tier 4_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 4_
+- **Trait:** Agility
+- **Range:** Far
+- **Damage:** d6+12 phy
+- **Burden:** Two-Handed

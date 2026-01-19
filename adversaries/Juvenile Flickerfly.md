@@ -1,13 +1,12 @@
-# JUVENILE FLICKERFLY
+# Juvenile Flickerfly
 
-**_Tier 2 Solo_**
-_A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see._
-**Motives & Tactics:** Collect shiny things, hunt, swoop
+**_Tier 2 Solo._** _A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see._
 
-> **Difficulty:** 14 | **Thresholds:** 13/26 | **HP:** 10 | **Stress:** 5
-> **ATK:** +3 | **Wing Slash:** Very Close | 2d10+4 phy
+- **Motives & Tactics:** Collect shiny things, hunt, swoop
+- **Difficulty:** 14 | **Thresholds:** 13/26 | **HP:** 10 | **Stress:** 5
+- **ATK:** +3 | **Wing Slash:** Very Close | 2d10+4 phy
 
-## FEATURES
+### FEATURES
 
 **_Relentless (3) - Passive:_** The Flickerfly can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 

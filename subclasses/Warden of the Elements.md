@@ -1,12 +1,12 @@
-# WARDEN OF THE ELEMENTS
+# Warden of the Elements
 
 Play the Warden of the Elements if you want to embody the natural elements of the wild.
 
-## SPELLCAST TRAIT
+### SPELLCAST TRAIT
 
 Instinct
 
-## FOUNDATION FEATURE
+### FOUNDATION FEATURE
 
 **_Elemental Incarnation:_** **Mark a Stress** to _Channel_ one of the following elements until you take Severe damage or until your next rest:
 
@@ -15,7 +15,7 @@ Instinct
 - _Water:_ When you deal damage to an adversary within Melee range, all other adversaries within Very Close range must mark a Stress.
 - _Air:_ You can hover, gaining advantage on Agility Rolls.
 
-## SPECIALIZATION FEATURE
+### SPECIALIZATION FEATURE
 
 **_Elemental Aura:_** Once per rest while _Channeling_, you can assume an aura matching your element. The aura affects targets within Close range until your _Channeling_ ends.
 
@@ -24,7 +24,7 @@ Instinct
 - _Water:_ When an adversary deals damage to you, you can **mark a Stress** to move them anywhere within Very Close range of where they are.
 - _Air:_ When you or an ally takes damage from an attack beyond Melee range, reduce the damage by **1d8**.
 
-## MASTERY FEATURE
+### MASTERY FEATURE
 
 **_Elemental Dominion:_** You further embody your element. While _Channeling_, you gain the following benefit:
 

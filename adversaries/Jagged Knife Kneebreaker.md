@@ -1,14 +1,13 @@
-# JAGGED KNIFE KNEEBREAKER
+# Jagged Knife Kneebreaker
 
-**_Tier 1 Bruiser_**
-_An imposing brawler carrying a large club._
-**Motives & Tactics:** Grapple, intimidate, profit, steal
+**_Tier 1 Bruiser._** _An imposing brawler carrying a large club._
 
-> **Difficulty:** 12 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 4
-> **ATK:** -3 | **Club:** Melee | 1d4+6 phy
-> **Experience:** Thief +2, Unveiled Threats +3
+- **Motives & Tactics:** Grapple, intimidate, profit, steal
+- **Difficulty:** 12 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 4
+- **ATK:** -3 | **Club:** Melee | 1d4+6 phy
+- **Experience:** Thief +2, Unveiled Threats +3
 
-## FEATURES
+### FEATURES
 
 **_I've Got 'Em - Passive:_** Creatures _Restrained_ by the Kneebreaker take double damage from attacks by other adversaries.
 

@@ -1,7 +1,12 @@
-# FIRESTAFF
+# Firestaff
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d6+7 mag; **Burden:** Two-Handed
+**_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Burning:_** When you roll a 6 on a damage die, the target must mark a Stress.
+- **Trait:** Instinct
+- **Range:** Far
+- **Damage:** d6+7 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 3_
+### FEATURE
+
+**_Burning:_** When you roll a 6 on a damage die, the target must mark a Stress.

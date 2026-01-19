@@ -1,14 +1,13 @@
-# PATCHWORK ZOMBIE HULK
+# Patchwork Zombie Hulk
 
-**_Tier 1 Solo_**
-_A towering gestalt of corpses moving as one, with torso-sized limbs and fists as large as a grown halfling._
-**Motives & Tactics:** Absorb corpses, flail, hunger, terrify
+**_Tier 1 Solo._** _A towering gestalt of corpses moving as one, with torso-sized limbs and fists as large as a grown halfling._
 
-> **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 10 | **Stress:** 3
-> **ATK:** +4 | **Too Many Arms:** Very Close | 1d20 phy
-> **Experience:** Intimidation +2, Tear Things Apart +2
+- **Motives & Tactics:** Absorb corpses, flail, hunger, terrify
+- **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 10 | **Stress:** 3
+- **ATK:** +4 | **Too Many Arms:** Very Close | 1d20 phy
+- **Experience:** Intimidation +2, Tear Things Apart +2
 
-## FEATURES
+### FEATURES
 
 **_Destructible - Passive:_** When the Zombie takes Major or greater damage, they mark an additional HP.
 

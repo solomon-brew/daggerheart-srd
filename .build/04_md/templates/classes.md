@@ -1,4 +1,4 @@
-# {{ upper .name }}
+# {{ .name }}
 
 {{ .description }}
 
@@ -20,11 +20,11 @@
 
 ---
 
-## {{ upper .name }}’S HOPE FEATURE
+### HOPE FEATURE
 
 **_{{ .hope_feature_name }}:_** {{ .hope_feature_text }}
 
-## CLASS FEATURE{{ if gt (len .feature) 1 }}S{{ end }}
+### CLASS FEATURE{{ if gt (len .feature) 1 }}S{{ end }}
 
 {{ range .feature }}
 
@@ -33,7 +33,7 @@
 
 {{- if and (eq .name "Druid") .beastform_tiers }}
 
-## BEASTFORM OPTIONS
+### BEASTFORM OPTIONS
 
 When you use your "Beastform" feature, choose a creature category of your tier or lower. At the GM's discretion, you can describe yourself transforming into any animal that reasonably fits into that category.
 
@@ -59,11 +59,11 @@ Beastform categories are divided by tier. Each entry includes the following deta
   {{ end }}
   {{- end }}
 
-## {{ upper .name }} SUBCLASSES
+### SUBCLASSES
 
 Choose either the **[{{ .subclass_1 }}](../subclasses/{{ urlEncode .subclass_1 }}.md)** or **[{{ .subclass_2 }}](../subclasses/{{ urlEncode .subclass_2 }}.md)** subclass.
 
-## BACKGROUND QUESTIONS
+### BACKGROUND QUESTIONS
 
 _Answer any of the following background questions. You can also create your own questions._
 {{- range .background }}
@@ -71,7 +71,7 @@ _Answer any of the following background questions. You can also create your own 
 - {{ .question }}
   {{- end }}
 
-## CONNECTIONS
+### CONNECTIONS
 
 _Ask your fellow players one of the following questions for their character to answer, or create your own questions._
 

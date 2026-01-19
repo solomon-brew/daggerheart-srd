@@ -1,14 +1,13 @@
-# HUGE GREEN OOZE
+# Huge Green Ooze
 
-**_Tier 3 Skulk_**
-_A translucent green mound of acid taller than most humans._
-**Motives & Tactics:** Camouflage, creep up, envelop, multiply
+**_Tier 3 Skulk._** _A translucent green mound of acid taller than most humans._
 
-> **Difficulty:** 15 | **Thresholds:** 15/30 | **HP:** 7 | **Stress:** 4
-> **ATK:** +3 | **Ooze Appendage:** Melee | 3d8+1 mag
-> **Experience:** Blend In +3
+- **Motives & Tactics:** Camouflage, creep up, envelop, multiply
+- **Difficulty:** 15 | **Thresholds:** 15/30 | **HP:** 7 | **Stress:** 4
+- **ATK:** +3 | **Ooze Appendage:** Melee | 3d8+1 mag
+- **Experience:** Blend In +3
 
-## FEATURES
+### FEATURES
 
 **_Slow - Passive:_** When you spotlight the Ooze and they don't have a token on their stat block, they can't act yet. Place a token on their stat block and describe what they're preparing to do. When you spotlight the Ooze and they have a token on their stat block, clear the token and they can act.
 

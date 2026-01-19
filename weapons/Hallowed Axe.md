@@ -1,7 +1,8 @@
-# HALLOWED AXE
+# Hallowed Axe
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d8+1 mag; **Burden:** One-Handed
+**_Tier 1_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** —
-
-_Primary Magical Weapon - Tier 1_
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d8+1 mag
+- **Burden:** One-Handed

@@ -1,14 +1,13 @@
-# VOLCANIC DRAGON: ASHEN TYRANT
+# Volcanic Dragon: Ashen Tyrant
 
-**_Tier 4 Solo_**
-_No enemy has ever had the insolence to wound the dragon so. As the lava settles, it's ground to ash like the dragon's past foes._
-**Motives & Tactics:** Choke, fly, intimidate, kill or be killed
+**_Tier 4 Solo._** _No enemy has ever had the insolence to wound the dragon so. As the lava settles, it's ground to ash like the dragon's past foes._
 
-> **Difficulty:** 18 | **Thresholds:** 29/55 | **HP:** 8 | **Stress:** 5
-> **ATK:** +10 | **Claws and Teeth:** Close | 4d12+15 phy
-> **Experience:** Hunt from Above +5
+- **Motives & Tactics:** Choke, fly, intimidate, kill or be killed
+- **Difficulty:** 18 | **Thresholds:** 29/55 | **HP:** 8 | **Stress:** 5
+- **ATK:** +10 | **Claws and Teeth:** Close | 4d12+15 phy
+- **Experience:** Hunt from Above +5
 
-## FEATURES
+### FEATURES
 
 **_Relentless (4) - Passive:_** The Ashen Tyrant can be spotlighted up to four times per GM turn. Spend Fear as usual to spotlight them.
 

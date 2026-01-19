@@ -1,14 +1,13 @@
-# CULT ADEPT
+# Cult Adept
 
-**_Tier 2 Support_**
-_An experienced mage wielding shadow and fear._
-**Motives & Tactics:** Curry favor, hinder foes, uncover knowledge
+**_Tier 2 Support._** _An experienced mage wielding shadow and fear._
 
-> **Difficulty:** 14 | **Thresholds:** 9/18 | **HP:** 4 | **Stress:** 6
-> **ATK:** +2 | **Rune-Covered Rod:** Far | 2d4+3 mag
-> **Experience:** Fallen Lore +2, Rituals +2
+- **Motives & Tactics:** Curry favor, hinder foes, uncover knowledge
+- **Difficulty:** 14 | **Thresholds:** 9/18 | **HP:** 4 | **Stress:** 6
+- **ATK:** +2 | **Rune-Covered Rod:** Far | 2d4+3 mag
+- **Experience:** Fallen Lore +2, Rituals +2
 
-## FEATURES
+### FEATURES
 
 **_Enervating Blast - Action:_** **Spend a Fear** to make a standard attack against a target within range. On a success, the target must mark a Stress.
 

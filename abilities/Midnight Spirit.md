@@ -1,7 +1,6 @@
-# MIDNIGHT SPIRIT
+# Midnight Spirit
 
-> **Level 2 Midnight Spell**
-> **Recall Cost:** 1
+**_Level 2_** _Midnight Spell._ **_Recall Cost_** _1._
 
 **Spend a Hope** to summon a humanoid-sized spirit that can move or carry things for you until your next rest.
 

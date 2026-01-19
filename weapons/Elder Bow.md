@@ -1,7 +1,12 @@
-# ELDER BOW
+# Elder Bow
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d6+4 mag; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.
+- **Trait:** Instinct
+- **Range:** Far
+- **Damage:** d6+4 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 2_
+### FEATURE
+
+**_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.

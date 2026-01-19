@@ -1,13 +1,13 @@
-# MIGHTY LIZARD
+# Mighty Lizard
 
-_Tier 3_
+**_Tier 3_** _(Alligator, Crocodile, Gila Monster, etc.)_
 
-(Alligator, Crocodile, Gila Monster, etc.)
+- **Trait Bonus:** Instinct +2
+- **Evasion Bonus:** Evasion +1
+- **Attack:** Melee Instinct d10+7 phy
+- **Advantages:** attack, sneak, track
 
-> **Trait Bonus:** Instinct +2 | **Evasion Bonus:** Evasion +1
-> **Attack:** Melee Instinct d10+7 phy | **Advantages:** attack, sneak, track
-
-## FEATURES
+### FEATURES
 
 **_Physical Defense:_** You gain a +3 bonus to your damage thresholds.
 

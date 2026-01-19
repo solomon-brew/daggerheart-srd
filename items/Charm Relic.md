@@ -1,5 +1,5 @@
-# CHARM RELIC
+# Charm Relic
+
+**_Item_**
 
 You gain a +1 bonus to your Presence. You can only carry one relic.
-
-_Item_

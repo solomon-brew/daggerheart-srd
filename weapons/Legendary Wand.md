@@ -1,7 +1,8 @@
-# LEGENDARY WAND
+# Legendary Wand
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d6+10 mag; **Burden:** One-Handed
+**_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** —
-
-_Primary Magical Weapon - Tier 4_
+- **Trait:** Knowledge
+- **Range:** Far
+- **Damage:** d6+10 mag
+- **Burden:** One-Handed

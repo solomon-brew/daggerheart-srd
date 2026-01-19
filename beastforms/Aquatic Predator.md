@@ -1,13 +1,13 @@
-# AQUATIC PREDATOR
+# Aquatic Predator
 
-_Tier 3_
+**_Tier 3_** _(Dolphin, Orca, Shark, etc.)_
 
-(Dolphin, Orca, Shark, etc.)
+- **Trait Bonus:** Agility +2
+- **Evasion Bonus:** Evasion +4
+- **Attack:** Melee Agility d10+6 phy
+- **Advantages:** attack, swim, track
 
-> **Trait Bonus:** Agility +2 | **Evasion Bonus:** Evasion +4
-> **Attack:** Melee Agility d10+6 phy | **Advantages:** attack, swim, track
-
-## FEATURES
+### FEATURES
 
 **_Aquatic:_** You can breathe and move naturally underwater.
 

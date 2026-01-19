@@ -1,7 +1,6 @@
-# RISE UP
+# Rise Up
 
-> **Level 6 Valor Ability**
-> **Recall Cost:** 2
+**_Level 6_** _Valor Ability._ **_Recall Cost_** _2._
 
 Gain a bonus to your Severe threshold equal to your Proficiency.
 

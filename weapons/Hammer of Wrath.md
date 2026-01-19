@@ -1,7 +1,12 @@
-# HAMMER OF WRATH
+# Hammer of Wrath
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** Two-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Devastating:_** Before you make an attack roll, you can mark a Stress to use a d20 as your damage die.
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d10+7 phy
+- **Burden:** Two-Handed
 
-_Primary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Devastating:_** Before you make an attack roll, you can mark a Stress to use a d20 as your damage die.

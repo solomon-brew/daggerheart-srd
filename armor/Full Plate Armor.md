@@ -1,7 +1,10 @@
-# FULL PLATE ARMOR
+# Full Plate Armor
 
-> **Base Thresholds:** 8 / 17 | **Base Score:** 4
+**_Tier 1_** _Armor_
 
-**Feature:** **_Very Heavy:_** -2 to Evasion; -1 to Agility
+- **Base Thresholds:** 8 / 17
+- **Base Score:** 4
 
-_Armor - Tier 1_
+### FEATURE
+
+**_Very Heavy:_** -2 to Evasion; -1 to Agility

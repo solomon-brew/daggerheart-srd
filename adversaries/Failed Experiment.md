@@ -1,14 +1,13 @@
-# FAILED EXPERIMENT
+# Failed Experiment
 
-**_Tier 2 Standard_**
-_A magical necromantic experiment gone wrong, leaving them warped and ungainly._
-**Motives & Tactics:** Devour, hunt, track
+**_Tier 2 Standard._** _A magical necromantic experiment gone wrong, leaving them warped and ungainly._
 
-> **Difficulty:** 13 | **Thresholds:** 12/23 | **HP:** 3 | **Stress:** 3
-> **ATK:** +1 | **Bite and Claw:** Melee | 2d6+5 phy
-> **Experience:** Copycat +3
+- **Motives & Tactics:** Devour, hunt, track
+- **Difficulty:** 13 | **Thresholds:** 12/23 | **HP:** 3 | **Stress:** 3
+- **ATK:** +1 | **Bite and Claw:** Melee | 2d6+5 phy
+- **Experience:** Copycat +3
 
-## FEATURES
+### FEATURES
 
 **_Warped Fortitude - Passive:_** The Experiment is resistant to physical damage.
 

@@ -1,7 +1,10 @@
-# IRONTREE BREASTPLATE ARMOR
+# IronTree Breastplate Armor
 
-> **Base Thresholds:** 9 / 20 | **Base Score:** 4
+**_Tier 2_** _Armor_
 
-**Feature:** **_Reinforced:_** When you mark your last Armor Slot, increase your damage thresholds by +2 until you clear at least 1 Armor Slot.
+- **Base Thresholds:** 9 / 20
+- **Base Score:** 4
 
-_Armor - Tier 2_
+### FEATURE
+
+**_Reinforced:_** When you mark your last Armor Slot, increase your damage thresholds by +2 until you clear at least 1 Armor Slot.

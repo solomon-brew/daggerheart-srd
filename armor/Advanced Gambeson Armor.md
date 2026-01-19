@@ -1,7 +1,10 @@
-# ADVANCED GAMBESON ARMOR
+# Advanced Gambeson Armor
 
-> **Base Thresholds:** 9 / 23 | **Base Score:** 5
+**_Tier 3_** _Armor_
 
-**Feature:** **_Flexible:_** +1 to Evasion
+- **Base Thresholds:** 9 / 23
+- **Base Score:** 5
 
-_Armor - Tier 3_
+### FEATURE
+
+**_Flexible:_** +1 to Evasion

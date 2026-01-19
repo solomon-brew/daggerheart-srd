@@ -1,7 +1,8 @@
-# ADVANCED LONGSWORD
+# Advanced Longsword
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d10+9 phy; **Burden:** Two-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 3_
+- **Trait:** Agility
+- **Range:** Melee
+- **Damage:** d10+9 phy
+- **Burden:** Two-Handed

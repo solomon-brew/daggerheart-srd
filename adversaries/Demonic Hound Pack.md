@@ -1,14 +1,13 @@
-# DEMONIC HOUND PACK
+# Demonic Hound Pack
 
-**_Tier 2 Horde (1/HP)_**
-_Unnatural hounds lit from within by hellfire._
-**Motives & Tactics:** Cause fear, consume flesh, please masters
+**_Tier 2 Horde (1/HP)._** _Unnatural hounds lit from within by hellfire._
 
-> **Difficulty:** 15 | **Thresholds:** 11/23 | **HP:** 6 | **Stress:** 3
-> **ATK:** +0 | **Claws and Fangs:** Melee | 2d8+2 phy
-> **Experience:** Scent Tracking +3
+- **Motives & Tactics:** Cause fear, consume flesh, please masters
+- **Difficulty:** 15 | **Thresholds:** 11/23 | **HP:** 6 | **Stress:** 3
+- **ATK:** +0 | **Claws and Fangs:** Melee | 2d8+2 phy
+- **Experience:** Scent Tracking +3
 
-## FEATURES
+### FEATURES
 
 **_Horde (2d4+1) - Passive:_** When the Pack has marked half or more of their HP, their standard attack deals **2d4+1** physical damage instead.
 

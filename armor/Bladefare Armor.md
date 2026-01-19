@@ -1,7 +1,10 @@
-# BLADEFARE ARMOR
+# Bladefare Armor
 
-> **Base Thresholds:** 16 / 39 | **Base Score:** 6
+**_Tier 3_** _Armor_
 
-**Feature:** **_Physical:_** You can't mark an Armor Slot to reduce magic damage.
+- **Base Thresholds:** 16 / 39
+- **Base Score:** 6
 
-_Armor - Tier 3_
+### FEATURE
+
+**_Physical:_** You can't mark an Armor Slot to reduce magic damage.

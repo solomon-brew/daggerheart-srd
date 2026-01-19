@@ -1,14 +1,13 @@
-# DIRE BAT
+# Dire Bat
 
-**_Tier 3 Skulk_**
-_A wide-winged pet endlessly loyal to their vampire owner._
-**Motives & Tactics:** Dive-bomb, hide, protect leader
+**_Tier 3 Skulk._** _A wide-winged pet endlessly loyal to their vampire owner._
 
-> **Difficulty:** 14 | **Thresholds:** 16/30 | **HP:** 5 | **Stress:** 3
-> **ATK:** +2 | **Claws and Teeth:** Melee | 2d6+7 phy
-> **Experience:** Bloodthirsty +3
+- **Motives & Tactics:** Dive-bomb, hide, protect leader
+- **Difficulty:** 14 | **Thresholds:** 16/30 | **HP:** 5 | **Stress:** 3
+- **ATK:** +2 | **Claws and Teeth:** Melee | 2d6+7 phy
+- **Experience:** Bloodthirsty +3
 
-## FEATURES
+### FEATURES
 
 **_Flying - Passive:_** While flying, the Bat gains a +3 bonus to their Difficulty.
 

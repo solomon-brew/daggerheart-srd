@@ -106,7 +106,7 @@
   {
     "domain": "Arcana",
     "level": "7",
-    "name": "Arcana-touched",
+    "name": "Arcana-Touched",
     "recall": "2",
     "text": "When 4 or more of the domain cards in your loadout are from the Arcana domain, gain the following benefits:\n\n- +1 bonus to your Spellcast Rolls\n- Once per rest, you can switch the results of your Hope and Fear Dice.",
     "type": "Ability"
@@ -258,7 +258,7 @@
   {
     "domain": "Blade",
     "level": "6",
-    "name": "Battle-hardened",
+    "name": "Battle-Hardened",
     "recall": "2",
     "text": "Once per long rest when you would make a Death Move, you can **spend a Hope** to clear a Hit Point instead.",
     "type": "Ability"
@@ -274,7 +274,7 @@
   {
     "domain": "Blade",
     "level": "7",
-    "name": "Blade-touched",
+    "name": "Blade-Touched",
     "recall": "1",
     "text": "When 4 or more of the domain cards in your loadout are from the Blade domain, gain the following benefits:\n\n- +2 bonus to your attack rolls\n- +4 bonus to your Severe damage threshold",
     "type": "Ability"
@@ -442,7 +442,7 @@
   {
     "domain": "Bone",
     "level": "7",
-    "name": "Bone-touched",
+    "name": "Bone-Touched",
     "recall": "2",
     "text": "When 4 or more of the domain cards in your loadout are from the Bone domain, gain the following benefits:\n\n- +1 bonus to Agility\n- Once per rest, you can **spend 3 Hope** to cause an attack that succeeded against you to fail instead.",
     "type": "Ability"
@@ -618,7 +618,7 @@
   {
     "domain": "Codex",
     "level": "7",
-    "name": "Codex-touched",
+    "name": "Codex-Touched",
     "recall": "2",
     "text": "When 4 or more of the domain cards in your loadout are from the Codex domain, gain the following benefits:\n\n- You can **mark a Stress** to add your Proficiency to a Spellcast Roll.\n- Once per rest, replace this card with any card from your vault without paying its Recall Cost.",
     "type": "Ability"
@@ -786,7 +786,7 @@
   {
     "domain": "Grace",
     "level": "7",
-    "name": "Grace-touched",
+    "name": "Grace-Touched",
     "recall": "2",
     "text": "When 4 or more of the domain cards in your loadout are from the Grace domain, gain the following benefits:\n\n- You can **mark an Armor Slot** instead of marking a Stress.\n- When you would force a target to mark a number of Hit Points, you can choose instead to force them to mark that number of Stress.",
     "type": "Ability"
@@ -946,7 +946,7 @@
   {
     "domain": "Midnight",
     "level": "7",
-    "name": "Midnight-touched",
+    "name": "Midnight-Touched",
     "recall": "2",
     "text": "When 4 or more of the domain cards in your loadout are from the Midnight domain, gain the following benefits:\n\n- Once per rest, when you have 0 Hope and the GM would gain a Fear, you can gain a Hope instead.\n- When you make a successful attack, you can **mark a Stress** to add the result of your Fear Die to your damage roll.",
     "type": "Ability"
@@ -1114,7 +1114,7 @@
   {
     "domain": "Sage",
     "level": "7",
-    "name": "Sage-touched",
+    "name": "Sage-Touched",
     "recall": "2",
     "text": "When 4 or more of the domain cards in your loadout are from the Sage domain, gain the following benefits:\n\n- While you're in a natural environment, you gain a +2 bonus to your Spellcast Rolls.\n- Once per rest, you can double your Agility or Instinct when making a roll that uses that trait. You must choose to do this before you roll.",
     "type": "Ability"
@@ -1290,7 +1290,7 @@
   {
     "domain": "Splendor",
     "level": "7",
-    "name": "Splendor-touched",
+    "name": "Splendor-Touched",
     "recall": "2",
     "text": "When 4 or more of the domain cards in your loadout are from the Splendor domain, gain the following benefits:\n\n- +3 bonus to your Severe damage threshold\n- Once per long rest, when incoming damage would require you to mark a number of Hit Points, you can choose to mark that much Stress or spend that much Hope instead.",
     "type": "Ability"
@@ -1458,7 +1458,7 @@
   {
     "domain": "Valor",
     "level": "7",
-    "name": "Valor-touched",
+    "name": "Valor-Touched",
     "recall": "1",
     "text": "When 4 or more of the domain cards in your loadout are from the Valor domain, gain the following benefits:\n\n- +1 bonus to your Armor Score\n- When you mark 1 or more Hit Points without marking an Armor Slot, clear an Armor Slot.",
     "type": "Ability"

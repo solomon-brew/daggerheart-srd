@@ -1,13 +1,12 @@
-# SELLSWORD
+# Sellsword
 
-**_Tier 1 Minion_**
-_An armed mercenary testing their luck._
-**Motives & Tactics:** Charge, lacerate, overwhelm, profit
+**_Tier 1 Minion._** _An armed mercenary testing their luck._
 
-> **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** +3 | **Longsword:** Melee | 3 phy
+- **Motives & Tactics:** Charge, lacerate, overwhelm, profit
+- **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
+- **ATK:** +3 | **Longsword:** Melee | 3 phy
 
-## FEATURES
+### FEATURES
 
 **_Minion (4) - Passive:_** The Sellsword is defeated when they take any damage. For every 4 damage a PC deals to the Sellsword, defeat an additional Minion within range the attack would succeed against.
 

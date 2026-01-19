@@ -1,14 +1,13 @@
-# KNIGHT OF THE REALM
+# Knight of the Realm
 
-**_Tier 2 Leader_**
-_A decorated soldier with heavy armor and a powerful steed._
-**Motives & Tactics:** Run down, seek glory, show dominance
+**_Tier 2 Leader._** _A decorated soldier with heavy armor and a powerful steed._
 
-> **Difficulty:** 15 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4
-> **ATK:** +4 | **Longsword:** Melee | 2d10+4 phy
-> **Experience:** Ancient Knowledge +3, High Society +2, Tactics +2
+- **Motives & Tactics:** Run down, seek glory, show dominance
+- **Difficulty:** 15 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4
+- **ATK:** +4 | **Longsword:** Melee | 2d10+4 phy
+- **Experience:** Ancient Knowledge +3, High Society +2, Tactics +2
 
-## FEATURES
+### FEATURES
 
 **_Chevalier - Passive:_** While the Knight is on a mount, they gain a +2 bonus to their Difficulty. When they take Severe damage, they're knocked from their mount and lose this benefit until they're next spotlighted.
 

@@ -1,13 +1,12 @@
-# {{ upper .name }}
+# {{ .name }}
 
-**_Tier {{ .tier }} {{ .type }}_**
-_{{ .description }}_
-**Impulses:** {{ .impulses }}
+**_Tier {{ .tier }} {{ .type }}._** _{{ .description }}_
 
-> **Difficulty:** {{ .difficulty }}
-> **Potential Adversaries:** {{ .potential_adversaries }}
+- **Impulses:** {{ .impulses }}
+- **Difficulty:** {{ .difficulty }}
+- **Potential Adversaries:** {{ .potential_adversaries }}
 
-## FEATURES
+### FEATURES
 
 {{- range .feature }}
 

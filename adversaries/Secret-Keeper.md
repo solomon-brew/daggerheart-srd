@@ -1,14 +1,13 @@
-# SECRET-KEEPER
+# Secret-Keeper
 
-**_Tier 2 Leader_**
-_A clandestine leader with a direct channel to the Fallen Gods._
-**Motives & Tactics:** Amass great power, plot, take command
+**_Tier 2 Leader._** _A clandestine leader with a direct channel to the Fallen Gods._
 
-> **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 7 | **Stress:** 4
-> **ATK:** +3 | **Sigil-laden Staff:** Far | 2d12 mag
-> **Experience:** Coercion +2, Fallen Lore +2
+- **Motives & Tactics:** Amass great power, plot, take command
+- **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 7 | **Stress:** 4
+- **ATK:** +3 | **Sigil-laden Staff:** Far | 2d12 mag
+- **Experience:** Coercion +2, Fallen Lore +2
 
-## FEATURES
+### FEATURES
 
 **_Seize Your Moment - Action:_** **Spend 2 Fear** to spotlight **1d4** allies. Attacks they make while spotlighted in this way deal half damage.
 

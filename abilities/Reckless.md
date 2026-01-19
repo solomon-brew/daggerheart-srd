@@ -1,6 +1,5 @@
-# RECKLESS
+# Reckless
 
-> **Level 2 Blade Ability**
-> **Recall Cost:** 1
+**_Level 2_** _Blade Ability._ **_Recall Cost_** _1._
 
 **Mark a Stress** to gain advantage on an attack.

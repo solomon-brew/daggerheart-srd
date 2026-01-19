@@ -1,14 +1,13 @@
-# HARRIER
+# Harrier
 
-**_Tier 1 Standard_**
-_A nimble fighter armed with javelins._
-**Motives & Tactics:** Flank, harry, kite, profit
+**_Tier 1 Standard._** _A nimble fighter armed with javelins._
 
-> **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 3 | **Stress:** 3
-> **ATK:** +1 | **Javelin:** Close | 1d6+2 phy
-> **Experience:** Camouflage +2
+- **Motives & Tactics:** Flank, harry, kite, profit
+- **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 3 | **Stress:** 3
+- **ATK:** +1 | **Javelin:** Close | 1d6+2 phy
+- **Experience:** Camouflage +2
 
-## FEATURES
+### FEATURES
 
 **_Maintain Distance - Passive:_** After making a standard attack, the Harrier can move anywhere within Far range.
 

@@ -1,7 +1,6 @@
-# LEATHER ARMOR
+# Leather Armor
 
-> **Base Thresholds:** 6 / 13 | **Base Score:** 3
+**_Tier 1_** _Armor_
 
-**Feature:** —
-
-_Armor - Tier 1_
+- **Base Thresholds:** 6 / 13
+- **Base Score:** 3

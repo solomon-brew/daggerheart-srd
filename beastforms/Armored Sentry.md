@@ -1,13 +1,13 @@
-# ARMORED SENTRY
+# Armored Sentry
 
-_Tier 2_
+**_Tier 2_** _(Armadillo, Pangolin, Turtle, etc.)_
 
-(Armadillo, Pangolin, Turtle, etc.)
+- **Trait Bonus:** Strength +1
+- **Evasion Bonus:** Evasion +1
+- **Attack:** Melee Strength d8+2 phy
+- **Advantages:** dig, locate, protect
 
-> **Trait Bonus:** Strength +1 | **Evasion Bonus:** Evasion +1
-> **Attack:** Melee Strength d8+2 phy | **Advantages:** dig, locate, protect
-
-## FEATURES
+### FEATURES
 
 **_Armored Shell:_** Your hardened exterior gives you resistance to physical damage. Additionally, **mark an Armor Slot** to retract into your shell. While in your shell, physical damage is reduced by a number equal to your Armor Score (after applying resistance), but you can't perform other actions without leaving this form.
 

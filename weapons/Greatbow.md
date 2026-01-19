@@ -1,7 +1,12 @@
-# GREATBOW
+# Greatbow
 
-**Trait:** Strength; **Range:** Far; **Damage:** d6+6 phy; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.
+- **Trait:** Strength
+- **Range:** Far
+- **Damage:** d6+6 phy
+- **Burden:** Two-Handed
 
-_Primary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.

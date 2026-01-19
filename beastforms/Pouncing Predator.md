@@ -1,13 +1,13 @@
-# POUNCING PREDATOR
+# Pouncing Predator
 
-_Tier 2_
+**_Tier 2_** _(Cheetah, Lion, Panther, etc.)_
 
-(Cheetah, Lion, Panther, etc.)
+- **Trait Bonus:** Instinct +1
+- **Evasion Bonus:** Evasion +3
+- **Attack:** Melee Instinct d8+6 phy
+- **Advantages:** attack, climb, sneak
 
-> **Trait Bonus:** Instinct +1 | **Evasion Bonus:** Evasion +3
-> **Attack:** Melee Instinct d8+6 phy | **Advantages:** attack, climb, sneak
-
-## FEATURES
+### FEATURES
 
 **_Fleet:_** **Spend a Hope** to move up to Far range without rolling.
 

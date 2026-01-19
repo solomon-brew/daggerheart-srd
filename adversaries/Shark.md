@@ -1,14 +1,13 @@
-# SHARK
+# Shark
 
-**_Tier 2 Bruiser_**
-_A large aquatic predator, always on the move._
-**Motives & Tactics:** Find the blood, isolate prey, target the weak
+**_Tier 2 Bruiser._** _A large aquatic predator, always on the move._
 
-> **Difficulty:** 14 | **Thresholds:** 14/28 | **HP:** 7 | **Stress:** 3
-> **ATK:** +2 | **Toothy Maw:** Very Close | 2d12+1 phy
-> **Experience:** Sense of Smell +3
+- **Motives & Tactics:** Find the blood, isolate prey, target the weak
+- **Difficulty:** 14 | **Thresholds:** 14/28 | **HP:** 7 | **Stress:** 3
+- **ATK:** +2 | **Toothy Maw:** Very Close | 2d12+1 phy
+- **Experience:** Sense of Smell +3
 
-## FEATURES
+### FEATURES
 
 **_Terrifying - Passive:_** When the Shark makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
 

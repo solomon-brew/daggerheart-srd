@@ -1,14 +1,13 @@
-# SPECTRAL CAPTAIN
+# Spectral Captain
 
-**_Tier 2 Leader_**
-_A ghostly commander leading their troops beyond death._
-**Motives & Tactics:** Move through solid objects, rally troops, rehash old battles
+**_Tier 2 Leader._** _A ghostly commander leading their troops beyond death._
 
-> **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4
-> **ATK:** +3 | **Longbow:** Far | 2d10+3 phy
-> **Experience:** Ancient Knowledge +3
+- **Motives & Tactics:** Move through solid objects, rally troops, rehash old battles
+- **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4
+- **ATK:** +3 | **Longbow:** Far | 2d10+3 phy
+- **Experience:** Ancient Knowledge +3
 
-## FEATURES
+### FEATURES
 
 **_Ghost - Passive:_** The Captain has resistance to physical damage. **Mark a Stress** to move up to Close range through solid objects.
 

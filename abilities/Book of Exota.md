@@ -1,7 +1,6 @@
-# BOOK OF EXOTA
+# Book of Exota
 
-> **Level 4 Codex Grimoire**
-> **Recall Cost:** 3
+**_Level 4_** _Codex Grimoire._ **_Recall Cost_** _3._
 
 _Repudiate:_ You can interrupt a magical effect taking place. Make a reaction roll using your Spellcast trait. Once per rest on a success, the effect stops and any consequences are avoided.
 

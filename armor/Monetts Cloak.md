@@ -1,7 +1,10 @@
-# MONETT'S CLOAK
+# Monett's Cloak
 
-> **Base Thresholds:** 16 / 39 | **Base Score:** 6
+**_Tier 3_** _Armor_
 
-**Feature:** **_Magic:_** You can't mark an Armor Slot to reduce physical damage.
+- **Base Thresholds:** 16 / 39
+- **Base Score:** 6
 
-_Armor - Tier 3_
+### FEATURE
+
+**_Magic:_** You can't mark an Armor Slot to reduce physical damage.

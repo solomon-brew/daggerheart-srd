@@ -1,5 +1,5 @@
-# HEALTH POTION
+# Health Potion
+
+**_Consumable_**
 
 Clear 1d4+1 HP.
-
-_Consumable_

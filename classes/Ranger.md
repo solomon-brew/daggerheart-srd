@@ -1,4 +1,4 @@
-# RANGER
+# Ranger
 
 Rangers are highly skilled hunters who, despite their martial abilities, rarely lend their skills to an army. Through mastery of the body and a deep understanding of the wilderness, rangers become sly tacticians, pursuing their quarry with cunning and patience. Many rangers track and fight alongside an animal companion with whom they’ve forged a powerful spiritual bond. By honing their skills in the wild, rangers become expert trackers, as likely to ensnare their foes in a trap as they are to assail them head-on.
 
@@ -17,11 +17,11 @@ Rangers are highly skilled hunters who, despite their martial abilities, rarely 
 
 ---
 
-## RANGER’S HOPE FEATURE
+### HOPE FEATURE
 
 **_Hold Them Off:_** **Spend 3 Hope** when you succeed on an attack with a weapon to use that same roll against two additional adversaries within range of the attack.
 
-## CLASS FEATURE
+### CLASS FEATURE
 
 **_Ranger's Focus:_** **Spend a Hope** and make an attack against a target. On a success, deal your attack's normal damage and temporarily make the attack's target your _Focus_. Until this feature ends or you make a different creature your _Focus_, you gain the following benefits against your _Focus:_
 
@@ -29,11 +29,11 @@ Rangers are highly skilled hunters who, despite their martial abilities, rarely 
 - When you deal damage to them, they must mark a Stress.
 - When you fail an attack against them, you can end your Ranger's Focus feature to reroll your Duality Dice.
 
-## RANGER SUBCLASSES
+### SUBCLASSES
 
 Choose either the **[Beastbound](../subclasses/Beastbound.md)** or **[Wayfinder](../subclasses/Wayfinder.md)** subclass.
 
-## BACKGROUND QUESTIONS
+### BACKGROUND QUESTIONS
 
 _Answer any of the following background questions. You can also create your own questions._
 
@@ -41,7 +41,7 @@ _Answer any of the following background questions. You can also create your own 
 - Your first kill almost killed you, too. What was it, and what part of you was never the same after that event?
 - You've traveled many dangerous lands, but what is the one place you refuse to go?
 
-## CONNECTIONS
+### CONNECTIONS
 
 _Ask your fellow players one of the following questions for their character to answer, or create your own questions._
 

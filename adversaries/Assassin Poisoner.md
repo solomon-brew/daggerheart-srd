@@ -1,14 +1,13 @@
-# ASSASSIN POISONER
+# Assassin Poisoner
 
-**_Tier 2 Skulk_**
-_A cunning scoundrel skilled in both poisons and ambushing._
-**Motives & Tactics:** Anticipate, get paid, kill, taint food and water
+**_Tier 2 Skulk._** _A cunning scoundrel skilled in both poisons and ambushing._
 
-> **Difficulty:** 14 | **Thresholds:** 8/16 | **HP:** 4 | **Stress:** 4
-> **ATK:** +3 | **Poisoned Throwing Dagger:** Close | 2d8+1 phy
-> **Experience:** Intrusion +2
+- **Motives & Tactics:** Anticipate, get paid, kill, taint food and water
+- **Difficulty:** 14 | **Thresholds:** 8/16 | **HP:** 4 | **Stress:** 4
+- **ATK:** +3 | **Poisoned Throwing Dagger:** Close | 2d8+1 phy
+- **Experience:** Intrusion +2
 
-## FEATURES
+### FEATURES
 
 **_Grindletooth Venom - Passive:_** Targets who mark HP from the Assassin's attacks are _Vulnerable_ until they clear a HP.
 

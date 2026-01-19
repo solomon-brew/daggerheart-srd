@@ -1,14 +1,13 @@
-# JAGGED KNIFE LIEUTENANT
+# Jagged Knife Lieutenant
 
-**_Tier 1 Leader_**
-_A seasoned bandit in quality leathers with a strong voice and cunning eyes._
-**Motives & Tactics:** Bully, command, profit, reinforce
+**_Tier 1 Leader._** _A seasoned bandit in quality leathers with a strong voice and cunning eyes._
 
-> **Difficulty:** 13 | **Thresholds:** 7/14 | **HP:** 6 | **Stress:** 3
-> **ATK:** +2 | **Javelin:** Close | 1d8+3 phy
-> **Experience:** Local Knowledge +2
+- **Motives & Tactics:** Bully, command, profit, reinforce
+- **Difficulty:** 13 | **Thresholds:** 7/14 | **HP:** 6 | **Stress:** 3
+- **ATK:** +2 | **Javelin:** Close | 1d8+3 phy
+- **Experience:** Local Knowledge +2
 
-## FEATURES
+### FEATURES
 
 **_Tactician - Action:_** When you spotlight the Lieutenant, **mark a Stress** to also spotlight two allies within Close range.
 

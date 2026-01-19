@@ -1,13 +1,13 @@
-# MASSIVE BEHEMOTH
+# Massive Behemoth
 
-_Tier 4_
+**_Tier 4_** _(Elephant, Mammoth, Rhinoceros, etc.)_
 
-(Elephant, Mammoth, Rhinoceros, etc.)
+- **Trait Bonus:** Strength +3
+- **Evasion Bonus:** Evasion +1
+- **Attack:** Melee Strength d12+12 phy
+- **Advantages:** locate, protect, scare, sprint
 
-> **Trait Bonus:** Strength +3 | **Evasion Bonus:** Evasion +1
-> **Attack:** Melee Strength d12+12 phy | **Advantages:** locate, protect, scare, sprint
-
-## FEATURES
+### FEATURES
 
 **_Carrier:_** You can carry up to four willing allies with you when you move.
 

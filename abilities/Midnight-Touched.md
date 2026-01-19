@@ -1,7 +1,6 @@
-# MIDNIGHT-TOUCHED
+# Midnight-Touched
 
-> **Level 7 Midnight Ability**
-> **Recall Cost:** 2
+**_Level 7_** _Midnight Ability._ **_Recall Cost_** _2._
 
 When 4 or more of the domain cards in your loadout are from the Midnight domain, gain the following benefits:
 

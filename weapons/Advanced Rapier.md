@@ -1,7 +1,12 @@
-# ADVANCED RAPIER
+# Advanced Rapier
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Quick:_** When you make an attack, you can mark a Stress to target another creature within range.
+- **Trait:** Presence
+- **Range:** Melee
+- **Damage:** d8+6 phy
+- **Burden:** One-Handed
 
-_Primary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Quick:_** When you make an attack, you can mark a Stress to target another creature within range.

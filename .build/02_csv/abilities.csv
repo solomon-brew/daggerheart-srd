@@ -22,7 +22,7 @@ Rift Walker,6,Arcana,Spell,2,"Make a **Spellcast Roll (15)**. On a success, you 
 
 You can drop the spell at any time to cast Rift Walker again and place the marking somewhere new."
 Telekinesis,6,Arcana,Spell,0,"Make a **Spellcast Roll** against a target within Far range. On a success, you can use your mind to move them anywhere within Far range of their original position. You can throw the lifted target as an attack by making an additional Spellcast Roll against the second target you're trying to attack. On a success, deal **d12+4** physical damage to the second target using your Proficiency. This spell then ends."
-Arcana-touched,7,Arcana,Ability,2,"When 4 or more of the domain cards in your loadout are from the Arcana domain, gain the following benefits:
+Arcana-Touched,7,Arcana,Ability,2,"When 4 or more of the domain cards in your loadout are from the Arcana domain, gain the following benefits:
 
 - +1 bonus to your Spellcast Rolls
 - Once per rest, you can switch the results of your Hope and Fear Dice."
@@ -60,11 +60,11 @@ Vitality,5,Blade,Ability,0,"When you choose this card, permanently gain two of t
 - +2 bonus to your damage thresholds
 
 Then place this card in your vault permanently."
-Battle-hardened,6,Blade,Ability,2,"Once per long rest when you would make a Death Move, you can **spend a Hope** to clear a Hit Point instead."
+Battle-Hardened,6,Blade,Ability,2,"Once per long rest when you would make a Death Move, you can **spend a Hope** to clear a Hit Point instead."
 Rage Up,6,Blade,Ability,1,"Before you make an attack, you can **mark a Stress** to gain a bonus to your damage roll equal to twice your Strength.
 
 You can Rage Up twice per attack."
-Blade-touched,7,Blade,Ability,1,"When 4 or more of the domain cards in your loadout are from the Blade domain, gain the following benefits:
+Blade-Touched,7,Blade,Ability,1,"When 4 or more of the domain cards in your loadout are from the Blade domain, gain the following benefits:
 
 - +2 bonus to your attack rolls
 - +4 bonus to your Severe damage threshold"
@@ -113,7 +113,7 @@ Additionally on a success, you can **mark a Stress** to remove a Fear from the G
 Signature Move,5,Bone,Ability,1,"Name and describe your signature combat move. Once per rest, when you perform this signature move as part of an action you're taking, you can roll a **d20** as your Hope Die. On a success, clear a Stress."
 Rapid Riposte,6,Bone,Ability,0,"When an attack made against you from within Melee range fails, you can **mark a Stress** and seize the opportunity to deal the weapon damage of one of your active weapons to the attacker."
 Recovery,6,Bone,Ability,1,"During a short rest, you can choose a long rest downtime move instead. You can **spend a Hope** to let an ally do the same."
-Bone-touched,7,Bone,Ability,2,"When 4 or more of the domain cards in your loadout are from the Bone domain, gain the following benefits:
+Bone-Touched,7,Bone,Ability,2,"When 4 or more of the domain cards in your loadout are from the Bone domain, gain the following benefits:
 
 - +1 bonus to Agility
 - Once per rest, you can **spend 3 Hope** to cause an attack that succeeded against you to fail instead."
@@ -183,7 +183,7 @@ Sigil of Retribution,6,Codex,Spell,2,"Mark an adversary within Close range with 
 Book of Homet,7,Codex,Grimoire,0,"_Pass Through:_ Make a **Spellcast Roll (13)**. Once per rest on a success, you and all creatures touching you can pass through a wall or door within Close range. The effect ends once everyone is on the other side.
 
 _Plane Gate:_ Make a **Spellcast Roll (14)**. Once per long rest on a success, open a gateway to a location in another dimension or plane of existence you've been to before. This gateway lasts until your next rest."
-Codex-touched,7,Codex,Ability,2,"When 4 or more of the domain cards in your loadout are from the Codex domain, gain the following benefits:
+Codex-Touched,7,Codex,Ability,2,"When 4 or more of the domain cards in your loadout are from the Codex domain, gain the following benefits:
 
 - You can **mark a Stress** to add your Proficiency to a Spellcast Roll.
 - Once per rest, replace this card with any card from your vault without paying its Recall Cost."
@@ -227,7 +227,7 @@ Once this attack is over, the target realizes what happened. The next time you c
 Never Upstaged,6,Grace,Ability,2,"When you mark 1 or more Hit Points from an attack, you can **mark a Stress** to place a number of tokens equal to the number of Hit Points you marked on this card. On your next successful attack, gain a +5 bonus to your damage roll for each token on this card, then clear all tokens."
 Share the Burden,6,Grace,Spell,0,"Once per rest, take on the Stress from a willing creature within Melee range. The target describes what intimate knowledge or emotions telepathically leak from their mind in this moment between you. Transfer any number of their marked Stress to you, then gain a Hope for each Stress transferred."
 Endless Charisma,7,Grace,Ability,1,"After you make an action roll to persuade, lie, or garner favor, you can **spend a Hope** to reroll the Hope or Fear Die."
-Grace-touched,7,Grace,Ability,2,"When 4 or more of the domain cards in your loadout are from the Grace domain, gain the following benefits:
+Grace-Touched,7,Grace,Ability,2,"When 4 or more of the domain cards in your loadout are from the Grace domain, gain the following benefits:
 
 - You can **mark an Armor Slot** instead of marking a Stress.
 - When you would force a target to mark a number of Hit Points, you can choose instead to force them to mark that number of Stress."
@@ -273,7 +273,7 @@ Dark Whispers,6,Midnight,Spell,0,"You can speak into the mind of any person with
 Mass Disguise,6,Midnight,Spell,0,"When you have a few minutes of silence to focus, you can **mark a Stress** to change the appearance of all willing creatures within Close range. Their new forms must share a general body structure and size, and can be somebody or something you've seen before or entirely fabricated. A disguised creature has advantage on Presence Rolls to avoid scrutiny.
 
 Activate a Countdown (8). It ticks down as a consequence the GM chooses. When it triggers, the disguise drops."
-Midnight-touched,7,Midnight,Ability,2,"When 4 or more of the domain cards in your loadout are from the Midnight domain, gain the following benefits:
+Midnight-Touched,7,Midnight,Ability,2,"When 4 or more of the domain cards in your loadout are from the Midnight domain, gain the following benefits:
 
 - Once per rest, when you have 0 Hope and the GM would gain a Fear, you can gain a Hope instead.
 - When you make a successful attack, you can **mark a Stress** to add the result of your Fear Die to your damage roll."
@@ -341,7 +341,7 @@ Forager,6,Sage,Ability,1,"As an additional downtime move you can choose, roll a 
 4. A healing vial (Clear 2 Hit Points)
 5. A luck charm (Reroll any die)
 6. Choose one of the options above."
-Sage-touched,7,Sage,Ability,2,"When 4 or more of the domain cards in your loadout are from the Sage domain, gain the following benefits:
+Sage-Touched,7,Sage,Ability,2,"When 4 or more of the domain cards in your loadout are from the Sage domain, gain the following benefits:
 
 - While you're in a natural environment, you gain a +2 bonus to your Spellcast Rolls.
 - Once per rest, you can double your Agility or Instinct when making a roll that uses that trait. You must choose to do this before you roll."
@@ -403,7 +403,7 @@ You can also spend a token from this card when touching a creature to clear the 
 When you take a long rest, clear all unspent tokens."
 Zone of Protection,6,Splendor,Spell,2,"Make a **Spellcast Roll (16)**. Once per long rest on a success, choose a point within Far range and create a visible zone of protection there for all allies within Very Close range of that point. When you do, place a **d6** on this card with the 1 value facing up. When an ally in this zone takes damage, they reduce it by the die's value. You then increase the die's value by one. When the die's value would exceed 6, this effect ends."
 Healing Strike,7,Splendor,Spell,1,"When you deal damage to an adversary, you can **spend 2 Hope** to clear a Hit Point on an ally within Close range."
-Splendor-touched,7,Splendor,Ability,2,"When 4 or more of the domain cards in your loadout are from the Splendor domain, gain the following benefits:
+Splendor-Touched,7,Splendor,Ability,2,"When 4 or more of the domain cards in your loadout are from the Splendor domain, gain the following benefits:
 
 - +3 bonus to your Severe damage threshold
 - Once per long rest, when incoming damage would require you to mark a number of Hit Points, you can choose to mark that much Stress or spend that much Hope instead."
@@ -448,7 +448,7 @@ Rise Up,6,Valor,Ability,2,"Gain a bonus to your Severe threshold equal to your P
 
 When you mark 1 or more Hit Points from an attack, clear a Stress."
 Shrug It Off,7,Valor,Ability,1,"When you would take damage, you can **mark a Stress** to reduce the severity of the damage by one threshold. When you do, roll a **d6**. On a result of 3 or lower, place this card in your vault."
-Valor-touched,7,Valor,Ability,1,"When 4 or more of the domain cards in your loadout are from the Valor domain, gain the following benefits:
+Valor-Touched,7,Valor,Ability,1,"When 4 or more of the domain cards in your loadout are from the Valor domain, gain the following benefits:
 
 - +1 bonus to your Armor Score
 - When you mark 1 or more Hit Points without marking an Armor Slot, clear an Armor Slot."

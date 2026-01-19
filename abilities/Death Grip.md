@@ -1,7 +1,6 @@
-# DEATH GRIP
+# Death Grip
 
-> **Level 4 Sage Spell**
-> **Recall Cost:** 1
+**_Level 4_** _Sage Spell._ **_Recall Cost_** _1._
 
 Make a **Spellcast Roll** against a target within Close range and choose one of the following options:
 

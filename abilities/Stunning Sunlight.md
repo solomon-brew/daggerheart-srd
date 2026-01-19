@@ -1,7 +1,6 @@
-# STUNNING SUNLIGHT
+# Stunning Sunlight
 
-> **Level 8 Splendor Spell**
-> **Recall Cost:** 2
+**_Level 8_** _Splendor Spell._ **_Recall Cost_** _2._
 
 Make a **Spellcast Roll** to unleash powerful rays of burning sunlight against all adversaries in front of you within Far range. On a success, **spend any number of Hope** and force that many targets you succeeded against to make a Reaction Roll (14).
 

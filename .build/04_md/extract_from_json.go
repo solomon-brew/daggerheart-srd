@@ -115,7 +115,10 @@ func renderTemplate(tmpl *template.Template, name, outPath string, data map[stri
 	if err := tmpl.ExecuteTemplate(f, name, data); err != nil {
 		return err
 	}
-	return collapseExtraBlankLines(outPath)
+	if err := collapseExtraBlankLines(outPath); err != nil {
+		return err
+	}
+	return ensureCanonicalFilename(outPath)
 }
 
 func normalizeItem(item map[string]any) {
@@ -219,6 +222,7 @@ func generateSRD(basePath, outPath, jsonDir string) error {
 	})
 	content = normalizeMarkdown(content)
 	content = insertContents(content)
+	content = demoteHeadings(content)
 	return os.WriteFile(outPath, []byte(content), 0644)
 }
 
@@ -854,6 +858,32 @@ func normalizeMarkdown(input string) string {
 	return out
 }
 
+func ensureCanonicalFilename(path string) error {
+	dir := filepath.Dir(path)
+	want := filepath.Base(path)
+	entries, err := os.ReadDir(dir)
+	if err != nil {
+		return err
+	}
+	for _, entry := range entries {
+		if entry.IsDir() {
+			continue
+		}
+		name := entry.Name()
+		if !strings.EqualFold(name, want) || name == want {
+			continue
+		}
+		tmp := want + ".casefix"
+		oldPath := filepath.Join(dir, name)
+		tmpPath := filepath.Join(dir, tmp)
+		if err := os.Rename(oldPath, tmpPath); err != nil {
+			return err
+		}
+		return os.Rename(tmpPath, path)
+	}
+	return nil
+}
+
 func insertContents(content string) string {
 	lines := strings.Split(content, "\n")
 	var toc []string
@@ -876,10 +906,10 @@ func insertContents(content string) string {
 		}
 		display := titleCaseHeading(title)
 		if level == 1 {
-			if len(toc) > 0 {
+			if len(toc) > 0 && toc[len(toc)-1] != "" {
 				toc = append(toc, "")
 			}
-			toc = append(toc, fmt.Sprintf("##### [%s](#%s)", display, anchor))
+			toc = append(toc, fmt.Sprintf("**[%s](#%s)**", display, anchor), "")
 			continue
 		}
 		toc = append(toc, fmt.Sprintf("- [%s](#%s)", display, anchor))
@@ -902,6 +932,27 @@ func insertContents(content string) string {
 	block := append([]string{"# CONTENTS", ""}, toc...)
 	block = append(block, "", "")
 	return strings.Join(append(block, lines...), "\n")
+}
+
+func demoteHeadings(content string) string {
+	lines := strings.Split(content, "\n")
+	first := true
+	for i, line := range lines {
+		level, title := parseHeading(line)
+		if level == 0 {
+			continue
+		}
+		if first {
+			first = false
+			continue
+		}
+		level++
+		if level > 6 {
+			level = 6
+		}
+		lines[i] = strings.Repeat("#", level) + " " + strings.TrimSpace(title)
+	}
+	return strings.Join(lines, "\n")
 }
 
 func headingAnchor(title string) string {
@@ -954,9 +1005,16 @@ func titleizeWord(word string) string {
 	if word == "" {
 		return word
 	}
-	runes := []rune(word)
-	runes[0] = []rune(strings.ToUpper(string(runes[0])))[0]
-	return string(runes)
+	segments := strings.Split(word, "-")
+	for i, seg := range segments {
+		if seg == "" {
+			continue
+		}
+		runes := []rune(seg)
+		runes[0] = []rune(strings.ToUpper(string(runes[0])))[0]
+		segments[i] = string(runes)
+	}
+	return strings.Join(segments, "-")
 }
 
 func groupBeastformsByTier(beastforms []map[string]any) []map[string]any {

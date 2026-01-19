@@ -1,13 +1,12 @@
-# RAGING RIVER
+# Raging River
 
-**_Tier 1 Traversal_**
-_A swift-moving river without a bridge crossing, deep enough to sweep away most people._
-**Impulses:** Bar crossing, carry away the unready, divide the land
+**_Tier 1 Traversal._** _A swift-moving river without a bridge crossing, deep enough to sweep away most people._
 
-> **Difficulty:** 10
-> **Potential Adversaries:** Beasts (Bear, Glass Snake), Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper)
+- **Impulses:** Bar crossing, carry away the unready, divide the land
+- **Difficulty:** 10
+- **Potential Adversaries:** Beasts (Bear, Glass Snake), Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper)
 
-## FEATURES
+### FEATURES
 
 **_Dangerous Crossing - Passive:_** Crossing the river requires the party to complete a Progress Countdown (4). A PC who rolls a failure with Fear is immediately targeted by the "Undertow" action without requiring a Fear to be spent on the feature. _Have any of the PCs forded rivers like this before? Are any of them afraid of drowning?_
 

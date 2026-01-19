@@ -1,13 +1,12 @@
-# CULT RITUAL
+# Cult Ritual
 
-**_Tier 2 Event_**
-_A Fallen cult assembles around a sigil of the defeated gods and a bonfire that burns a sickly shade of green._
-**Impulses:** Profane the land, unite the Mortal Realm with the Circles Below
+**_Tier 2 Event._** _A Fallen cult assembles around a sigil of the defeated gods and a bonfire that burns a sickly shade of green._
 
-> **Difficulty:** 14
-> **Potential Adversaries:** Cult of the Fallen (Cult Adept, Cult Fang, Cult Initiate, Secret-Keeper)
+- **Impulses:** Profane the land, unite the Mortal Realm with the Circles Below
+- **Difficulty:** 14
+- **Potential Adversaries:** Cult of the Fallen (Cult Adept, Cult Fang, Cult Initiate, Secret-Keeper)
 
-## FEATURES
+### FEATURES
 
 **_Desecrated Ground - Passive:_** Cultists dedicated this place to the Fallen Gods, and their foul influence seeps into it. Reduce the PCs' Hope Die to a **d10** while in this environment. The desecration can be removed with a Progress Countdown (6). _How do the PCs first notice that something is wrong about this place? What fears resurface while hope is kept at bay?_
 

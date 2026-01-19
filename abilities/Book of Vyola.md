@@ -1,7 +1,6 @@
-# BOOK OF VYOLA
+# Book of Vyola
 
-> **Level 8 Codex Grimoire**
-> **Recall Cost:** 2
+**_Level 8_** _Codex Grimoire._ **_Recall Cost_** _2._
 
 _Memory Delve:_ Make a **Spellcast Roll** against a target within Far range. On a success, peer into the target's mind and ask the GM a question. The GM describes any memories the target has pertaining to the answer.
 

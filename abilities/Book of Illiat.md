@@ -1,7 +1,6 @@
-# BOOK OF ILLIAT
+# Book of Illiat
 
-> **Level 1 Codex Grimoire**
-> **Recall Cost:** 2
+**_Level 1_** _Codex Grimoire._ **_Recall Cost_** _2._
 
 _Slumber:_ Make a **Spellcast Roll** against a target within Very Close range. On a success, they're _Asleep_ until they take damage or the GM spends a Fear on their turn to clear this condition.
 

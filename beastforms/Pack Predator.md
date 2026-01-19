@@ -1,13 +1,13 @@
-# PACK PREDATOR
+# Pack Predator
 
-_Tier 1_
+**_Tier 1_** _(Coyote, Hyena, Wolf, etc.)_
 
-(Coyote, Hyena, Wolf, etc.)
+- **Trait Bonus:** Strength +2
+- **Evasion Bonus:** Evasion +1
+- **Attack:** Melee Strength d8+2 phy
+- **Advantages:** attack, sprint, track
 
-> **Trait Bonus:** Strength +2 | **Evasion Bonus:** Evasion +1
-> **Attack:** Melee Strength d8+2 phy | **Advantages:** attack, sprint, track
-
-## FEATURES
+### FEATURES
 
 **_Hobbling Strike:_** When you succeed on an attack against a target within Melee range, you can **mark a Stress** to make the target temporarily _Vulnerable_.
 

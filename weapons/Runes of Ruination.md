@@ -1,7 +1,12 @@
-# RUNES OF RUINATION
+# Runes of Ruination
 
-**Trait:** Knowledge; **Range:** Very Close; **Damage:** d20+4 mag; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Painful:_** Each time you make a successful attack, you must mark a Stress.
+- **Trait:** Knowledge
+- **Range:** Very Close
+- **Damage:** d20+4 mag
+- **Burden:** One-Handed
 
-_Primary Magical Weapon - Tier 3_
+### FEATURE
+
+**_Painful:_** Each time you make a successful attack, you must mark a Stress.

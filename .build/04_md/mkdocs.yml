@@ -11,3 +11,6 @@ theme:
   logo: favicon.png
 extra_css:
   - extra.css
+markdown_extensions:
+  - toc:
+      toc_depth: 3

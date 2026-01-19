@@ -1,7 +1,8 @@
-# LEGENDARY HAND CROSSBOW
+# Legendary Hand Crossbow
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+7 phy; **Burden:** One-Handed
+**_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Secondary Physical Weapon - Tier 4_
+- **Trait:** Finesse
+- **Range:** Far
+- **Damage:** d6+7 phy
+- **Burden:** One-Handed

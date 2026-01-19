@@ -1,7 +1,8 @@
-# ADVANCED SHORTSTAFF
+# Advanced Shortstaff
 
-**Trait:** Instinct; **Range:** Close; **Damage:** d8+7 mag; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** —
-
-_Primary Magical Weapon - Tier 3_
+- **Trait:** Instinct
+- **Range:** Close
+- **Damage:** d8+7 mag
+- **Burden:** One-Handed

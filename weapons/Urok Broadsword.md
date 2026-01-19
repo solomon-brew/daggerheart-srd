@@ -1,7 +1,12 @@
-# UROK BROADSWORD
+# Urok Broadsword
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+3 phy; **Burden:** One-Handed
+**_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Deadly:_** When you deal Severe damage, the target must mark an additional HP.
+- **Trait:** Finesse
+- **Range:** Melee
+- **Damage:** d8+3 phy
+- **Burden:** One-Handed
 
-_Primary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Deadly:_** When you deal Severe damage, the target must mark an additional HP.

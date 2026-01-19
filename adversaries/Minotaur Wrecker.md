@@ -1,14 +1,13 @@
-# MINOTAUR WRECKER
+# Minotaur Wrecker
 
-**_Tier 2 Bruiser_**
-_A massive bull-headed firbolg with a quick temper._
-**Motives & Tactics:** Consume, gore, navigate, overpower, pursue
+**_Tier 2 Bruiser._** _A massive bull-headed firbolg with a quick temper._
 
-> **Difficulty:** 16 | **Thresholds:** 14/27 | **HP:** 7 | **Stress:** 5
-> **ATK:** +2 | **Battleaxe:** Very Close | 2d8+5 phy
-> **Experience:** Navigation +2
+- **Motives & Tactics:** Consume, gore, navigate, overpower, pursue
+- **Difficulty:** 16 | **Thresholds:** 14/27 | **HP:** 7 | **Stress:** 5
+- **ATK:** +2 | **Battleaxe:** Very Close | 2d8+5 phy
+- **Experience:** Navigation +2
 
-## FEATURES
+### FEATURES
 
 **_Ramp Up - Passive:_** You must **spend a Fear** to spotlight the Minotaur. While spotlighted, they can make their standard attack against all targets within range.
 

@@ -1,7 +1,12 @@
-# KNUCKLE CLAWS
+# Knuckle Claws
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6+8 phy; **Burden:** One-Handed
+**_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Doubled Up:_** When you make an attack with your primary weapon, you can deal damage to another target within Melee range.
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d6+8 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 4_
+### FEATURE
+
+**_Doubled Up:_** When you make an attack with your primary weapon, you can deal damage to another target within Melee range.

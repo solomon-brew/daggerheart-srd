@@ -1,7 +1,6 @@
-# ONSLAUGHT
+# Onslaught
 
-> **Level 10 Blade Ability**
-> **Recall Cost:** 3
+**_Level 10_** _Blade Ability._ **_Recall Cost_** _3._
 
 When you successfully make an attack with your weapon, you never deal damage beneath a target's Major damage threshold (the target always marks a minimum of 2 Hit Points).
 

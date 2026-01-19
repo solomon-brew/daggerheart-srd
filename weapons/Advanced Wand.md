@@ -1,7 +1,8 @@
-# ADVANCED WAND
+# Advanced Wand
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d6+7 mag; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** —
-
-_Primary Magical Weapon - Tier 3_
+- **Trait:** Knowledge
+- **Range:** Far
+- **Damage:** d6+7 mag
+- **Burden:** One-Handed

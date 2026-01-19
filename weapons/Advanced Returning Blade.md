@@ -1,7 +1,12 @@
-# ADVANCED RETURNING BLADE
+# Advanced Returning Blade
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d8+6 mag; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Returning:_** When this weapon is thrown within its range, it appears in your hand immediately after the attack.
+- **Trait:** Finesse
+- **Range:** Close
+- **Damage:** d8+6 mag
+- **Burden:** One-Handed
 
-_Primary Magical Weapon - Tier 3_
+### FEATURE
+
+**_Returning:_** When this weapon is thrown within its range, it appears in your hand immediately after the attack.

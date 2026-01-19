@@ -1,7 +1,12 @@
-# DEVOURING DAGGER
+# Devouring Dagger
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+4 mag; **Burden:** One-Handed
+**_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Scary:_** On a successful attack, the target must mark a Stress.
+- **Trait:** Finesse
+- **Range:** Melee
+- **Damage:** d8+4 mag
+- **Burden:** One-Handed
 
-_Primary Magical Weapon - Tier 2_
+### FEATURE
+
+**_Scary:_** On a successful attack, the target must mark a Stress.

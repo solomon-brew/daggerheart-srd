@@ -1,7 +1,10 @@
-# HARROWBONE ARMOR
+# Harrowbone Armor
 
-> **Base Thresholds:** 9 / 21 | **Base Score:** 4
+**_Tier 2_** _Armor_
 
-**Feature:** **_Resilient:_** Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot.
+- **Base Thresholds:** 9 / 21
+- **Base Score:** 4
 
-_Armor - Tier 2_
+### FEATURE
+
+**_Resilient:_** Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot.

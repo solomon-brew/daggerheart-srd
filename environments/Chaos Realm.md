@@ -1,13 +1,12 @@
-# CHAOS REALM
+# Chaos Realm
 
-**_Tier 4 Traversal_**
-_An otherworldly space where the laws of reality are unstable and dangerous._
-**Impulses:** Annihilate certainty, consume power, defy logic
+**_Tier 4 Traversal._** _An otherworldly space where the laws of reality are unstable and dangerous._
 
-> **Difficulty:** 20
-> **Potential Adversaries:** Outer Realms Monstrosities (Abomination, Corruptor, Thrall)
+- **Impulses:** Annihilate certainty, consume power, defy logic
+- **Difficulty:** 20
+- **Potential Adversaries:** Outer Realms Monstrosities (Abomination, Corruptor, Thrall)
 
-## FEATURES
+### FEATURES
 
 **_Impossible Architecture - Passive:_** Up is down, down is right, right is starward. Gravity and directionality themselves are in flux, and any attempt to move through this realm is an odyssey unto itself, requiring a Progress Countdown (8). On a failure, a PC must mark a Stress in addition to the roll's other consequences. _What does it feel like to move in a space so alien to the Mortal Realm? What landmark or point do you fixate on to maintain your balance? What bizarre landmarks do you traverse on your journey?_
 

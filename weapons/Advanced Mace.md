@@ -1,7 +1,8 @@
-# ADVANCED MACE
+# Advanced Mace
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d8+7 phy; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 3_
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d8+7 phy
+- **Burden:** One-Handed

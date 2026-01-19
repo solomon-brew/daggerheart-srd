@@ -1,5 +1,5 @@
-# IMPROVED GRINDLETOOTH VENOM
+# Improved Grindletooth Venom
+
+**_Consumable_**
 
 You can apply this venom to a weapon that deals physical damage to add a d8 to your next damage roll with that weapon.
-
-_Consumable_

@@ -1,7 +1,8 @@
-# LEGENDARY GLOWING RINGS
+# Legendary Glowing Rings
 
-**Trait:** Agility; **Range:** Very Close; **Damage:** d10+11 mag; **Burden:** Two-Handed
+**_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** —
-
-_Primary Magical Weapon - Tier 4_
+- **Trait:** Agility
+- **Range:** Very Close
+- **Damage:** d10+11 mag
+- **Burden:** Two-Handed

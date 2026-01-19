@@ -1,7 +1,12 @@
-# TALON BLADES
+# Talon Blades
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d10+7 phy; **Burden:** Two-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Brutal:_** When you roll the maximum value on a damage die, roll an additional damage die.
+- **Trait:** Finesse
+- **Range:** Close
+- **Damage:** d10+7 phy
+- **Burden:** Two-Handed
 
-_Primary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Brutal:_** When you roll the maximum value on a damage die, roll an additional damage die.

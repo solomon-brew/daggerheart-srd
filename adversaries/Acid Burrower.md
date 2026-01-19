@@ -1,14 +1,13 @@
-# ACID BURROWER
+# Acid Burrower
 
-**_Tier 1 Solo_**
-_A horse-sized insect with digging claws and acidic blood._
-**Motives & Tactics:** Burrow, drag away, feed, reposition
+**_Tier 1 Solo._** _A horse-sized insect with digging claws and acidic blood._
 
-> **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 3
-> **ATK:** +3 | **Claws:** Very Close | 1d12+2 phy
-> **Experience:** Tremor Sense +2
+- **Motives & Tactics:** Burrow, drag away, feed, reposition
+- **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 3
+- **ATK:** +3 | **Claws:** Very Close | 1d12+2 phy
+- **Experience:** Tremor Sense +2
 
-## FEATURES
+### FEATURES
 
 **_Relentless (3) - Passive:_** The Burrower can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 

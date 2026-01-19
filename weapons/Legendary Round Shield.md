@@ -1,7 +1,12 @@
-# LEGENDARY ROUND SHIELD
+# Legendary Round Shield
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d4+6 phy; **Burden:** One-Handed
+**_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Protective:_** +4 to Armor Score
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d4+6 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 4_
+### FEATURE
+
+**_Protective:_** +4 to Armor Score

@@ -1,7 +1,6 @@
-# RAGE UP
+# Rage Up
 
-> **Level 6 Blade Ability**
-> **Recall Cost:** 1
+**_Level 6_** _Blade Ability._ **_Recall Cost_** _1._
 
 Before you make an attack, you can **mark a Stress** to gain a bonus to your damage roll equal to twice your Strength.
 

@@ -1,7 +1,6 @@
-# STEALTH EXPERTISE
+# Stealth Expertise
 
-> **Level 4 Midnight Ability**
-> **Recall Cost:** 0
+**_Level 4_** _Midnight Ability._ **_Recall Cost_** _0._
 
 When you roll with Fear while attempting to move unnoticed through a dangerous area, you can **mark a Stress** to roll with Hope instead.
 

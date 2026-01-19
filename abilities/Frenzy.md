@@ -1,7 +1,6 @@
-# FRENZY
+# Frenzy
 
-> **Level 8 Blade Ability**
-> **Recall Cost:** 3
+**_Level 8_** _Blade Ability._ **_Recall Cost_** _3._
 
 Once per long rest, you can go into a _Frenzy_ until there are no more adversaries within sight.
 

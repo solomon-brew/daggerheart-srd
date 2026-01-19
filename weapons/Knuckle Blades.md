@@ -1,7 +1,12 @@
-# KNUCKLE BLADES
+# Knuckle Blades
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+6 phy; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Brutal:_** When you roll the maximum value on a damage die, roll an additional damage die.
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d10+6 phy
+- **Burden:** Two-Handed
 
-_Primary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Brutal:_** When you roll the maximum value on a damage die, roll an additional damage die.

@@ -1,13 +1,13 @@
-# MYTHIC AERIAL HUNTER
+# Mythic Aerial Hunter
 
-_Tier 4_
+**_Tier 4_** _(Dragon, Pterodactyl, Roc, Wyvern, etc.)_
 
-(Dragon, Pterodactyl, Roc, Wyvern, etc.)
+- **Trait Bonus:** Finesse +3
+- **Evasion Bonus:** Evasion +4
+- **Attack:** Melee Finesse d10+11 phy
+- **Advantages:** attack, deceive, locate, navigate
 
-> **Trait Bonus:** Finesse +3 | **Evasion Bonus:** Evasion +4
-> **Attack:** Melee Finesse d10+11 phy | **Advantages:** attack, deceive, locate, navigate
-
-## FEATURES
+### FEATURES
 
 **_Carrier:_** You can carry up to three willing allies with you when you move.
 

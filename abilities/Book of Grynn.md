@@ -1,7 +1,6 @@
-# BOOK OF GRYNN
+# Book of Grynn
 
-> **Level 4 Codex Grimoire**
-> **Recall Cost:** 2
+**_Level 4_** _Codex Grimoire._ **_Recall Cost_** _2._
 
 _Arcane Deflection:_ Once per long rest, **spend a Hope** to negate the damage of an attack targeting you or an ally within Very Close range.
 

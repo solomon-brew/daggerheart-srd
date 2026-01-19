@@ -1,7 +1,12 @@
-# BLACK POWDER REVOLVER
+# Black Powder Revolver
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+8 phy; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Reloading:_** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again.
+- **Trait:** Finesse
+- **Range:** Far
+- **Damage:** d6+8 phy
+- **Burden:** One-Handed
 
-_Primary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Reloading:_** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again.

@@ -1,7 +1,12 @@
-# CURVED DAGGER
+# Curved Dagger
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+9 phy; **Burden:** One-Handed
+**_Tier 4_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Serrated:_** When you roll a 1 on a damage die, it deals 8 damage instead.
+- **Trait:** Finesse
+- **Range:** Melee
+- **Damage:** d8+9 phy
+- **Burden:** One-Handed
 
-_Primary Physical Weapon - Tier 4_
+### FEATURE
+
+**_Serrated:_** When you roll a 1 on a damage die, it deals 8 damage instead.

@@ -1,7 +1,12 @@
-# YUTARI BLOODBOW
+# Yutari Bloodbow
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+4 mag; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Brutal:_** When you roll the maximum value on a damage die, roll an additional damage die.
+- **Trait:** Finesse
+- **Range:** Far
+- **Damage:** d6+4 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 2_
+### FEATURE
+
+**_Brutal:_** When you roll the maximum value on a damage die, roll an additional damage die.

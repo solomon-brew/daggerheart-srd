@@ -1,7 +1,12 @@
-# IMPROVED WHIP
+# Improved Whip
 
-**Trait:** Presence; **Range:** Very Close; **Damage:** d6+2 phy; **Burden:** One-Handed
+**_Tier 2_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Startling:_** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
+- **Trait:** Presence
+- **Range:** Very Close
+- **Damage:** d6+2 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Startling:_** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.

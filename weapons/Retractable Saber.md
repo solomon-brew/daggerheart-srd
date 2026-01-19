@@ -1,7 +1,12 @@
-# RETRACTABLE SABER
+# Retractable Saber
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Retractable:_** The blade can be hidden in the hilt to avoid detection.
+- **Trait:** Presence
+- **Range:** Melee
+- **Damage:** d10+7 phy
+- **Burden:** One-Handed
 
-_Primary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Retractable:_** The blade can be hidden in the hilt to avoid detection.

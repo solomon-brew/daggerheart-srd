@@ -1,7 +1,10 @@
-# GAMBESON ARMOR
+# Gambeson Armor
 
-> **Base Thresholds:** 5 / 11 | **Base Score:** 3
+**_Tier 1_** _Armor_
 
-**Feature:** **_Flexible:_** +1 to Evasion
+- **Base Thresholds:** 5 / 11
+- **Base Score:** 3
 
-_Armor - Tier 1_
+### FEATURE
+
+**_Flexible:_** +1 to Evasion

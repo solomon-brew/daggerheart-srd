@@ -1,6 +1,5 @@
-# CRITICAL INSPIRATION
+# Critical Inspiration
 
-> **Level 3 Valor Ability**
-> **Recall Cost:** 1
+**_Level 3_** _Valor Ability._ **_Recall Cost_** _1._
 
 Once per rest, when you critically succeed on an attack, all allies within Very Close range can clear a Stress or gain a Hope.

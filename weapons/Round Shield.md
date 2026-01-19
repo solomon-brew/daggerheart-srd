@@ -1,7 +1,12 @@
-# ROUND SHIELD
+# Round Shield
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d4 phy; **Burden:** One-Handed
+**_Tier 1_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Protective:_** +1 to Armor Score
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d4 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 1_
+### FEATURE
+
+**_Protective:_** +1 to Armor Score

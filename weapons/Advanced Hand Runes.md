@@ -1,7 +1,8 @@
-# ADVANCED HAND RUNES
+# Advanced Hand Runes
 
-**Trait:** Instinct; **Range:** Very Close; **Damage:** d10+6 mag; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** —
-
-_Primary Magical Weapon - Tier 3_
+- **Trait:** Instinct
+- **Range:** Very Close
+- **Damage:** d10+6 mag
+- **Burden:** One-Handed

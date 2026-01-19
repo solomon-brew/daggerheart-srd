@@ -1,7 +1,12 @@
-# THISTLEBOW
+# Thistlebow
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d6+13 mag; **Burden:** Two-Handed
+**_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Reliable:_** +1 to attack rolls
+- **Trait:** Instinct
+- **Range:** Far
+- **Damage:** d6+13 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 4_
+### FEATURE
+
+**_Reliable:_** +1 to attack rolls

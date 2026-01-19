@@ -1,7 +1,12 @@
-# IMPROVED RETURNING BLADE
+# Improved Returning Blade
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d8+3 mag; **Burden:** One-Handed
+**_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Returning:_** When this weapon is thrown within its range, it appears in your hand immediately after the attack.
+- **Trait:** Finesse
+- **Range:** Close
+- **Damage:** d8+3 mag
+- **Burden:** One-Handed
 
-_Primary Magical Weapon - Tier 2_
+### FEATURE
+
+**_Returning:_** When this weapon is thrown within its range, it appears in your hand immediately after the attack.

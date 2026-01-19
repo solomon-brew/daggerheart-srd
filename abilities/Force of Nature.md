@@ -1,7 +1,6 @@
-# FORCE OF NATURE
+# Force of Nature
 
-> **Level 10 Sage Spell**
-> **Recall Cost:** 2
+**_Level 10_** _Sage Spell._ **_Recall Cost_** _2._
 
 **Mark a Stress** to transform into a hulking nature spirit, gaining the following benefits:
 

@@ -1,7 +1,12 @@
-# ILMARI'S RIFLE
+# Ilmari's Rifle
 
-**Trait:** Finesse; **Range:** Very Far; **Damage:** d6+6 mag; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Reloading:_** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again.
+- **Trait:** Finesse
+- **Range:** Very Far
+- **Damage:** d6+6 mag
+- **Burden:** One-Handed
 
-_Primary Magical Weapon - Tier 3_
+### FEATURE
+
+**_Reloading:_** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again.

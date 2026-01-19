@@ -1,14 +1,13 @@
-# FALLEN SORCERER
+# Fallen Sorcerer
 
-**_Tier 4 Support_**
-_A powerful mage bound by the bargains they made in life._
-**Motives & Tactics:** Acquire, dishearten, dominate, torment
+**_Tier 4 Support._** _A powerful mage bound by the bargains they made in life._
 
-> **Difficulty:** 19 | **Thresholds:** 26/42 | **HP:** 6 | **Stress:** 5
-> **ATK:** +4 | **Corrupted Staff:** Far | 4d6+10 mag
-> **Experience:** Ancient Knowledge +2
+- **Motives & Tactics:** Acquire, dishearten, dominate, torment
+- **Difficulty:** 19 | **Thresholds:** 26/42 | **HP:** 6 | **Stress:** 5
+- **ATK:** +4 | **Corrupted Staff:** Far | 4d6+10 mag
+- **Experience:** Ancient Knowledge +2
 
-## FEATURES
+### FEATURES
 
 **_Conflagration - Action:_** **Spend a Fear** to unleash an all-consuming firestorm and make an attack against all targets within Close range. Targets the Sorcerer succeeds against take **2d10+6** direct magic damage.
 

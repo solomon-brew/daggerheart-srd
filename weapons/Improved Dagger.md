@@ -1,7 +1,8 @@
-# IMPROVED DAGGER
+# Improved Dagger
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+4 phy; **Burden:** One-Handed
+**_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 2_
+- **Trait:** Finesse
+- **Range:** Melee
+- **Damage:** d8+4 phy
+- **Burden:** One-Handed

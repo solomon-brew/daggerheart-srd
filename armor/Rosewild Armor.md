@@ -1,7 +1,10 @@
-# ROSEWILD ARMOR
+# Rosewild Armor
 
-> **Base Thresholds:** 11 / 23 | **Base Score:** 5
+**_Tier 2_** _Armor_
 
-**Feature:** **_Hopeful:_** When you would spend a Hope, you can mark an Armor Slot instead.
+- **Base Thresholds:** 11 / 23
+- **Base Score:** 5
 
-_Armor - Tier 2_
+### FEATURE
+
+**_Hopeful:_** When you would spend a Hope, you can mark an Armor Slot instead.

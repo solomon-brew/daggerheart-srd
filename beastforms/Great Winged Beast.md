@@ -1,13 +1,13 @@
-# GREAT WINGED BEAST
+# Great Winged Beast
 
-_Tier 3_
+**_Tier 3_** _(Giant Eagle, Falcon, etc.)_
 
-(Giant Eagle, Falcon, etc.)
+- **Trait Bonus:** Finesse +2
+- **Evasion Bonus:** Evasion +3
+- **Attack:** Melee Finesse d8+6 phy
+- **Advantages:** deceive, distract, locate
 
-> **Trait Bonus:** Finesse +2 | **Evasion Bonus:** Evasion +3
-> **Attack:** Melee Finesse d8+6 phy | **Advantages:** deceive, distract, locate
-
-## FEATURES
+### FEATURES
 
 **_Bird's-Eye View:_** You can fly at will. Once per rest while you are airborne, you can ask the GM a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain advantage on the roll.
 

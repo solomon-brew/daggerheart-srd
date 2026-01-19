@@ -1,4 +1,4 @@
-# DRUID
+# Druid
 
 Becoming a druid is more than an occupation; it’s a calling for those who wish to learn from and protect the magic of the wilderness. While one might underestimate a gentle druid who practices the often-quiet work of cultivating flora, druids who channel the untamed forces of nature are terrifying to behold. Druids cultivate their abilities in small groups, often connected by a specific ethos or locale, but some choose to work alone. Through years of study and dedication, druids can learn to transform into beasts and shape nature itself.
 
@@ -18,17 +18,17 @@ Becoming a druid is more than an occupation; it’s a calling for those who wish
 
 ---
 
-## DRUID’S HOPE FEATURE
+### HOPE FEATURE
 
 **_Evolution:_** **Spend 3 Hope** to transform into a Beastform without marking a Stress. When you do, choose one trait to raise by +1 until you drop out of that Beastform.
 
-## CLASS FEATURES
+### CLASS FEATURES
 
 **_Beastform:_** Mark a Stress to magically transform into a creature of your tier or lower from the Beastform list. You can drop out of this form at any time. While transformed, you can't use weapons or cast spells from domain cards, but you can still use other features or abilities you have access to. Spells you cast before you transform stay active and last for their normal duration, and you can talk and communicate as normal. Additionally, you gain the Beastform's features, add their Evasion bonus to your Evasion, and use the trait specified in their statistics for your attack. While you're in a Beastform, your armor becomes part of your body and you mark Armor Slots as usual; when you drop out of a Beastform, those marked Armor Slots remain marked. If you mark your last Hit Point, you automatically drop out of this form.
 
 **_Wildtouch:_** You can perform harmless, subtle effects that involve nature—such as causing a flower to rapidly grow, summoning a slight gust of wind, or starting a campfire at will.
 
-## BEASTFORM OPTIONS
+### BEASTFORM OPTIONS
 
 When you use your "Beastform" feature, choose a creature category of your tier or lower. At the GM's discretion, you can describe yourself transforming into any animal that reasonably fits into that category.
 
@@ -79,11 +79,11 @@ Beastform categories are divided by tier. Each entry includes the following deta
 - [Mythic Beast](../beastforms/Mythic%20Beast.md)
 - [Mythic Hybrid](../beastforms/Mythic%20Hybrid.md)
 
-## DRUID SUBCLASSES
+### SUBCLASSES
 
 Choose either the **[Warden of the Elements](../subclasses/Warden%20of%20the%20Elements.md)** or **[Warden of Renewal](../subclasses/Warden%20of%20Renewal.md)** subclass.
 
-## BACKGROUND QUESTIONS
+### BACKGROUND QUESTIONS
 
 _Answer any of the following background questions. You can also create your own questions._
 
@@ -91,7 +91,7 @@ _Answer any of the following background questions. You can also create your own 
 - Who was the first wild animal you bonded with? Why did your bond end?
 - Who has been trying to hunt you down? What do they want from you?
 
-## CONNECTIONS
+### CONNECTIONS
 
 _Ask your fellow players one of the following questions for their character to answer, or create your own questions._
 

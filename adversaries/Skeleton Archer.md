@@ -1,13 +1,12 @@
-# SKELETON ARCHER
+# Skeleton Archer
 
-**_Tier 1 Ranged_**
-_A fragile skeleton with a shortbow and arrows._
-**Motives & Tactics:** Perforate distracted targets, play dead, steal skin
+**_Tier 1 Ranged._** _A fragile skeleton with a shortbow and arrows._
 
-> **Difficulty:** 9 | **Thresholds:** 4/7 | **HP:** 3 | **Stress:** 2
-> **ATK:** +2 | **Shortbow:** Far | 1d8+1 phy
+- **Motives & Tactics:** Perforate distracted targets, play dead, steal skin
+- **Difficulty:** 9 | **Thresholds:** 4/7 | **HP:** 3 | **Stress:** 2
+- **ATK:** +2 | **Shortbow:** Far | 1d8+1 phy
 
-## FEATURES
+### FEATURES
 
 **_Opportunist - Passive:_** When two or more adversaries are within Very Close range of a creature, all damage the Archer deals to that creature is doubled.
 

@@ -1,7 +1,10 @@
-# ELUNDRIAN CHAIN ARMOR
+# Elundrian Chain Armor
 
-> **Base Thresholds:** 9 / 21 | **Base Score:** 4
+**_Tier 2_** _Armor_
 
-**Feature:** **_Warded:_** You reduce incoming magic damage by your Armor Score before applying it to your damage thresholds.
+- **Base Thresholds:** 9 / 21
+- **Base Score:** 4
 
-_Armor - Tier 2_
+### FEATURE
+
+**_Warded:_** You reduce incoming magic damage by your Armor Score before applying it to your damage thresholds.

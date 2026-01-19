@@ -1,7 +1,12 @@
-# KEEPER'S STAFF
+# Keeper's Staff
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d6+4 mag; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Reliable:_** +1 to attack rolls
+- **Trait:** Knowledge
+- **Range:** Far
+- **Damage:** d6+4 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 2_
+### FEATURE
+
+**_Reliable:_** +1 to attack rolls

@@ -1,7 +1,10 @@
-# FULL FORTIFIED ARMOR
+# Full Fortified Armor
 
-> **Base Thresholds:** 15 / 40 | **Base Score:** 4
+**_Tier 4_** _Armor_
 
-**Feature:** **_Fortified:_** When you mark an Armor Slot, you reduce the severity of an attack by two thresholds instead of one.
+- **Base Thresholds:** 15 / 40
+- **Base Score:** 4
 
-_Armor - Tier 4_
+### FEATURE
+
+**_Fortified:_** When you mark an Armor Slot, you reduce the severity of an attack by two thresholds instead of one.

@@ -1,7 +1,12 @@
-# STEELFORGED HALBERD
+# Steelforged Halberd
 
-**Trait:** Strength; **Range:** Very Close; **Damage:** d8+4 phy; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Scary:_** On a successful attack, the target must mark a Stress.
+- **Trait:** Strength
+- **Range:** Very Close
+- **Damage:** d8+4 phy
+- **Burden:** Two-Handed
 
-_Primary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Scary:_** On a successful attack, the target must mark a Stress.

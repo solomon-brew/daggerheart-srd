@@ -1,14 +1,13 @@
-# GIANT RAT
+# Giant Rat
 
-**_Tier 1 Minion_**
-_A cat-sized rodent skilled at scavenging and survival._
-**Motives & Tactics:** Burrow, hunger, scavenge, wear down
+**_Tier 1 Minion._** _A cat-sized rodent skilled at scavenging and survival._
 
-> **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** -4 | **Claws:** Melee | 1 phy
-> **Experience:** Keen Senses +3
+- **Motives & Tactics:** Burrow, hunger, scavenge, wear down
+- **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
+- **ATK:** -4 | **Claws:** Melee | 1 phy
+- **Experience:** Keen Senses +3
 
-## FEATURES
+### FEATURES
 
 **_Minion (3) - Passive:_** The Rat is defeated when they take any damage. For every 3 damage a PC deals to the Rat, defeat an additional Minion within range the attack would succeed against.
 

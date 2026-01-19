@@ -1,14 +1,13 @@
-# PIRATE RAIDERS
+# Pirate Raiders
 
-**_Tier 1 Horde (3/HP)_**
-_Seafaring scoundrels moving in a ravaging pack._
-**Motives & Tactics:** Gang up, plunder, raid
+**_Tier 1 Horde (3/HP)._** _Seafaring scoundrels moving in a ravaging pack._
 
-> **Difficulty:** 12 | **Thresholds:** 5/11 | **HP:** 4 | **Stress:** 3
-> **ATK:** +1 | **Cutlass:** Melee | 1d8+2 phy
-> **Experience:** Sailor +3
+- **Motives & Tactics:** Gang up, plunder, raid
+- **Difficulty:** 12 | **Thresholds:** 5/11 | **HP:** 4 | **Stress:** 3
+- **ATK:** +1 | **Cutlass:** Melee | 1d8+2 phy
+- **Experience:** Sailor +3
 
-## FEATURES
+### FEATURES
 
 **_Horde (1d4+1) - Passive:_** When the Raiders have marked half or more of their HP, their standard attack deals **1d4+1** physical damage instead.
 

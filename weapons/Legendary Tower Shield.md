@@ -1,7 +1,12 @@
-# LEGENDARY TOWER SHIELD
+# Legendary Tower Shield
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6+6 phy; **Burden:** One-Handed
+**_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Barrier:_** +5 to Armor Score; -1 to Evasion.
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d6+6 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 4_
+### FEATURE
+
+**_Barrier:_** +5 to Armor Score; -1 to Evasion.

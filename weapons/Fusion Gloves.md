@@ -1,7 +1,12 @@
-# FUSION GLOVES
+# Fusion Gloves
 
-**Trait:** Knowledge; **Range:** Very Far; **Damage:** d6+9 mag; **Burden:** Two-Handed
+**_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Bonded:_** Gain a bonus to your damage rolls equal to your level.
+- **Trait:** Knowledge
+- **Range:** Very Far
+- **Damage:** d6+9 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 4_
+### FEATURE
+
+**_Bonded:_** Gain a bonus to your damage rolls equal to your level.

@@ -1,7 +1,6 @@
-# TEMPEST
+# Tempest
 
-> **Level 10 Sage Spell**
-> **Recall Cost:** 2
+**_Level 10_** _Sage Spell._ **_Recall Cost_** _2._
 
 Choose one of the following tempests and make a **Spellcast Roll** against all targets within Far range. Targets you succeed against experience its effects until the GM spends a Fear on their turn to end this spell.
 

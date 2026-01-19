@@ -1,7 +1,12 @@
-# GILDED BOW
+# Gilded Bow
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+7 mag; **Burden:** Two-Handed
+**_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Self-Correcting:_** When you roll a 1 on a damage die, it deals 6 damage instead.
+- **Trait:** Finesse
+- **Range:** Far
+- **Damage:** d6+7 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 3_
+### FEATURE
+
+**_Self-Correcting:_** When you roll a 1 on a damage die, it deals 6 damage instead.

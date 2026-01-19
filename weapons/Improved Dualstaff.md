@@ -1,7 +1,8 @@
-# IMPROVED DUALSTAFF
+# Improved Dualstaff
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d6+6 mag; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** —
-
-_Primary Magical Weapon - Tier 2_
+- **Trait:** Instinct
+- **Range:** Far
+- **Damage:** d6+6 mag
+- **Burden:** Two-Handed

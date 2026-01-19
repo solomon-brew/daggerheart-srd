@@ -1,13 +1,12 @@
-# WEAPONMASTER
+# Weaponmaster
 
-**_Tier 1 Bruiser_**
-_A master-at-arms wielding a sword twice their size._
-**Motives & Tactics:** Act first, aim for the weakest, intimidate
+**_Tier 1 Bruiser._** _A master-at-arms wielding a sword twice their size._
 
-> **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 6 | **Stress:** 3
-> **ATK:** +2 | **Claymore:** Very Close | 1d12+2 phy
+- **Motives & Tactics:** Act first, aim for the weakest, intimidate
+- **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 6 | **Stress:** 3
+- **ATK:** +2 | **Claymore:** Very Close | 1d12+2 phy
 
-## FEATURES
+### FEATURES
 
 **_Goading Strike - Action:_** Make a standard attack against a target. On a success, **mark a Stress** to _Taunt_ the target until their next successful attack. The next time the _Taunted_ target attacks, they have disadvantage against targets other than the Weaponmaster.
 

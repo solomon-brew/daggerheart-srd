@@ -1,7 +1,12 @@
-# ADVANCED GREATSWORD
+# Advanced Greatsword
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+9 phy; **Burden:** Two-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Massive:_** -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result.
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d10+9 phy
+- **Burden:** Two-Handed
 
-_Primary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Massive:_** -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result.

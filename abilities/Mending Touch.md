@@ -1,7 +1,6 @@
-# MENDING TOUCH
+# Mending Touch
 
-> **Level 1 Splendor Spell**
-> **Recall Cost:** 1
+**_Level 1_** _Splendor Spell._ **_Recall Cost_** _1._
 
 You lay your hands upon a creature and channel healing magic to close their wounds. When you can take a few minutes to focus on the target you're helping, you can **spend 2 Hope** to clear a Hit Point or a Stress on them.
 

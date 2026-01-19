@@ -1,10 +1,10 @@
-# {{ upper .name }}
+# {{ .name }}
 
 {{ .description }}
 
 _{{ .note }}_
 
-## COMMUNITY FEATURE
+### COMMUNITY FEATURE
 
 {{- range .feature }}
 

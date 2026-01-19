@@ -1,13 +1,12 @@
-# ELEMENTAL SPARK
+# Elemental Spark
 
-**_Tier 3 Minion_**
-_A blazing mote of elemental fire._
-**Motives & Tactics:** Blast, consume, gain mass
+**_Tier 3 Minion._** _A blazing mote of elemental fire._
 
-> **Difficulty:** 15 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** +0 | **Bursts of Fire:** Close | 5 mag
+- **Motives & Tactics:** Blast, consume, gain mass
+- **Difficulty:** 15 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
+- **ATK:** +0 | **Bursts of Fire:** Close | 5 mag
 
-## FEATURES
+### FEATURES
 
 **_Minion (9) - Passive:_** The Elemental is defeated when they take any damage. For every 9 damage a PC deals to the Elemental, defeat an additional Minion within range the attack would succeed against.
 

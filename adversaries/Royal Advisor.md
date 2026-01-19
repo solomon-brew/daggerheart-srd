@@ -1,14 +1,13 @@
-# ROYAL ADVISOR
+# Royal Advisor
 
-**_Tier 2 Social_**
-_A high-ranking courtier with the ear of the local nobility._
-**Motives & Tactics:** Curry favor, manufacture evidence, scheme
+**_Tier 2 Social._** _A high-ranking courtier with the ear of the local nobility._
 
-> **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 3 | **Stress:** 3
-> **ATK:** -3 | **Wand:** Far | 1d4+3 phy
-> **Experience:** Administration +3, Courtier +3
+- **Motives & Tactics:** Curry favor, manufacture evidence, scheme
+- **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 3 | **Stress:** 3
+- **ATK:** -3 | **Wand:** Far | 1d4+3 phy
+- **Experience:** Administration +3, Courtier +3
 
-## FEATURES
+### FEATURES
 
 **_Devastating Retort - Passive:_** A PC who rolls less than 17 on an action roll targeting the Advisor must mark a Stress.
 

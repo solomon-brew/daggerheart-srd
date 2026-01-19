@@ -1,7 +1,6 @@
-# RESTORATION
+# Restoration
 
-> **Level 6 Splendor Spell**
-> **Recall Cost:** 2
+**_Level 6_** _Splendor Spell._ **_Recall Cost_** _2._
 
 After a long rest, place a number of tokens equal to your Spellcast trait on this card. Touch a creature and spend any number of tokens to clear 2 Hit Points or 2 Stress for each token spent.
 

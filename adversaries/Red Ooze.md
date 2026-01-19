@@ -1,14 +1,13 @@
-# RED OOZE
+# Red Ooze
 
-**_Tier 1 Skulk_**
-_A moving mound of translucent flaming red slime._
-**Motives & Tactics:** Camouflage, consume and multiply, ignite, start fires
+**_Tier 1 Skulk._** _A moving mound of translucent flaming red slime._
 
-> **Difficulty:** 10 | **Thresholds:** 6/11 | **HP:** 5 | **Stress:** 3
-> **ATK:** +1 | **Ooze Appendage:** Melee | 1d8+3 mag
-> **Experience:** Camouflage +3
+- **Motives & Tactics:** Camouflage, consume and multiply, ignite, start fires
+- **Difficulty:** 10 | **Thresholds:** 6/11 | **HP:** 5 | **Stress:** 3
+- **ATK:** +1 | **Ooze Appendage:** Melee | 1d8+3 mag
+- **Experience:** Camouflage +3
 
-## FEATURES
+### FEATURES
 
 **_Creeping Fire - Passive:_** The Ooze can only move within Very Close range as their normal movement. They light any flammable object they touch on fire.
 

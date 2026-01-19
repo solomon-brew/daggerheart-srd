@@ -1,14 +1,13 @@
-# GREEN OOZE
+# Green Ooze
 
-**_Tier 1 Skulk_**
-_A moving mound of translucent green slime._
-**Motives & Tactics:** Camouflage, consume and multiply, creep up, envelop
+**_Tier 1 Skulk._** _A moving mound of translucent green slime._
 
-> **Difficulty:** 8 | **Thresholds:** 5/10 | **HP:** 5 | **Stress:** 2
-> **ATK:** +1 | **Ooze Appendage:** Melee | 1d6+1 mag
-> **Experience:** Camouflage +3
+- **Motives & Tactics:** Camouflage, consume and multiply, creep up, envelop
+- **Difficulty:** 8 | **Thresholds:** 5/10 | **HP:** 5 | **Stress:** 2
+- **ATK:** +1 | **Ooze Appendage:** Melee | 1d6+1 mag
+- **Experience:** Camouflage +3
 
-## FEATURES
+### FEATURES
 
 **_Slow - Passive:_** When you spotlight the Ooze and they don't have a token on their stat block, they can't act yet. Place a token on their stat block and describe what they're preparing to do. When you spotlight the Ooze and they have a token on their stat block, clear the token and they can act.
 

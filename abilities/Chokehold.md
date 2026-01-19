@@ -1,7 +1,6 @@
-# CHOKEHOLD
+# Chokehold
 
-> **Level 3 Midnight Ability**
-> **Recall Cost:** 1
+**_Level 3_** _Midnight Ability._ **_Recall Cost_** _1._
 
 When you position yourself behind a creature who's about your size, you can **mark a Stress** to pull them into a chokehold, making them temporarily _Vulnerable_.
 

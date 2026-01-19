@@ -1,7 +1,6 @@
-# BOOK OF YARROW
+# Book of Yarrow
 
-> **Level 10 Codex Grimoire**
-> **Recall Cost:** 2
+**_Level 10_** _Codex Grimoire._ **_Recall Cost_** _2._
 
 _Timejammer:_ Make a **Spellcast Roll (18)**. On a success, time temporarily slows to a halt for everyone within Far range except for you. It resumes the next time you make an action roll that targets another creature.
 

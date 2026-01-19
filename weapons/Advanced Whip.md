@@ -1,7 +1,12 @@
-# ADVANCED WHIP
+# Advanced Whip
 
-**Trait:** Presence; **Range:** Very Close; **Damage:** d6+4 phy; **Burden:** One-Handed
+**_Tier 3_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Startling:_** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
+- **Trait:** Presence
+- **Range:** Very Close
+- **Damage:** d6+4 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Startling:_** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.

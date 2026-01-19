@@ -1,7 +1,8 @@
-# SHORTBOW
+# Shortbow
 
-**Trait:** Agility; **Range:** Far; **Damage:** d6+3 phy; **Burden:** Two-Handed
+**_Tier 1_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 1_
+- **Trait:** Agility
+- **Range:** Far
+- **Damage:** d6+3 phy
+- **Burden:** Two-Handed

@@ -1,7 +1,12 @@
-# BROADSWORD
+# Broadsword
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8 phy; **Burden:** One-Handed
+**_Tier 1_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Reliable:_** +1 to attack rolls
+- **Trait:** Agility
+- **Range:** Melee
+- **Damage:** d8 phy
+- **Burden:** One-Handed
 
-_Primary Physical Weapon - Tier 1_
+### FEATURE
+
+**_Reliable:_** +1 to attack rolls

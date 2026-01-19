@@ -1,7 +1,6 @@
-# CINDER GRASP
+# Cinder Grasp
 
-> **Level 2 Arcana Spell**
-> **Recall Cost:** 1
+**_Level 2_** _Arcana Spell._ **_Recall Cost_** _1._
 
 Make a **Spellcast Roll** against a target within Melee range. On a success, the target instantly bursts into flames, takes **1d20+3** magic damage, and is temporarily lit _On Fire_.
 

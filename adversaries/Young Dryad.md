@@ -1,14 +1,13 @@
-# YOUNG DRYAD
+# Young Dryad
 
-**_Tier 1 Leader_**
-_An imperious tree-person leading their forest's defenses._
-**Motives & Tactics:** Command, nurture, prune the unwelcome
+**_Tier 1 Leader._** _An imperious tree-person leading their forest's defenses._
 
-> **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 2
-> **ATK:** +0 | **Scythe:** Melee | 1d8+5 phy
-> **Experience:** Leadership +3
+- **Motives & Tactics:** Command, nurture, prune the unwelcome
+- **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 2
+- **ATK:** +0 | **Scythe:** Melee | 1d8+5 phy
+- **Experience:** Leadership +3
 
-## FEATURES
+### FEATURES
 
 **_Voice of the Forest - Action:_** **Mark a Stress** to spotlight **1d4** allies within range of a target they can attack without moving. On a success, their attacks deal half damage.
 

@@ -1,13 +1,12 @@
-# OUTPOST TOWN
+# Outpost Town
 
-**_Tier 1 Social_**
-_A small town on the outskirts of a nation or region, close to a dungeon, tombs, or other adventuring destinations._
-**Impulses:** Drive the desperate to certain doom, profit off of ragged hope
+**_Tier 1 Social._** _A small town on the outskirts of a nation or region, close to a dungeon, tombs, or other adventuring destinations._
 
-> **Difficulty:** 12
-> **Potential Adversaries:** Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper), Masked Thief, Merchant
+- **Impulses:** Drive the desperate to certain doom, profit off of ragged hope
+- **Difficulty:** 12
+- **Potential Adversaries:** Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper), Masked Thief, Merchant
 
-## FEATURES
+### FEATURES
 
 **_Rumors Abound - Passive:_** Gossip is the fastest-traveling currency in the realm. A PC can inquire about major events by making a Presence Roll. What they learn depends on the outcome of their roll, based on the following criteria. _What news do the PCs have that they could pass along to curious travelers? What do the locals think about these events?_
 

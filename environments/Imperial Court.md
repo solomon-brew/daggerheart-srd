@@ -1,13 +1,12 @@
-# IMPERIAL COURT
+# Imperial Court
 
-**_Tier 4 Social_**
-_The majestic domain of a powerful empire, lavishly appointed with stolen treasures._
-**Impulses:** Justify and perpetuate imperial rule, seduce rivals with promises of power and comfort
+**_Tier 4 Social._** _The majestic domain of a powerful empire, lavishly appointed with stolen treasures._
 
-> **Difficulty:** 20
-> **Potential Adversaries:** Bladed Guard, Courtesan, Knight of the Realm, Monarch, Spy
+- **Impulses:** Justify and perpetuate imperial rule, seduce rivals with promises of power and comfort
+- **Difficulty:** 20
+- **Potential Adversaries:** Bladed Guard, Courtesan, Knight of the Realm, Monarch, Spy
 
-## FEATURES
+### FEATURES
 
 **_All Roads Lead Here - Passive:_** While in the Imperial Court, a PC has disadvantage on Presence Rolls made to take actions that don't fit the imperial way of life or support the empire's dominance. _How does the way language is used make even discussing alternative ways of living difficult? What obvious benefits for loyalty create friction when you try to discuss alternatives?_
 

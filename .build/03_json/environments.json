@@ -32,6 +32,7 @@
   },
   {
     "description": "An ambush is set to catch an unsuspecting party off-guard.",
+    "difficulty": "Special (see \"Relative Strength\")",
     "feature": [
       {
         "name": "Relative Strength - Passive",
@@ -52,6 +53,7 @@
   },
   {
     "description": "An ambush is set by the PCs to catch unsuspecting adversaries off-guard.",
+    "difficulty": "Special (see \"Relative Strength\")",
     "feature": [
       {
         "name": "Relative Strength - Passive",

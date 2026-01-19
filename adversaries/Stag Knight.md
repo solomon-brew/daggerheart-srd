@@ -1,14 +1,13 @@
-# STAG KNIGHT
+# Stag Knight
 
-**_Tier 3 Standard_**
-_A knight with huge, majestic antlers wearing armor made of dangerous thorns._
-**Motives & Tactics:** Isolate, maneuver, protect the forest, weed the unwelcome
+**_Tier 3 Standard._** _A knight with huge, majestic antlers wearing armor made of dangerous thorns._
 
-> **Difficulty:** 17 | **Thresholds:** 19/36 | **HP:** 7 | **Stress:** 5
-> **ATK:** +3 | **Bramble Sword:** Melee | 3d8+3 phy
-> **Experience:** Forest Knowledge +3
+- **Motives & Tactics:** Isolate, maneuver, protect the forest, weed the unwelcome
+- **Difficulty:** 17 | **Thresholds:** 19/36 | **HP:** 7 | **Stress:** 5
+- **ATK:** +3 | **Bramble Sword:** Melee | 3d8+3 phy
+- **Experience:** Forest Knowledge +3
 
-## FEATURES
+### FEATURES
 
 **_From Above - Passive:_** When the Knight succeeds on a standard attack from above a target, they deal **3d12+3** physical damage instead of their standard damage.
 

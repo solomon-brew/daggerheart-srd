@@ -1,7 +1,6 @@
-# GIFTED TRACKER
+# Gifted Tracker
 
-> **Level 1 Sage Ability**
-> **Recall Cost:** 0
+**_Level 1_** _Sage Ability._ **_Recall Cost_** _0._
 
 When you're tracking a specific creature or group of creatures based on signs of their passage, you can **spend any number of Hope** and ask the GM that many questions from the following list.
 

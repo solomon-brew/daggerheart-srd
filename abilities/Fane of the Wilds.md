@@ -1,7 +1,6 @@
-# FANE OF THE WILDS
+# Fane of the Wilds
 
-> **Level 9 Sage Ability**
-> **Recall Cost:** 2
+**_Level 9_** _Sage Ability._ **_Recall Cost_** _2._
 
 After a long rest, place a number of tokens equal to the number of Sage domain cards in your loadout and vault on this card.
 

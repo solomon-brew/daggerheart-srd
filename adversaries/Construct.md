@@ -1,13 +1,12 @@
-# CONSTRUCT
+# Construct
 
-**_Tier 1 Solo_**
-_A roughly humanoid being of stone and steel, assembled and animated by magic._
-**Motives & Tactics:** Destroy environment, serve creator, smash target, trample groups
+**_Tier 1 Solo._** _A roughly humanoid being of stone and steel, assembled and animated by magic._
 
-> **Difficulty:** 13 | **Thresholds:** 7/15 | **HP:** 9 | **Stress:** 4
-> **ATK:** +4 | **Fist Slam:** Melee | 1d20 phy
+- **Motives & Tactics:** Destroy environment, serve creator, smash target, trample groups
+- **Difficulty:** 13 | **Thresholds:** 7/15 | **HP:** 9 | **Stress:** 4
+- **ATK:** +4 | **Fist Slam:** Melee | 1d20 phy
 
-## FEATURES
+### FEATURES
 
 **_Relentless (2) - Passive:_** The Construct can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
 

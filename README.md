@@ -1,8 +1,6 @@
 # DAGGERHEART
 
-#### SYSTEM REFERENCE DOCUMENT 1.0
-
-**September 9, 2025 Version**
+**SYSTEM REFERENCE DOCUMENT 1.0 (VER SEP-09-2025)**
 
 SRD Writer: Rob Hebert | Technical Editor: Shawn Banerjee
 
@@ -12,21 +10,24 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 © 2025 Critical Role LLC. All rights reserved. For more information, please visit www.darringtonpress.com/license.
 
-# CONTENTS
+## CONTENTS
 
-##### [Introduction](#introduction)
+**[Introduction](#introduction)**
+
 - [What Is This?](#what-is-this)
 - [The Basics](#the-basics)
 
-##### [Character Creation](#character-creation)
+**[Character Creation](#character-creation)**
 
-##### [Core Materials](#core-materials)
+**[Core Materials](#core-materials)**
+
 - [Domains](#domains)
 - [Classes](#classes)
 - [Ancestries](#ancestries)
 - [Communities](#communities)
 
-##### [Core Mechanics](#core-mechanics)
+**[Core Mechanics](#core-mechanics)**
+
 - [Flow of the Game](#flow-of-the-game)
 - [Core Gameplay Loop](#core-gameplay-loop)
 - [The Spotlight](#the-spotlight)
@@ -50,7 +51,8 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 - [Consumables](#consumables)
 - [Gold](#gold)
 
-##### [Running an Adventure](#running-an-adventure)
+**[Running an Adventure](#running-an-adventure)**
+
 - [Introduction](#introduction)
 - [GM Guidance](#gm-guidance)
 - [Core GM Mechanics](#core-gm-mechanics)
@@ -59,14 +61,15 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 - [Additional GM Guidance](#additional-gm-guidance)
 - [The Witherwild](#the-witherwild)
 
-##### [Appendix](#appendix)
+**[Appendix](#appendix)**
+
 - [Domain Card Reference](#domain-card-reference)
 
-# INTRODUCTION
+## INTRODUCTION
 
 **Welcome to DAGGERHEART,** _a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure._
 
-## WHAT IS THIS?
+### WHAT IS THIS?
 
 This is the Daggerheart SRD (System Reference Document). It is a repository of the mechanical elements of the Daggerheart system, edited and organized for clarity, conciseness, and quick reference.
 
@@ -81,9 +84,9 @@ The Daggerheart SRD is not a replacement for the core rulebook, which contains s
 
 In short, it is Daggerheart, the system, boiled down to the bones—a lean and clean offering without all the flavor, style, and supporting material that makes the core rulebook such an evocative and enjoyable read. We hope this document proves useful to your table. Happy adventuring!
 
-## THE BASICS
+### THE BASICS
 
-### WHAT IS DAGGERHEART?
+#### WHAT IS DAGGERHEART?
 
 Daggerheart is a tabletop roleplaying game for one Game Master ("GM") and 2-5 players. Each game session lasts about 2-4 hours, and Daggerheart can be played as a one-shot or a multi-session campaign of any length.
 
@@ -91,11 +94,11 @@ During a session of Daggerheart the GM describes situations, narrates events, an
 
 When a player makes an action roll, they utilize Duality Dice—two differently colored 12-sided dice ("d12s") representing Hope and Fear. The Duality Dice are rolled, relevant modifiers are added to the results, and the total is compared to a Difficulty set by the GM. If the total meets or beats the Difficulty, the player succeeds. If it's lower, they fail. In addition, the situation changes based on which Duality Die rolls higher, either giving the player helpful Hope tokens or generating terrifying Fear tokens for the GM.
 
-#### THE GOLDEN RULE
+##### THE GOLDEN RULE
 
 The most important rule of Daggerheart is to make the game your own. The rules included in this SRD are designed to help you enjoy the experience at the table, but everyone has a different approach to interpreting rules and telling stories. The rules should never get in the way of the story you want to tell, the characters you want to play, or the adventures you want to have. As long as your group agrees, everything can be adjusted to fit your play style. If there's a rule you'd rather ignore or modify, feel free to implement any change with your table's consent.
 
-#### RULINGS OVER RULES
+##### RULINGS OVER RULES
 
 While playing Daggerheart, the GM and players should always prioritize rulings over rules. This SRD offers answers for many questions your table may have about the game, but it won't answer all of them. When you're in doubt about how a rule applies, the GM should make a ruling that aligns with the narrative.
 
@@ -105,13 +108,13 @@ Similarly, if your character does something that would logically result in immed
 
 As a narrative-focused game, Daggerheart is not a place where technical, out-of-context interpretations of the rules are encouraged. Everything should flow back to the fiction, and the GM has the authority and responsibility to make rulings about how rules are applied to underscore that fiction.
 
-# CHARACTER CREATION
+## CHARACTER CREATION
 
 Unless their table chooses to use pre-generated characters, each player creates their own PC by making a series of guided choices. Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they're more (or less) likely to succeed at when making moves and taking action.
 
 > _Note: You can fill in your character's name, pronouns, and Character Description details at any point of the character creation process._
 
-#### STEP 1
+##### STEP 1
 
 **Choose a Class and Subclass.**
 
@@ -121,7 +124,7 @@ Unless their table chooses to use pre-generated characters, each player creates 
 - Every class begins with one or more unique **class feature(s),** described at the bottom left of each class's character sheet. If your class feature prompts you to make a selection, do so now.
 - **Choose a Subclass.** **Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **subclass features.** Each class comprises two subclasses. Select one of your class's subclasses and take its **Foundation** card.
 
-#### STEP 2
+##### STEP 2
 
 **Choose Your Heritage.**
 
@@ -130,7 +133,7 @@ Your character's **heritage** combines two elements: **ancestry** and **communit
 - A character's **ancestry** reflects their lineage, impacting their physicality and granting them two unique **ancestry features.** Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah. To create a Mixed Ancestry, take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
 - Your character's **community** represents their culture or environment of origin and grants them a **community feature.** Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Slyborne, Underborne, Wanderborne, Wildborne.
 
-#### STEP 3
+##### STEP 3
 
 **Assign Character Traits.**
 
@@ -145,7 +148,7 @@ Your character has six traits that represent their physical, mental, and social 
 
 When you "roll with a trait," that trait's modifier is added to the roll's total. Assign the modifiers +2, +1, +1, +0, +0, -1 to your character's traits in any order you wish.
 
-#### STEP 4
+##### STEP 4
 
 **Record Additional Character Information.**
 
@@ -155,7 +158,7 @@ When you "roll with a trait," that trait's modifier is added to the roll's total
 - **Stress** reflects your ability to withstand the mental and emotional strain of dangerous situations and physical exertion. Every PC starts with 6 Stress slots.
 - **Hope** is a metacurrency that fuels special moves and certain abilities or features. All PCs start with 2 Hope; mark these in the Hope field of your character sheet.
 
-#### STEP 5
+##### STEP 5
 
 **Choose Your Starting Equipment.**
 
@@ -177,7 +180,7 @@ Add the following items to the **Inventory** fields on your character sheet:
 - If applicable, whichever class-specific item you selected to carry your spells
 - Any other GM-approved items you'd like to have at the start of the game
 
-#### STEP 6
+##### STEP 6
 
 **Create Your Background.**
 
@@ -185,7 +188,7 @@ Develop your character's **background** by answering the **background questions*
 
 > _**Note:** Your background has no explicit mechanical effect, but it greatly affects the character you'll play and the prep the GM will do. Throughout character creation, you can adjust choices you made in earlier steps to better reflect this background as your character takes shape. If you wish, you can leave your character's past more ambiguous for the time being and discover their backstory through play._
 
-#### STEP 7
+##### STEP 7
 
 **Create Your Experiences.**
 
@@ -206,13 +209,13 @@ An Experience is a word or phrase used to encapsulate a specific set of skills, 
 >
 > **Phrases:** _Catch Me If You Can, Fake It Till You Make It, First Time's the Charm, Hold the Line, I Won't Let You Down, I'll Catch You, I've Got Your Back, Knowledge Is Power, Nature's Friend, Never Again, No One Left Behind, Pick on Someone Your Own Size, The Show Must Go On, This Is Not a Negotiation, Wolf in Sheep's Clothing_
 
-#### STEP 8
+##### STEP 8
 
 **Choose Domain Cards.**
 
 Your class has access to two of the nine Domains included in the core set. Choose two cards from your class's domains, which are listed in the upper left of your character sheet. You can take one card from each domain or two from a single domain, whichever you prefer.
 
-#### STEP 9
+##### STEP 9
 
 **Create Your Connections.**
 
@@ -224,9 +227,9 @@ Connections are the relationships between the PCs. To create connections, follow
 
 > _**Note:** A player can reject a suggested connection for any reason, and it's okay if there isn't an established connection between every pair of PCs—you can always discover and develop those relationships through play._
 
-# CORE MATERIALS
+## CORE MATERIALS
 
-## DOMAINS
+### DOMAINS
 
 The Daggerheart core set includes 9 Domain Decks, each comprising a collection of cards granting features or special abilities expressing a particular theme.
 
@@ -242,7 +245,7 @@ The Daggerheart core set includes 9 Domain Decks, each comprising a collection o
 - [Splendor](domains/Splendor.md)
 - [Valor](domains/Valor.md)
 
-### CLASS DOMAINS
+#### CLASS DOMAINS
 
 Each class grants access to two domains:
 
@@ -258,11 +261,11 @@ Each class grants access to two domains:
 
 PCs acquire two 1st-level domain cards at character creation and an additional domain card at or below their level each time they level up.
 
-### DOMAIN CARDS
+#### DOMAIN CARDS
 
 Each domain card provides one or more features your PC can utilize during their adventures. Some domain cards provide moves you can make, such as a unique attack or a spell. Others offer passive effects, new downtime or social encounter abilities, or one-time benefits.
 
-##### DOMAIN CARD ANATOMY
+###### DOMAIN CARD ANATOMY
 
 Each domain card includes six elements:
 
@@ -273,7 +276,7 @@ Each domain card includes six elements:
 - **Type.** The card's **type** is listed in the center above the title. There are three types of domain cards: **abilities, spells,** and **grimoires.** Abilities are typically non-magical in nature, while spells are magical. Grimoires are unique to the Codex domain and grant access to a collection of less potent spells. Some game mechanics only apply to certain types of cards.
 - **Feature.** The text on the bottom half of the card describes its feature(s), including any special rules you need to follow when you use that card.
 
-##### LOADOUT & VAULT
+###### LOADOUT & VAULT
 
 Your **loadout** is the set of acquired domain cards whose effects your PC can use during play. You can have up to 5 domain cards in your loadout at one time. Once you've acquired six or more domain cards, you must choose five to keep in your loadout; the rest are considered to be in your **vault.** Vault cards are inactive and do not influence play
 
@@ -285,13 +288,13 @@ To move a card from your vault to your loadout at any other time, you must mark 
 
 When you gain a new domain card at level-up, you can immediately move it into your loadout for free. If your loadout is already full, you must also move a card from your loadout to your vault to make space.
 
-##### USAGE LIMITS
+###### USAGE LIMITS
 
 If a domain card restricts how often it can be used, you can track such limits with whatever method you prefer, such as turning the card sideways, flipping it facedown, or using tokens.
 
 > _**Note:** if an effect or ability gives you a number of uses equal to a trait with a modifier of +0 or less, it grants you 0 uses._
 
-## CLASSES
+### CLASSES
 
 A **class** is a role-based archetype that determines a PC's:
 
@@ -303,7 +306,7 @@ A **class** is a role-based archetype that determines a PC's:
 
 There are 9 classes in the Daggerheart core materials: [Bard](classes/Bard.md), [Druid](classes/Druid.md), [Guardian](classes/Guardian.md), [Ranger](classes/Ranger.md), [Rogue](classes/Rogue.md), [Seraph](classes/Seraph.md), [Sorcerer](classes/Sorcerer.md), [Warrior](classes/Warrior.md), and [Wizard](classes/Wizard.md).
 
-#### SUBCLASSES
+##### SUBCLASSES
 
 Each class is divided into two **subclasses,** each of which further defines and highlights one aspect of its class archetype. Your chosen subclass grants the following:
 
@@ -314,7 +317,7 @@ Each class is divided into two **subclasses,** each of which further defines and
 
 The Daggerheart core set includes cards detailing each foundation, specialization, and mastery feature. When you acquire one of these features, take its card for use as a reference during play.
 
-## ANCESTRIES
+### ANCESTRIES
 
 **Ancestries** represent your character's lineage, which affects their physical appearance and access to certain special abilities. The following section describes each ancestry in Daggerheart and the characteristics generally shared by members of that ancestry, however, each player decides how much their character aligns with the "standard" or "average" expression of their ancestry.
 
@@ -324,13 +327,13 @@ Some ancestries are described using the term "humanoid." This does not imply any
 
 The core ruleset includes the following ancestries: [Clank](ancestries/Clank.md), [Drakona](ancestries/Drakona.md), [Dwarf](ancestries/Dwarf.md), [Elf](ancestries/Elf.md), [Faerie](ancestries/Faerie.md), [Faun](ancestries/Faun.md), [Firbolg](ancestries/Firbolg.md), [Fungril](ancestries/Fungril.md), [Galapa](ancestries/Galapa.md), [Giant](ancestries/Giant.md), [Goblin](ancestries/Goblin.md), [Halfling](ancestries/Halfling.md), [Human](ancestries/Human.md), [Infernis](ancestries/Infernis.md), [Katari](ancestries/Katari.md), [Orc](ancestries/Orc.md), [Ribbet](ancestries/Ribbet.md), [Simiah](ancestries/Simiah.md), and Mixed Ancestry.
 
-##### ANCESTRY FEATURES
+###### ANCESTRY FEATURES
 
 Each ancestry grants two **ancestry features.** While some features (such as the ability to fly) are implicitly tied to an ancestry's anatomy, players determine their characters' physical form. Work with the GM to re-flavor any implied traits that don't align with your character concept.
 
 If you'd like to make a character who combines more than one ancestry, see "Mixed Ancestry."
 
-### MIXED ANCESTRY
+#### MIXED ANCESTRY
 
 Families within the world of Daggerheart are as unique as the peoples and cultures that inhabit it. Anyone's appearance and abilities can be shaped by blood, magic, proximity, or a variety of other factors.
 
@@ -343,7 +346,7 @@ If you decide that your character is a descendant of multiple ancestries and you
 
 Your character's heritage might include more than two ancestries, but you still only choose features from two. You can represent additional ancestries through their appearance or backstory.
 
-## COMMUNITIES
+### COMMUNITIES
 
 Communities represent a key aspect of the **culture, class,** or **environment of origin** that has had the most influence over your character's upbringing.
 
@@ -351,17 +354,17 @@ Your character's community grants them a **community feature.** Each community c
 
 The core ruleset includes the following communities: [Highborne](communities/Highborne.md), [Loreborne](communities/Loreborne.md), [Orderborne](communities/Orderborne.md), [Ridgeborne](communities/Ridgeborne.md), [Seaborne](communities/Seaborne.md), [Slyborne](communities/Slyborne.md), [Underborne](communities/Underborne.md), [Wanderborne](communities/Wanderborne.md), [Wildborne](communities/Wildborne.md).
 
-# CORE MECHANICS
+## CORE MECHANICS
 
-## FLOW OF THE GAME
+### FLOW OF THE GAME
 
 Daggerheart is a conversation. The GM describes fictional scenarios involving the PCs, and the players take turns describing how their characters react. The goal of every person at the table is to build upon everyone else's ideas and collaboratively tell a satisfying story. The system facilitates this collaborative process by providing structure to the conversation and mechanics for resolving moments of tension where fate or fortune determine the outcome of events.
 
-### PLAYER PRINCIPLES & BEST PRACTICES
+#### PLAYER PRINCIPLES & BEST PRACTICES
 
 To get the most out of Daggerheart, we recommend players keep the following principles and practices in mind throughout each session:
 
-#### PRINCIPLES
+##### PRINCIPLES
 
 - Be a fan of your character and their journey.
 - Spotlight your friends.
@@ -370,7 +373,7 @@ To get the most out of Daggerheart, we recommend players keep the following prin
 - Play to find out what happens.
 - Hold on gently.
 
-#### BEST PRACTICES
+##### BEST PRACTICES
 
 - Embrace danger.
 - Use your resources.
@@ -379,33 +382,33 @@ To get the most out of Daggerheart, we recommend players keep the following prin
 
 > _For more information, see the Daggerheart Core Rulebook, pages 9 and 108._
 
-## CORE GAMEPLAY LOOP
+### CORE GAMEPLAY LOOP
 
 The **core gameplay loop** is the procedure that drives every scene, both in and out of combat:
 
-#### STEP 1: SET THE SCENE
+##### STEP 1: SET THE SCENE
 
 The GM describes a scenario, establishing the PCs' surroundings and any dangers, NPCs, or other important details the characters would notice.
 
-#### STEP 2: ASK AND ANSWER QUESTIONS
+##### STEP 2: ASK AND ANSWER QUESTIONS
 
 The players ask clarifying questions to explore the scene more deeply and gather information that could inform their characters' actions. The GM responds to these questions by giving the players information their characters could easily obtain, or by asking questions of their own to the players. The players also respond to any questions the GM poses to them. In this way, the table builds out the fiction collaboratively.
 
-#### STEP 3: BUILD ON THE FICTION
+##### STEP 3: BUILD ON THE FICTION
 
 As the scene develops, the players find opportunities to take action—problems to solve, obstacles to overcome, mysteries to investigate, and so on. The players describe how their characters proceed; if their proposed actions carry no chance of failure (or if failure would be boring), they automatically succeed. But if the outcome of their action is unknown, the GM calls for an action roll. Either way, the table works the outcome into the story and moves the fiction forward, narrating how the PC's actions have changed things.
 
-#### STEP 4: GO BACK TO STEP 1
+##### STEP 4: GO BACK TO STEP 1
 
 The process repeats from the beginning, with the GM relaying any updated details or material changes to the players. This process continues until the end of the scene is triggered by a mechanic or arrives organically.
 
-## THE SPOTLIGHT
+### THE SPOTLIGHT
 
 The **spotlight** is a symbol that represents the table's attention—and therefore the immediate focus of both the narrative and the game mechanics. Any time a character or player becomes the focus of a scene, they "are in the spotlight" or "have the spotlight."
 
 The spotlight moves around the table organically as scenes unfold unless a mechanical trigger determines where the spotlight goes next. For example, when a player fails an action roll, the mechanics prompt the GM to seize the spotlight and make a GM move.
 
-## TURN ORDER & ACTION ECONOMY
+### TURN ORDER & ACTION ECONOMY
 
 Daggerheart's turns don't follow a traditional, rigid format: there is no explicit initiative mechanic and characters don't have a set number of actions they can take or things they can do before the spotlight passes to someone else. A player with the spotlight describes what their character does and the spotlight simply swings to whoever:
 
@@ -417,15 +420,15 @@ Daggerheart's turns don't follow a traditional, rigid format: there is no explic
 >
 > If your group prefers a more traditional action economy, you can use tokens to track how many times a player has had the spotlight: At the start of a session or scene, each player adds a certain number of tokens (we recommend 3) to their character sheet and removes a token each time they take an action. If the spotlight would swing to someone without any tokens, it swings to someone else instead. Once every player has used all their available tokens, players refill their character sheet with the same number of tokens as before, then continue playing.
 
-## MAKING MOVES & TAKING ACTION
+### MAKING MOVES & TAKING ACTION
 
 Any time a character does something to advance the story, such as speaking with another character, interacting with the environment, making an attack, casting a spell, or using a class feature, they are making a move.
 
-#### ACTION ROLLS
+##### ACTION ROLLS
 
 Any move where success would be trivial or failure would be boring automatically succeeds, but any move that's dicult to accomplish or risky to attempt triggers an **action roll.**
 
-#### OVERVIEW
+##### OVERVIEW
 
 All action rolls require a pair of d12s called **Duality Dice.** These are two visually distinct twelve-sided dice, with one die representing Hope and the other representing Fear.
 
@@ -440,39 +443,39 @@ To make an action roll, you roll the Duality Dice, sum the results, apply any re
 
 After resolving the action roll, the table works together to weave the outcome into the narrative and play continues.
 
-##### FAILING FORWARD
+###### FAILING FORWARD
 
 In Daggerheart, every time you roll the dice, the scene changes in some way. There is no such thing as a roll where "nothing happens," because the fiction constantly evolves based on the successes and failures of the characters.
 
-#### PROCEDURE
+##### PROCEDURE
 
 The following steps describe in more detail the procedure that all action rolls utilize:
 
-##### STEP 1: PICK AN APPROPRIATE TRAIT
+###### STEP 1: PICK AN APPROPRIATE TRAIT
 
 Some actions and effects specify in their description which trait applies to the roll; otherwise, the GM tells the acting player which character trait best applies to the action being attempted. If more than one trait could apply to the roll, the GM chooses or lets the acting player decide.
 
-##### STEP 2: DETERMINE THE DIFFICULTY
+###### STEP 2: DETERMINE THE DIFFICULTY
 
 Some actions and features say in their description what the Difficulty is. Otherwise, the GM determines the Difficulty based on the scenario. The GM can choose whether to share the Difficulty with the table. In either case, the GM should communicate the potential consequences of failure to the acting player.
 
-##### STEP 3: APPLY EXTRA DICE AND MODIFIERS
+###### STEP 3: APPLY EXTRA DICE AND MODIFIERS
 
 The acting player decides whether to Utilize an Experience or activate other effects, then, if applicable, adds the appropriate tokens and dice (such as advantage or Rally dice) to their dice pool.
 
 > _**Note:** Unless an action, ability, or feature specifically allows for it, a player must declare the use of any Experiences, extra dice, or other modifiers before they roll._
 
-##### STEP 4: ROLL THE DICE
+###### STEP 4: ROLL THE DICE
 
 The acting player rolls their entire dice pool and announces the results in the format of "[total result] with [Hope/Fear]" or "Critical Success!" in the case of matching Duality Dice.
 
 > _**Example:** A player is making an action roll with a +1 in the relevant trait and no other modifiers; they roll the Duality Dice and get a result of 5 on their Hope Die and 7 on their Fear Die, then announce "I rolled a 13 with Fear!"_
 
-#### STEP 5: RESOLVE THE OUTCOME
+##### STEP 5: RESOLVE THE OUTCOME
 
 The active player and the GM work together, along with the suggestions and support of the rest of the table, to resolve the outcome of the action.
 
-### GM MOVES AND ADVERSARY ACTIONS
+#### GM MOVES AND ADVERSARY ACTIONS
 
 GMs also make moves. They should consider making a move when a player does one of the following things:
 
@@ -488,7 +491,7 @@ Many adversaries and environments have **Fear Features**, especially powerful or
 
 > _**Note:** This Fear is in addition to any Fear the GM has previously spent to seize the spotlight or activate another action or ability._
 
-### ADVERSARY ACTIONS
+#### ADVERSARY ACTIONS
 
 When play passes to the GM, the GM can make a GM move to spotlight an adversary. A spotlighted adversary can:
 
@@ -500,11 +503,11 @@ When play passes to the GM, the GM can make a GM move to spotlight an adversary.
 
 The GM can spend additional Fear to spotlight additional adversaries. Once the GM has finished, the spotlight swings back to the PCs.
 
-### SPECIAL ROLLS
+#### SPECIAL ROLLS
 
 Some rolls have unique specifications or otherwise modify the action roll procedure: trait rolls, Spellcast Rolls, attack rolls, and damage rolls. Unless otherwise noted, you can apply any bonus, modifier, or effect to a special roll as if it were a standard action roll.
 
-##### TRAIT ROLLS
+###### TRAIT ROLLS
 
 An action roll that specifies which character trait applies to it is called a **trait roll.** In the text of a feature or effect, a trait roll is referenced with the format "[Trait] Roll (Difficulty)" (e.g., "Agility Roll (12)"). If the text of an effect doesn't specify a trait roll's Difficulty, the GM sets the Difficulty based on the circumstances.
 
@@ -512,7 +515,7 @@ Features and effects that affect a trait roll also affect any action roll that u
 
 > **Example:** The katari's ancestry feature "Feline Instincts," which allows the katari to reroll an Agility Roll, can also be used on a standard action roll using Agility to traverse dangerous terrain or on an attack roll made with a weapon that uses Agility.
 
-##### SPELLCAST ROLLS
+###### SPELLCAST ROLLS
 
 **Spellcast Rolls** are trait rolls that require you to use your Spellcast trait. Your Spellcast trait, if you have one, is determined by your subclass.
 
@@ -526,7 +529,7 @@ Spellcast Rolls are only made when a character uses a feature that requires one.
 >
 > _You can cast and maintain the effects of more than one spell at the same time._
 
-##### REACTION ROLLS
+###### REACTION ROLLS
 
 A **reaction roll** is made in response to an attack or a hazard, representing a character's attempt to avoid or withstand an imminent effect.
 
@@ -534,13 +537,13 @@ Reaction rolls work like action rolls, except they don't generate Hope or Fear, 
 
 If you critically succeed on a reaction roll, you don't clear a Stress or gain a Hope, but you do ignore any effects that would have impacted you on a success, such as taking damage or marking Stress.
 
-##### GROUP ACTION ROLLS
+###### GROUP ACTION ROLLS
 
 When multiple PCs take action together, the party chooses one PC to **lead the action.** Each other player then describes how their character collaborates on the task. The leader makes an action roll as usual, while the other players make reaction rolls using whichever traits they and the GM decide fit best.
 
 The lead character gains a +1 bonus to their lead action roll for each of these reaction rolls that succeeded and a -1 penalty for each these reaction rolls that failed.
 
-##### TAG TEAM ROLLS
+###### TAG TEAM ROLLS
 
 Each player can, once per session, initiate a **Tag Team Roll** between their character and another PC by spending 3 Hope. The players work with one another to describe how they combine their actions in a unique and exciting way. Both players make separate action rolls; before resolving the roll's outcome, choose one of the rolls to apply to both actions. On a roll with Hope, all PCs involved gain a Hope. On a roll with Fear, the GM gains a Fear token for each PC involved.
 
@@ -552,7 +555,7 @@ On a successful Tag Team attack roll, both players roll damage and add the total
 >
 > _Though each player may only initiate one Tag Team Roll per session, one PC can be involved in multiple Tag Team Rolls._
 
-### ADVANTAGE & DISADVANTAGE
+#### ADVANTAGE & DISADVANTAGE
 
 Some features and effects let you roll with advantage or disadvantage on an action or reaction roll:
 
@@ -563,11 +566,11 @@ Advantage or disadvantage can be granted or imposed by mechanical triggers or at
 
 Advantage and disadvantage dice cancel each out, one-forone, when they would be added to the same dice pool, so you'll never roll both at the same time. If you have advantage or disadvantage from other sources that don't affect your own dice pool, such as another player's Help an Ally move, their effects stack with your rolled results.
 
-### HOPE & FEAR
+#### HOPE & FEAR
 
 **Hope** and **Fear** are metacurrencies representing the cosmic forces that shape the events of your table's story. Hope powers PC abilities and features, while Fear powers the abilities of the GM and the adversaries and environments they control.
 
-##### HOPE
+###### HOPE
 
 Every PC starts with 2 Hope at character creation and gains more throughout play. A PC can have a maximum of 6 Hope at one time, and Hope carries over between sessions.
 
@@ -580,21 +583,21 @@ Players can spend Hope to:
 
 > _**Note:** When using a Hope Feature, if you rolled with Hope for that action, the Hope you gain from that roll can be spent on that feature (or toward it, if it requires spending multiple Hope)._
 
-#### FEAR
+##### FEAR
 
 The GM gains Fear whenever a player rolls with Fear and can spend Fear at any time to make or enhance a GM move or to use a Fear Feature. The GM can have up to 12 Fear at one time. Fear carries over between sessions.
 
-## COMBAT
+### COMBAT
 
 Though Daggerheart relies on the same flow of collaborative storytelling in and out of combat, physical conflicts rely more heavily on several key mechanics related to attacking, maneuvering, and taking damage.
 
-### EVASION
+#### EVASION
 
 **Evasion** represents a character's ability to avoid attacks and other unwanted effects. Any roll made against a PC has a Difficulty equal to the target's Evasion. A PC's base Evasion is determined by their class, but can be modified by domain cards, equipment, conditions, and other effects.
 
 > _**Note**: attacks rolled against adversaries use the target's Difficulty instead of Evasion._
 
-### HIT POINTS & DAMAGE THRESHOLDS
+#### HIT POINTS & DAMAGE THRESHOLDS
 
 **Hit Points (HP)** represent a character's ability to withstand physical injury. When a character takes damage, they mark 1 to 3 HP, based on their **damage thresholds:**
 
@@ -617,7 +620,7 @@ Characters can clear Hit Points by taking downtime moves (see: Downtime) or by a
 >
 > If a character ever takes damage equal to twice their Severe threshold, they mark 4 HP instead of 3.
 
-## STRESS
+### STRESS
 
 **Stress** represents how much mental, physical, and emotional strain a character can endure. All classes start with 6 Stress slots. You'll be able to increase the number of Stress slots you have available as you level up, to a maximum of 12. Some special abilities or effects require the character activating them to mark Stress, and the GM can require a PC to mark Stress as a GM move or to represent the cost, complication, or consequence of an action roll.
 
@@ -627,13 +630,13 @@ When a character must mark 1 or more Stress but can't, they mark 1 HP instead. A
 
 PCs can clear Stress by making downtime moves (see: Downtime). A PC's maximum Stress is determined by their class, but they can increase it through advancements, abilities, and other effects.
 
-## ATTACKING
+### ATTACKING
 
-##### ATTACK ROLLS
+###### ATTACK ROLLS
 
 An **attack roll** is an action roll intended to inflict harm. The trait that applies to an attack roll is specified by the weapon or spell being used. Unarmed attack rolls use either Strength or Finesse (GM's choice). An attack roll's Difficulty, unless otherwise noted, is equal to the Difficulty score of its target.
 
-##### DAMAGE ROLLS
+###### DAMAGE ROLLS
 
 On a successful attack, roll damage. Damage is calculated from the **damage roll** listed in the attack's description with the format "xdy+[modifier]" _(e.g., for a spell that inflicts "1d8+2" damage, you roll an eight-sided and add 2 to the result; the damage dealt is equal to the total)._
 
@@ -645,15 +648,15 @@ For weapons, the number of damage dice you roll is equal to your **Proficiency.*
 
 Successful unarmed attacks inflict [Proficiency]d4 damage.
 
-##### CRITICAL DAMAGE
+###### CRITICAL DAMAGE
 
 When you get a critical success (i.e., you roll matching values on your Duality Dice) on an attack roll, you deal extra damage. Make the damage roll as usual, but add the maximum possible result of the damage dice to the final total. For instance, if an attack would normally deal 2d8+1 damage, a critical success would deal 2d8+1+16.
 
-##### DAMAGE TYPES
+###### DAMAGE TYPES
 
 There are two damage types: **physical damage (phy)** and **magic damage (mag)**. Unless stated otherwise, mundane weapons and unarmed attacks deal physical damage, and spells deal magic damage.
 
-##### RESISTANCE, IMMUNITY, AND DIRECT DAMAGE
+###### RESISTANCE, IMMUNITY, AND DIRECT DAMAGE
 
 If a target has **resistance** to a damage type, then they reduce incoming damage of that type by half before comparing it to their Hit Point Thresholds. If the target has additional ways of reducing incoming damage, such as marking Armor Slots, they apply the resistance effect first. The effects of multiple resistances to the same damage type do not stack.
 
@@ -663,17 +666,17 @@ If an attack deals both physical and magic damage, a character can only benefit 
 
 **Direct damage** is damage that can't be reduced by marking Armor Slots.
 
-##### MULTI-TARGET ATTACK ROLLS
+###### MULTI-TARGET ATTACK ROLLS
 
 If a spell or ability allows you to target multiple adversaries, make one attack roll and one damage roll, then apply the results to each target individually.
 
-##### MULTIPLE DAMAGE SOURCES
+###### MULTIPLE DAMAGE SOURCES
 
 Damage dealt simultaneously from multiple sources is always totaled before it's compared to its target's damage thresholds.
 
 > For example, if a PC with orc ancestry makes a successful attack against a target in Melee range and decides to spend a Hope to use their "Tusks" feature (which gives them an extra 1d6 damage on a damage roll), they would roll their normal weapon damage and add a d6 to the result, then deal that total damage to the adversary.
 
-## MAPS, RANGE, AND MOVEMENT
+### MAPS, RANGE, AND MOVEMENT
 
 You can play Daggerheart using "theater of the mind" or maps and miniatures. The conversions below from abstract ranges to physical measurements assume 1 inch of map represents about 5 feet of fictional space.
 
@@ -701,37 +704,37 @@ A weapon, spell, ability, item, or other effect's stated range is a maximum rang
 > - **Very Far:** 13+ squares
 > - **Out of Range:** Off the battlemap
 
-##### MOVEMENT UNDER PRESSURE
+###### MOVEMENT UNDER PRESSURE
 
 When you're under pressure or in danger and make an action roll, you can move to a location within Close range as part of that action. If you're not already making an action roll, or if you want to move farther than your Close range, you need to succeed on an Agility Roll to safely reposition yourself.
 
 An adversary can move within Close range for free as part of an action, or within Very Far range as a separate action.
 
-##### AREA OF EFFECT
+###### AREA OF EFFECT
 
 Unless stated otherwise, all the targets of a group effect must be within Very Close range of a single origin point within your effect's range.
 
-##### LINE OF SIGHT & COVER
+###### LINE OF SIGHT & COVER
 
 Unless stated otherwise, a ranged attacker must have **line of sight** to their intended target to make an attack roll. If a partial obstruction lies between the attacker and target, the target has **cover.** Attacks made through cover are rolled with disadvantage. If the obstruction is total, there is no line of sight.
 
-## CONDITIONS
+### CONDITIONS
 
 **Conditions** are effects that grant specific benefits or drawbacks to the target they are attached to.
 
-#### STANDARD CONDITIONS
+##### STANDARD CONDITIONS
 
 Daggerheart has three standard conditions:
 
-##### HIDDEN
+###### HIDDEN
 
 While you're out of sight from all enemies and they don't otherwise know your location, you gain the _Hidden_ condition. Any rolls against a _Hidden_ creature have disadvantage. After an adversary moves to where they would see you, you move into their line of sight, or you make an attack, you are no longer _Hidden_.
 
-##### RESTRAINED
+###### RESTRAINED
 
 _Restrained_ characters can't move, but you can still take actions from their current position.
 
-##### VULNERABLE
+###### VULNERABLE
 
 When a creature is _Vulnerable,_ all rolls targeting them have advantage.
 
@@ -739,13 +742,13 @@ Some features can apply special or unique conditions, which work as described in
 
 Unless otherwise noted, the same condition can't be applied more than once to the same target.
 
-#### TEMPORARY TAGS & SPECIAL CONDITIONS
+##### TEMPORARY TAGS & SPECIAL CONDITIONS
 
 The **temporary** tag denotes a condition or effect that the affected creature can clear by making a move against it. When an affected PC makes a move to clear a temporary condition or effect, it normally requires a successful action roll using an appropriate trait. When an affected adversary makes a move to clear a temporary condition or effect, the GM puts the spotlight on the adversary and describes how they do it; this doesn't require a roll but it does use up that adversary's spotlight.
 
 **Special conditions** are only cleared when specific requirements are met, such as completing a certain action or using a particular item. The requirements for clearing these conditions are stated in the text of the effect that applies the condition.
 
-## DOWNTIME
+### DOWNTIME
 
 Between conflicts, the party can take a **rest** to recover expended resources and deepen their bonds. During a rest, each PC can make up to two downtime moves.
 
@@ -772,11 +775,11 @@ A **long rest** is when the characters make camp and relax or sleep for several 
 
 At the end of a long rest, any features or effects with a limited number of uses per rest or per long rest refresh and any features or effects that last until your next rest or until your next long rest expire.
 
-##### DOWNTIME CONSEQUENCES
+###### DOWNTIME CONSEQUENCES
 
 On a short rest, the GM gains 1d4 Fear. On a long rest, they gain Fear equal to 1d4 + the number of PCs, and they can advance a **long-term countdown** of their choice.
 
-## DEATH
+### DEATH
 
 When a PC marks their last Hit Point, they must make a **death move** by choosing one of the following options:
 
@@ -786,43 +789,43 @@ When a PC marks their last Hit Point, they must make a **death move** by choosin
 
 If your character dies, work with the GM before the next session to create a new character at the current level of the rest of the party.
 
-## ADDITIONAL RULES
+### ADDITIONAL RULES
 
 _The following rules apply to many aspects of the game._
 
-##### ROUNDING UP
+###### ROUNDING UP
 
 This game doesn't use fractions; if you need to round to a whole number, round up unless otherwise specified. When in doubt, resolve any ambiguity in favor of the PCs.
 
-##### REROLLING DICE
+###### REROLLING DICE
 
 When a feature allows you to reroll a die, you always take the new result unless the feature specifically says otherwise.
 
-##### INCOMING DAMAGE
+###### INCOMING DAMAGE
 
 Incoming damage means the total damage from a single attack or source, before Armor Slots are marked.
 
-##### SIMULTANEOUS EFFECTS
+###### SIMULTANEOUS EFFECTS
 
 If the resolution order of multiple effects is unclear, the person in control of the effects (player or GM) decides what order to resolve them in.
 
-##### STACKING EFFECTS
+###### STACKING EFFECTS
 
 Unless stated otherwise, all effects beside conditions and advantage/disadvantage can stack.
 
-##### ONGOING SPELL EFFECTS
+###### ONGOING SPELL EFFECTS
 
 If an effect doesn't have a listed mechanical expiration, it only ends when decided by the controlling player, the GM, or the demands of the fiction.
 
-##### SPENDING RESOURCES
+###### SPENDING RESOURCES
 
 Unless an effect states otherwise, you can't spend Hope or mark Stress multiple times on the same feature to increase or repeat its effects on the same roll.
 
-##### USING FEATURES AFTER A ROLL
+###### USING FEATURES AFTER A ROLL
 
 If a feature allows you to affect a roll after the result has been totaled, you can use it after the GM declares whether the roll succeeds or fails, but not after the consequences unfold or another roll is made.
 
-## LEVELING UP
+### LEVELING UP
 
 Your party levels up whenever the GM decides you've reached a narrative milestone (usually about every 3 sessions). All party members level up at the same time.
 
@@ -835,7 +838,7 @@ Daggerheart has 10 PC levels divided into 4 tiers:
 
 Your tier affects your damage thresholds, tier achievements, and access to advancements.
 
-#### STEP ONE: TIER ACHIEVEMENTS
+##### STEP ONE: TIER ACHIEVEMENTS
 
 Take any applicable tier **achievements**
 
@@ -843,7 +846,7 @@ Take any applicable tier **achievements**
 - At level 5, you gain a new Experience at +2, permanently increase your Proficiency by 1, and clear any marked traits.
 - At level 8, you gain a new Experience at +2, permanently increase your Proficiency by 1, and clear any marked traits.
 
-#### STEP TWO: ADVANCEMENTS
+##### STEP TWO: ADVANCEMENTS
 
 Choose any two **advancements** with at least one unmarked slot from your tier or below. Options with multiple slots can be chosen more than once. When you choose an advancement, mark one of its slots.
 
@@ -857,21 +860,21 @@ Choose any two **advancements** with at least one unmarked slot from your tier o
 - _When you choose to increase your Proficiency:_ Fill in one of the open circles in the "Proficiency" section of your character sheet, then increase your weapon's number of damage dice by 1. _The black box around this advancement's slots indicates you must spend two advancements and mark both level-up slots in order to take it as an option._
 - _When you choose to multiclass:_ Choose an additional class, select one of its domains, and gain its class feature. Add the appropriate **multiclass module** to your character sheet and take the foundation card from one of its subclasses. Then cross out the "upgraded subclass" advancement option in this tier and all other "multiclass" advancement options on your character sheet. _The black box around this advancement's slots indicates you must spend two advancements and mark both level-up slots in order to take it as an option._
 
-#### STEP THREE: DAMAGE THRESHOLDS
+##### STEP THREE: DAMAGE THRESHOLDS
 
 Increase all damage thresholds by 1.
 
-#### STEP FOUR: DOMAIN CARDS
+##### STEP FOUR: DOMAIN CARDS
 
 Acquire a new domain card at your level or lower from one of your class's domains and add it to your loadout or vault. If your loadout is already full, you can't add the new card to it until you move another into your vault. You can also exchange one domain card you've previously acquired for a different domain card of the same level or lower.
 
-## MULTICLASSING
+### MULTICLASSING
 
 Starting at level 5, you can choose multiclassing as an option when leveling up. When you multiclass, you choose an additional class, gain access to one of its domains, and acquire its class feature. Take the appropriate multiclass module and add it to the right side of your character sheet, then choose a foundation card from one of its subclasses. If your foundation cards specify different Spellcast traits, you can choose which one to apply when making a Spellcast roll.
 
 Whenever you have the option to acquire a new domain card, you can choose from cards at or below half your current level (rounded up) from the domain you chose when you selected the multiclass advancement.
 
-## EQUIPMENT
+### EQUIPMENT
 
 Your **equipped** weapons and armor are the ones listed in the "Active Weapons" and "Active Armor" sections of your character sheet. Your character can only attack with weapons, benefit from armor, and gain features from items they have equipped. You can't equip weapons or armor with a higher tier than you.
 
@@ -881,45 +884,45 @@ You can swap an Inventory Weapon with an Active Weapon at no cost during a rest 
 
 Your character can only have one Active Armor at a time. They can't equip armor while in danger or under pressure; otherwise, they can equip or unequip armor without cost. Each armor has its own Armor Slots; if your character unequips their armor, track how many of its Armor Slots are marked. You can't carry armor in your inventory. When your character equips or unequips armor, recalculate your damage thresholds.
 
-## WEAPONS
+### WEAPONS
 
 All weapons have a tier, trait, range, damage die, damage type, and burden. Some weapons also have a feature.
 
-##### CATEGORY
+###### CATEGORY
 
 A weapon's **category** specifies whether it is a Primary or Secondary weapon. Your character can only equip up to one weapon of each category at a time.
 
-##### TRAIT
+###### TRAIT
 
 A weapon's **trait** specifies which trait to use when making an attack roll with it.
 
-##### RANGE
+###### RANGE
 
 A weapon's **range** specifies the maximum distance between the attacker and their target when attacking with it.
 
-##### DAMAGE
+###### DAMAGE
 
 A weapon's **damage** indicates the size of the damage dice you roll on a successful attack with it; you roll a number of dice equal to your Proficiency. If the damage includes a flat modifier, this number is added to the total damage rolled, but is not altered or affected by Proficiency.
 
-##### DAMAGE TYPE
+###### DAMAGE TYPE
 
 A weapon's **damage type** indicates whether it deals physical or magic damage. Weapons that deal magic damage can only be wielded by characters with a Spellcast trait.
 
-##### BURDEN
+###### BURDEN
 
 A weapon's **burden** indicates how many **hands** it occupies when equipped. Your character's maximum burden is 2 hands.
 
-##### FEATURE
+###### FEATURE
 
 A weapon's **feature** is a special rule that stays in effect while the weapon is equipped.
 
 You can throw an equipped weapon at a target within Very Close range, making the attack roll with Finesse. On a success, deal damage as usual for that weapon. Once thrown, the weapon is no longer considered equipped. Until you retrieve and re-equip it, you can't attack with it or benefit from its features.
 
-### PRIMARY WEAPON TABLES
+#### PRIMARY WEAPON TABLES
 
 _Players can choose one Tier 1 primary weapon during character creation. The GM can make other weapons available throughout the campaign as the PCs level up._
 
-#### TIER 1 (LEVEL 1) Physical Weapons
+##### TIER 1 (LEVEL 1) Physical Weapons
 
 | Name         | Trait    | Range      | Damage    | Burden     | Feature                                                                                                            |
 | ------------ | -------- | ---------- | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -939,7 +942,7 @@ _Players can choose one Tier 1 primary weapon during character creation. The GM 
 | [Crossbow](weapons/Crossbow.md) | Finesse  | Far        | d6+1 phy  | One-Handed | —                                                                                                                  |
 | [Longbow](weapons/Longbow.md) | Agility  | Very Far   | d8+3 phy  | Two-Handed | **_Cumbersome:_** -1 to Finesse                                                                                    |
 
-#### TIER 1 (LEVEL 1) Magic Weapons
+##### TIER 1 (LEVEL 1) Magic Weapons
 
 > _All magic weapons require a Spellcast trait_
 
@@ -956,7 +959,7 @@ _Players can choose one Tier 1 primary weapon during character creation. The GM 
 | [Wand](weapons/Wand.md) | Knowledge | Far        | d6+1 mag  | One-Handed | —                                                                                                                   |
 | [Greatstaff](weapons/Greatstaff.md) | Knowledge | Very Far   | d6 mag    | Two-Handed | **_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.                |
 
-#### TIER 2 (LEVELS 2-4) Physical Weapons
+##### TIER 2 (LEVELS 2-4) Physical Weapons
 
 | Name                  | Trait    | Range      | Damage    | Burden     | Feature                                                                                                                                            |
 | --------------------- | -------- | ---------- | --------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -985,7 +988,7 @@ _Players can choose one Tier 1 primary weapon during character creation. The GM 
 | [Greatbow](weapons/Greatbow.md) | Strength | Far        | d6+6 phy  | Two-Handed | **_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.                                               |
 | [Finehair Bow](weapons/Finehair%20Bow.md) | Agility  | Very Far   | d6+5 phy  | Two-Handed | **_Reliable:_** +1 to attack rolls                                                                                                                 |
 
-#### TIER 2 (LEVELS 2-4) Magic Weapons
+##### TIER 2 (LEVELS 2-4) Magic Weapons
 
 > _All magic weapons require a Spellcast trait_
 
@@ -1011,7 +1014,7 @@ _Players can choose one Tier 1 primary weapon during character creation. The GM 
 | [Wand of Enthrallment](weapons/Wand%20of%20Enthrallment.md) | Presence  | Far        | d6+4 mag  | One-Handed | **_Persuasive:_** Before you make a Presence Roll, you can mark a Stress to gain a +2 bonus to the result.                                                                          |
 | [Keeper's Staff](weapons/Keepers%20Staff.md) | Knowledge | Far        | d6+4 mag  | Two-Handed | **_Reliable:_** +1 to attack rolls                                                                                                                                                  |
 
-#### TIER 3 (LEVELS 5-7) Physical Weapons
+##### TIER 3 (LEVELS 5-7) Physical Weapons
 
 | NAME                  | TRAIT    | RANGE      | DAMAGE    | BURDEN     | FEATURE                                                                                                                                            |
 | --------------------- | -------- | ---------- | --------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1041,7 +1044,7 @@ _Players can choose one Tier 1 primary weapon during character creation. The GM 
 | [Black Powder Revolver](weapons/Black%20Powder%20Revolver.md) | Finesse  | Far        | d6+8 phy  | One-Handed | **_Reloading:_** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again. |
 | [Spiked Bow](weapons/Spiked%20Bow.md) | Agility  | Very Far   | d6+7 phy  | Two-Handed | **_Versatile:_** This weapon can also be used with these statistics—Agility, Melee, d10+5.                                                         |
 
-#### TIER 3 (LEVELS 5-7) Magic Weapons
+##### TIER 3 (LEVELS 5-7) Magic Weapons
 
 > _All magic weapons require a Spellcast trait_
 
@@ -1067,7 +1070,7 @@ _Players can choose one Tier 1 primary weapon during character creation. The GM 
 | [Mage Orb](weapons/Mage%20Orb.md) | Knowledge | Far        | d6+7 mag         | One-Handed | **_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.                                               |
 | [Ilmari's Rifle](weapons/Ilmaris%20Rifle.md) | Finesse   | Very Far   | d6+6 mag         | One-Handed | **_Reloading:_** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again. |
 
-#### TIER 4 (LEVELS 8-10) Physical Weapons
+##### TIER 4 (LEVELS 8-10) Physical Weapons
 
 | Name                   | Trait    | Range      | Damage     | Burden     | Feature                                                                                                                                  |
 | ---------------------- | -------- | ---------- | ---------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1096,7 +1099,7 @@ _Players can choose one Tier 1 primary weapon during character creation. The GM 
 | [Aantari Bow](weapons/Aantari%20Bow.md) | Finesse  | Far        | d6+11 phy  | Two-Handed | **_Reliable:_** +1 to attack rolls                                                                                                       |
 | [Hand Cannon](weapons/Hand%20Cannon.md) | Finesse  | Very Far   | d6+12 phy  | One-Handed | **_Reloading:_** After you make an attack, roll a d6. On a 1, you must mark a Stress to reload this weapon before you can fire it again. |
 
-#### TIER 4 (LEVELS 8-10) Magic Weapons
+##### TIER 4 (LEVELS 8-10) Magic Weapons
 
 > _All magic weapons require a Spellcast trait_
 
@@ -1122,11 +1125,11 @@ _Players can choose one Tier 1 primary weapon during character creation. The GM 
 | [Magus Revolver](weapons/Magus%20Revolver.md) | Finesse   | Very Far   | d6+13 mag  | One-Handed | **_Reloading:_** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again. |
 | [Fusion Gloves](weapons/Fusion%20Gloves.md) | Knowledge | Very Far   | d6+9 mag   | Two-Handed | **_Bonded:_** Gain a bonus to your damage rolls equal to your level.                                                                               |
 
-### SECONDARY WEAPON TABLES
+#### SECONDARY WEAPON TABLES
 
 _Players can choose one Tier 1 secondary weapon during character creation. The GM can make other weapons available throughout the campaign as the PCs level up._
 
-#### TIER 1 (LEVEL 1)
+##### TIER 1 (LEVEL 1)
 
 | Name          | Trait    | Range      | Damage   | Burden     | Feature                                                                                                            |
 | ------------- | -------- | ---------- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -1138,7 +1141,7 @@ _Players can choose one Tier 1 secondary weapon during character creation. The G
 | [Grappler](weapons/Grappler.md) | Finesse  | Close      | d6 phy   | One-Handed | **_Hooked:_** On a successful attack, you can pull the target into Melee range.                                    |
 | [Hand Crossbow](weapons/Hand%20Crossbow.md) | Finesse  | Far        | d6+1 phy | One-Handed | —                                                                                                                  |
 
-#### TIER 2 (LEVELS 2-4)
+##### TIER 2 (LEVELS 2-4)
 
 | Name                   | Trait    | Range      | Damage   | Burden     | Feature                                                                                                                                                                                                                                                |
 | ---------------------- | -------- | ---------- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1153,7 +1156,7 @@ _Players can choose one Tier 1 secondary weapon during character creation. The G
 | [Parrying Dagger](weapons/Parrying%20Dagger.md) | Finesse  | Melee      | d6+2 phy | One-Handed | **_Parry:_** When you are attacked, roll this weapon's damage dice. If any of the attacker's damage dice rolled the same value as your dice, the matching results are discarded from the attacker's damage dice before the damage you take is totaled. |
 | [Returning Axe](weapons/Returning%20Axe.md) | Agility  | Close      | d6+4 phy | One-Handed | **_Returning:_** When this weapon is thrown within its range, it appears in your hand immediately after the attack.                                                                                                                                    |
 
-#### TIER 3 (LEVELS 5-7)
+##### TIER 3 (LEVELS 5-7)
 
 | Name                   | Trait     | Range      | Damage   | Burden     | Feature                                                                                                                                                     |
 | ---------------------- | --------- | ---------- | -------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1168,7 +1171,7 @@ _Players can choose one Tier 1 secondary weapon during character creation. The G
 | [Powered Gauntlet](weapons/Powered%20Gauntlet.md) | Knowledge | Close      | d6+4 phy | One-Handed | **_Charged:_** Mark a Stress to gain a +1 bonus to your Proficiency on a primary weapon attack.                                                             |
 | [Hand Sling](weapons/Hand%20Sling.md) | Finesse   | Very Far   | d6+4 phy | One-Handed | **_Versatile:_** This weapon can also be used with these statistics—Finesse, Close, d8+4.                                                                   |
 
-#### TIER 4 (LEVELS 8-10)
+##### TIER 4 (LEVELS 8-10)
 
 | Name                    | Trait    | Range      | Damage   | Burden     | Feature                                                                                                                                     |
 | ----------------------- | -------- | ---------- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1183,13 +1186,13 @@ _Players can choose one Tier 1 secondary weapon during character creation. The G
 | [Knuckle Claws](weapons/Knuckle%20Claws.md) | Strength | Melee      | d6+8 phy | One-Handed | **_Doubled Up:_** When you make an attack with your primary weapon, you can deal damage to another target within Melee range.               |
 | [Primer Shard](weapons/Primer%20Shard.md) | Instinct | Very Close | d4 phy   | One-Handed | **_Locked On:_** On a successful attack, your next attack against the same target with your primary weapon automatically succeeds.          |
 
-## COMBAT WHEELCHAIR
+### COMBAT WHEELCHAIR
 
 _By Mark Thompson_
 
 The combat wheelchair is a ruleset designed to help you play a wheelchair user in Daggerheart. This section provides mechanics and narrative guidance for you to work from, but feel free to adapt the flavor text to best suit your character. Have fun with your character's wheelchair design, and make it as unique or tailored to them as you please.
 
-#### ACTION AND MOVEMENT
+##### ACTION AND MOVEMENT
 
 When describing how your character moves, you can use descriptions such as the following:
 
@@ -1197,7 +1200,7 @@ When describing how your character moves, you can use descriptions such as the f
 - "I wheel myself over to the group to ask what's going on."
 - "I pull my brakes and skid to a halt, turning in my seat to level my bow at the intruder."
 
-#### CONSEQUENCES
+##### CONSEQUENCES
 
 Here are some ways you might describe complications you encounter when your character uses their wheelchair:
 
@@ -1207,19 +1210,19 @@ Here are some ways you might describe complications you encounter when your char
 
 GMs should avoid breaking a character's wheelchair or otherwise removing it from play as a consequence, unless everyone at the table, especially the wheelchair user's player, gives their approval.
 
-#### EVASION
+##### EVASION
 
 Your character is assumed to be skilled in moving their wheelchair and navigating numerous situations in it. As a result, the only wheelchair that gives a penalty to a PC's Evasion is the Heavy Frame model.
 
-#### BURDEN
+##### BURDEN
 
 All wheelchairs can be maneuvered using one or two hands outside of combat. However, when being used as a weapon, the chair is restricted to requiring one or two hands to perform attacks, depending on the model you've chosen. If you're playing a character who has limited to no mobility in their arms, their wheelchair can be attuned to them by magical means. For example, your character might use a psychic link to guide the chair around like a pseudo-electric wheelchair. All the rules presented here can be tailored and adapted to any character's needs.
 
-#### CHOOSING YOUR MODEL
+##### CHOOSING YOUR MODEL
 
 All combat wheelchairs are equipped as Primary Weapons. There are three models of wheelchair available: light, heavy, and arcane. You're encouraged to consider the type of character you're playing and the class they belong to, then choose the model that best matches that character concept.
 
-##### Light Frame Models
+###### Light Frame Models
 
 Though tough, these wheelchairs have light frames that allow the chair to move with your character in more acrobatic ways. These models are best suited to adventurers who rely on speed and flexibility.
 
@@ -1230,7 +1233,7 @@ Though tough, these wheelchairs have light frames that allow the chair to move w
 | Advanced Light-Frame Wheelchair  | 3    | Agility | Melee | d8+6 phy | One-Handed | **_Quick:_** When you make an attack, you can mark a Stress to target another creature within range. |
 | Legendary Light-Frame Wheelchair | 4    | Agility | Melee | d8+9 phy | One-Handed | **_Quick:_** When you make an attack, you can mark a Stress to target another creature within range. |
 
-##### Heavy Frame Models
+###### Heavy Frame Models
 
 These wheelchairs have bulky and heavier frames, allowing the chair to lend its weight to your character's attacks. It also makes them a bigger target.
 
@@ -1241,7 +1244,7 @@ These wheelchairs have bulky and heavier frames, allowing the chair to lend its 
 | Advanced Heavy-Frame Wheelchair  | 3    | Strength | Melee | d12+9 phy  | Two-Handed | **_Heavy:_** -1 to Evasion |
 | Legendary Heavy-Frame Wheelchair | 4    | Strength | Melee | d12+12 phy | Two-Handed | **_Heavy:_** -1 to Evasion |
 
-##### Arcane Frame Models
+###### Arcane Frame Models
 
 These wheelchairs have frames that are attuned to your character and their magic, allowing them to channel their spells through the chair. Unlike other primary magic weapons, the arcane-frame model doesn't specify a trait to use when making an attack with it. Instead, you use the Spellcast trait indicated by your subclass.
 
@@ -1252,7 +1255,7 @@ These wheelchairs have frames that are attuned to your character and their magic
 | Advanced Arcane-Frame Wheelchair  | 3    | Spellcast | Far   | d6+6 mag | One-Handed | **_Reliable:_** +1 to attack rolls |
 | Legendary Arcane-Frame Wheelchair | 4    | Spellcast | Far   | d6+9 mag | One-Handed | **_Reliable:_** +1 to attack rolls |
 
-## ARMOR
+### ARMOR
 
 Every armor has a name, base damage thresholds, and a base Armor Score. Some armor also has a feature.
 
@@ -1262,13 +1265,13 @@ Every armor has a name, base damage thresholds, and a base Armor Score. Some arm
 
 While **unarmored,** your character's base Armor Score is 0, their Major threshold is equal to their level, and their Severe threshold is equal to twice their level.
 
-##### REDUCING INCOMING DAMAGE
+###### REDUCING INCOMING DAMAGE
 
 When you take damage, you can mark one Armor Slot to reduce the severity of the damage by one threshold (Severe to Major, Major to Minor, Minor to Nothing). If your character has an Armor Score of 0, you can't mark Armor Slots. If an effect temporarily increases your Armor Score, it increases your available Armor Slots by the same amount; when the effect ends, so does the availability of these Armor Slots.
 
-### ARMOR TABLES
+#### ARMOR TABLES
 
-#### TIER 1 (LEVEL 1)
+##### TIER 1 (LEVEL 1)
 
 | Name             | Base Thresholds | Base Score | Feature                                        |
 | ---------------- | --------------- | ---------- | ---------------------------------------------- |
@@ -1277,7 +1280,7 @@ When you take damage, you can mark one Armor Slot to reduce the severity of the 
 | [Chainmail Armor](armor/Chainmail%20Armor.md) | 7 / 15          | 4          | **_Heavy:_** -1 to Evasion                     |
 | [Full Plate Armor](armor/Full%20Plate%20Armor.md) | 8 / 17          | 4          | **_Very Heavy:_** -2 to Evasion; -1 to Agility |
 
-#### TIER 2 (LEVELS 2-4)
+##### TIER 2 (LEVELS 2-4)
 
 | NAME                       | BASE THRESHOLDS | BASE SCORE | FEATURE                                                                                                                                                 |
 | -------------------------- | --------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1292,7 +1295,7 @@ When you take damage, you can mark one Armor Slot to reduce the severity of the 
 | [Tyris Soft Armor](armor/Tyris%20Soft%20Armor.md) | 8 / 18          | 5          | **_Quiet:_** You gain a +2 bonus to rolls you make to move silently.                                                                                    |
 | [Rosewild Armor](armor/Rosewild%20Armor.md) | 11 / 23         | 5          | **_Hopeful:_** When you would spend a Hope, you can mark an Armor Slot instead.                                                                         |
 
-#### TIER 3 (LEVELS 5-7)
+##### TIER 3 (LEVELS 5-7)
 
 | Name                      | Base Thresholds | Base Score | Feature                                                                                                          |
 | ------------------------- | --------------- | ---------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -1307,7 +1310,7 @@ When you take damage, you can mark one Armor Slot to reduce the severity of the 
 | [Monett's Cloak](armor/Monetts%20Cloak.md) | 16 / 39         | 6          | **_Magic:_** You can't mark an Armor Slot to reduce physical damage.                                             |
 | [Runes of Fortification](armor/Runes%20of%20Fortification.md) | 17 / 43         | 6          | **_Painful:_** Each time you mark an Armor Slot, you must mark a Stress.                                         |
 
-#### TIER 4 (LEVELS 8-10)
+##### TIER 4 (LEVELS 8-10)
 
 | NAME                       | BASE THRESHOLDS | BASE SCORE | FEATURE                                                                                                                      |
 | -------------------------- | --------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -1322,7 +1325,7 @@ When you take damage, you can mark one Armor Slot to reduce the severity of the 
 | [Veritas Opal Armor](armor/Veritas%20Opal%20Armor.md) | 13 / 36         | 6          | **_Truthseeking:_** This armor glows when another creature within Close range tells a lie.                                   |
 | [Savior Chainmail](armor/Savior%20Chainmail.md) | 18 / 48         | 8          | **_Difficult:_** -1 to all character traits and Evasion                                                                      |
 
-## LOOT
+### LOOT
 
 **Loot** comprises any consumables or reusable items the party acquires.
 
@@ -1398,7 +1401,7 @@ To generate a random item, choose a rarity, roll the designated dice, and match 
 | 59   | [Ring of Unbreakable Resolve](items/Ring%20of%20Unbreakable%20Resolve.md) | Once per session, when the GM spends a Fear, you can spend 4 Hope to cancel the effects of that spent Fear.                                                                                                                                                                                    |
 | 60   | [Belt of Unity](items/Belt%20of%20Unity.md) | Once per session, you can spend 5 Hope to lead a Tag Team Roll with three PCs instead of two.                                                                                                                                                                                                  |
 
-## CONSUMABLES
+### CONSUMABLES
 
 Consumables are loot that can only be used once. You can hold up to five of each consumable at a time. Using a consumable doesn't require a roll unless required by the GM or the demands of the fiction.
 
@@ -1472,7 +1475,7 @@ To generate a random consumable, choose a rarity, roll the designated dice, and 
 | 59   | [Mirror of Marigold](consumables/Mirror%20of%20Marigold.md) | When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters.                                                                                                                       |
 | 60   | [Stardrop](consumables/Stardrop.md) | You can use this stardrop to summon a hailstorm of comets that deals 8d20 physical damage to all targets within Very Far range.                                                                                          |
 
-## GOLD
+### GOLD
 
 Gold is an abstract measurement of how much wealth a character has, and is measured in **handfuls, bags,** and **chests,** with 10 handfuls to 1 bag, and 10 bags to 1 chest. When you have marked all of the slots in a category and you gain another gold reward in that category, mark a slot in the following category and clear all the slots in the current one.
 
@@ -1484,127 +1487,127 @@ You can't have more than 1 chest, so if all your Gold slots are marked, you'll n
 >
 > If your group wants to track gold with more granularity, you can add **coins** as your lowest denomination. Following the established pattern, 10 coins equal 1 handful.
 
-# RUNNING AN ADVENTURE
+## RUNNING AN ADVENTURE
 
-## INTRODUCTION
+### INTRODUCTION
 
 The GM is responsible for guiding the narrative and roleplaying the world the PCs inhabit. This section provides you with advice for running Daggerheart: using the core mechanics; creating memorable encounters; planning exciting sessions; selecting, creating, and using GM moves; crafting a full campaign; running dynamic NPCs; and more.
 
-## GM GUIDANCE
+### GM GUIDANCE
 
 These three sections provide a foundation to help you get the most out of this game. The "GM Principles" are your guiding star—when in doubt, return to these principles.
 
-#### GM PRINCIPLES
+##### GM PRINCIPLES
 
-##### BEGIN AND END WITH THE FICTION
+###### BEGIN AND END WITH THE FICTION
 
 _Use the fiction to drive mechanics, then connect the mechanics back to the fiction._
 
-##### COLLABORATE AT ALL TIMES, ESPECIALLY DURING CONFLICT
+###### COLLABORATE AT ALL TIMES, ESPECIALLY DURING CONFLICT
 
 _The PCs are the protagonists of the campaign; antagonism between player and GM should exist only in the fiction._
 
-##### FILL THE WORLD WITH LIFE, WONDER, AND DANGER
+###### FILL THE WORLD WITH LIFE, WONDER, AND DANGER
 
 _Showcase rich cultures, take the PCs to wondrous places, and introduce them to dangerous creatures._
 
-##### ASK QUESTIONS AND INCORPORATE THE ANSWERS
+###### ASK QUESTIONS AND INCORPORATE THE ANSWERS
 
 _Ensuring that the players' ideas are included results in a narrative that supports the whole group's creativity._
 
-##### GIVE EVERY ROLL IMPACT
+###### GIVE EVERY ROLL IMPACT
 
 _Only ask the players to roll during meaningful moments._
 
-##### PLAY TO FIND OUT WHAT HAPPENS
+###### PLAY TO FIND OUT WHAT HAPPENS
 
 _Be surprised by what the characters do, the choices they make, and the people they become._
 
-##### HOLD ON GENTLY
+###### HOLD ON GENTLY
 
 _Don't worry if you need to abandon or alter something that came before._
 
-#### GM PRACTICES
+##### GM PRACTICES
 
-##### CULTIVATE A CURIOUS TABLE
+###### CULTIVATE A CURIOUS TABLE
 
 _Follow what catches the players' interest to foster an environment of creative inquiry._
 
-##### GAIN YOUR PLAYERS' TRUST
+###### GAIN YOUR PLAYERS' TRUST
 
 _Act in good faith, follow through on your promises, admit your mistakes._
 
-##### KEEP THE STORY MOVING FORWARD
+###### KEEP THE STORY MOVING FORWARD
 
 _Advance the story through escalating action, new information, or changing circumstances after every action roll, whether it succeeds or fails._
 
-##### CUT TO THE ACTION
+###### CUT TO THE ACTION
 
 _Skip past the boring bits. When a scene drags on, end it._
 
-##### HELP THE PLAYERS USE THE GAME
+###### HELP THE PLAYERS USE THE GAME
 
 _Players have more fun when you help them understand the system._
 
-##### CREATE A META CONVERSATION
+###### CREATE A META CONVERSATION
 
 _Empower players to speak out of character, use safety tools, and ask for clarification._
 
-##### TELL THEM WHAT THEY WOULD KNOW
+###### TELL THEM WHAT THEY WOULD KNOW
 
 _Don't hide obvious details or important information from the players._
 
-##### GROUND THE WORLD IN MOTIVE
+###### GROUND THE WORLD IN MOTIVE
 
 _An NPC's actions flow from their goals and desires._
 
-##### BRING THE GAME'S MECHANICS TO LIFE
+###### BRING THE GAME'S MECHANICS TO LIFE
 
 _Set a good example of how fiction and mechanics work together to enhance the game experience._
 
-##### REFRAME RATHER THAN REJECT
+###### REFRAME RATHER THAN REJECT
 
 _If a player's contribution conflicts with the fiction, work with them to reshape it._
 
-##### WORK IN MOMENTS AND MONTAGES
+###### WORK IN MOMENTS AND MONTAGES
 
 _When framing a scene, decide which beats should be savored and which shouldn't linger._
 
-#### PITFALLS TO AVOID
+##### PITFALLS TO AVOID
 
-##### UNDERMINING THE HEROES
+###### UNDERMINING THE HEROES
 
 If a roll doesn't go well, show how it was impacted by an adversary's prowess, environmental factors, or unexpected surprises, rather than the PC's incompetence.
 
-##### ALWAYS TELLING THE PLAYERS WHAT TO ROLL
+###### ALWAYS TELLING THE PLAYERS WHAT TO ROLL
 
 Let the players decide how to handle a challenge.
 
-##### LETTING SCENES DRAG
+###### LETTING SCENES DRAG
 
 Shake it up or cut away when a scene has concluded, the table's energy is flagging, or people are talking in circles.
 
-##### SINGULAR SOLUTIONS
+###### SINGULAR SOLUTIONS
 
 Don't get hung up on one right answer to a problem. If the players have a clever idea, make it work.
 
-##### OVERPLANNING
+###### OVERPLANNING
 
 Spend your prep time inventing situations instead of scripting scenes. If the players surprise you, take a break to think through your options.
 
-##### HOARDING FEAR
+###### HOARDING FEAR
 
 Spend Fear when you have the opportunity. The players will always generate more.
 
 > _For more in-depth GM guidance, see pg. 140 of the Daggerheart Core Rulebook._
 
-## CORE GM MECHANICS
+### CORE GM MECHANICS
 
-#### ROLLING DICE
+##### ROLLING DICE
 
 The GM has no Duality Dice; instead, they roll a single d20 called the GM's Die.
 
-##### ADVERSARY ATTACK ROLLS
+###### ADVERSARY ATTACK ROLLS
 
 When an adversary attacks a PC, roll your d20 and add the adversary's attack bonus to the result. If the total meets or beats the target's Evasion, the attack succeeds; otherwise, the attack fails. On a successful attack, roll the attack's damage dice to determine how much it deals.
 
@@ -1612,7 +1615,7 @@ If you roll a natural 20 on an attack, your roll automatically succeeds and you 
 
 > _**Note:** a critical success on an adversary's reaction roll automatically succeeds, but confers no additional benefit._
 
-##### GUIDANCE ON ACTION ROLLS
+###### GUIDANCE ON ACTION ROLLS
 
 After a player describes a move they want to make during the game, you might decide an action roll is necessary to determine how the scene progresses. Use this guide to determine what to present the player, choosing whichever option best fits the situation:
 
@@ -1621,13 +1624,13 @@ After a player describes a move they want to make during the game, you might dec
 - Communicate any unavoidable consequences.
 - If desired, you can offer the player the opportunity to forgo an action roll in exchange for agreeing to an interesting outcome, cost, or complication.
 
-#### MAKING MOVES
+##### MAKING MOVES
 
 As the GM, you have **GM moves** that change the story in response to the players' actions. GM moves aren't bound by specific spells or effects—when you make a GM move, you can describe the action in whatever way the fiction demands.
 
 GM moves happen during **GM turns.** A GM turn begins when the spotlight passes to them and ends when the spotlight passes back to the players.
 
-##### WHEN TO MAKE A MOVE
+###### WHEN TO MAKE A MOVE
 
 The GM can make a GM move whenever you want, but the frequency and severity depends on the type of story you're telling, the actions your players take, and the tone of the session you're running.
 
@@ -1639,7 +1642,7 @@ Make a GM move when the players:
 - Give you a "golden opportunity" (an opening that demands an immediate response)
 - Look to you for what happens next
 
-##### CHOOSING GM MOVES
+###### CHOOSING GM MOVES
 
 The result of a player's action roll determines your response:
 
@@ -1668,7 +1671,7 @@ On a **Failure with Hope,** you describe how the PC fails to get what they want,
 - They are separated from their party
 - They lose an important opportunity for good.
 
-##### QUICK REFERENCE: RESOLVING ACTION ROLLS
+###### QUICK REFERENCE: RESOLVING ACTION ROLLS
 
 _If you're unsure how to resolve a roll, think about these quick phrases:_
 
@@ -1684,7 +1687,7 @@ If the move you should make is not obvious from the fiction, draw inspiration fr
 - Have the PC mark a Stress
 - Tell the players "everything is fine… for now."
 
-##### SOFT AND HARD MOVES
+###### SOFT AND HARD MOVES
 
 **Soft moves** go easier on the players—they give the party new information about the scene and offer them an opportunity to react to it. **Hard moves** are harsher, more impactful, or more direct—the PCs don't get an opening to interrupt, alter, or anticipate the outcome.
 
@@ -1709,7 +1712,7 @@ Use softer moves on rolls with Hope and harder moves on rolls with Fear.
 > - Use a PC's backstory against them
 > - Take away an opportunity permanently.
 
-#### USING FEAR
+##### USING FEAR
 
 You start a campaign with 1 Fear per PC in the party.
 
@@ -1748,13 +1751,13 @@ Spending Fear to make a move communicates the increased impact of your action. F
 - An adversary activating a powerful spell or transformation to deal massive damage or boost their capabilities.
 - An environment exerting a strong negative effect on the party.
 
-#### DIFFICULTY BENCHMARKS
+##### DIFFICULTY BENCHMARKS
 
 The Difficulty of an attack roll against an adversary is equal to the adversary's Difficulty score. The Difficulty of any other action rolls against an adversary is equal to the adversary's Difficulty score, plus (if applicable) the value of one of the adversary relevant Experience modifiers.
 
 When a player makes an action roll without a specified Difficulty, the GM sets the Difficulty according to the totality of the circumstances. Refer to the following benchmark table for more guidance:
 
-##### AGILITY
+###### AGILITY
 
 | ROLL | SPRINT                                                                  | LEAP                                                                        | MANEUVER                                                          |
 | ---- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -1765,7 +1768,7 @@ When a player makes an action roll without a specified Difficulty, the GM sets t
 | 25   | Sprint within Far range through a pitched battle in rough terrain.      | Make a running jump of five times your height (about 30 feet for a human).  | Run across a very narrow beam in an active rainstorm.             |
 | 30   | Sprint across the heads of your enemies in a pitched battle.            | Make a running jump of ten times your height (about 60 feet for a human).   | Run across an inch-wide, oil-slicked beam in an active rainstorm. |
 
-##### STRENGTH
+###### STRENGTH
 
 | ROLL | LIFT                                                            | SMASH                           | GRAPPLE                    |
 | ---- | --------------------------------------------------------------- | ------------------------------- | -------------------------- |
@@ -1776,7 +1779,7 @@ When a player makes an action roll without a specified Difficulty, the GM sets t
 | 25   | Lift a horse, an ox, or a large monster.                        | Break through a dragon's teeth. | Subdue a large beast.      |
 | 30   | Lift a falling portcullis gate.                                 | Break a god's grip.             | Subdue a legendary beast.  |
 
-##### FINESSE
+###### FINESSE
 
 | ROLL | CONTROL                                          | HIDE                                               | TINKER                                                |
 | ---- | ------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------- |
@@ -1787,7 +1790,7 @@ When a player makes an action roll without a specified Difficulty, the GM sets t
 | 25   | Ride a wild horse through dangerous terrain.     | Evade notice with minimal cover in ample light.    | Open a door secured by a sequence of elaborate locks. |
 | 30   | Ride an enraged beast through dangerous terrain. | Evade notice with no cover in full daylight.       | Disable an incredibly sensitive and deadly trap.      |
 
-##### INSTINCT
+###### INSTINCT
 
 | ROLL | PERCEIVE                                                  | SENSE                                                               | NAVIGATE                                                 |
 | ---- | --------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------- |
@@ -1798,7 +1801,7 @@ When a player makes an action roll without a specified Difficulty, the GM sets t
 | 25   | Hear a prowling animal fifty paces away.                  | Identify a spymaster's plot or read a politician's true intentions. | Find your way with no path through dangerous conditions. |
 | 30   | Hear a diving bird a hundred paces away.                  | Sense a shred of doubt within a god's pronouncement.                | Find your way through a trickery god's maze.             |
 
-##### PRESENCE
+###### PRESENCE
 
 | ROLL | CHARM                                                                       | PERFORM                                                           | DECEIVE                        |
 | ---- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------ |
@@ -1809,7 +1812,7 @@ When a player makes an action roll without a specified Difficulty, the GM sets t
 | 25   | Turn an enemy against their ruler or talk your way into a fae court.        | Earn your keep in a royal court or impress a full colosseum.      | Trick a spymaster.             |
 | 30   | Talk a hostile god into granting you a boon.                                | Save yourself from execution after offending the queen.           | Trick a god.                   |
 
-##### KNOWLEDGE
+###### KNOWLEDGE
 
 | ROLL | RECALL                                               | ANALYZE                                                       | COMPREHEND                                                   |
 | ---- | ---------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -1819,21 +1822,21 @@ When a player makes an action roll without a specified Difficulty, the GM sets t
 | 20   | Recall specialized facts about a distant community.  | Identify a weakness in a complicated battle plan.             | Learn complicated skills under poor conditions.              |
 | 25   | Recall specialized facts about a fallen kingdom.     | Predict the downfall of a nation based on concealed misdeeds. | Learn complicated skills quickly under dangerous conditions. |
 
-#### GIVING ADVANTAGE AND DISADVANTAGE
+##### GIVING ADVANTAGE AND DISADVANTAGE
 
 To viscerally convey how a PC's actions or circumstances affect their ability to act, grant them advantage die (or impose disadvantage die) instead of adjusting the Difficulty of an action roll.
 
-##### ADVERSARY ACTION ROLLS
+###### ADVERSARY ACTION ROLLS
 
 By default, adversaries don't normally make action rolls except for attack rolls and any unique actions described in their stat blocks. Any other action an adversary attempts simply succeeds without an action roll; if you want an adversary's action to have a chance of failure, have any relevant PCs make reaction rolls instead.
 
 However, for especially dramatic or dicult tasks that the PCs can't influence, you can give an adversary an **action roll** anyway. For an adversary's action roll, roll a d20. If the result is equal to or greater than the action's Difficulty, the action succeeds—otherwise it fails. You can spend a Fear before rolling to add a relevant Experience from the adversary's stat block to the total. Use the same procedure when an adversary makes a **reaction roll.**
 
-##### ADVERSARY ADVANTAGE & DISADVANTAGE
+###### ADVERSARY ADVANTAGE & DISADVANTAGE
 
 If an adversary has advantage on an action roll, the GM rolls an extra d20 and counts only the higher result. If an adversary has disadvantage on an action roll, the GM rolls an extra d20 and counts only the lower result.
 
-##### ADVERSARY ATTACKS
+###### ADVERSARY ATTACKS
 
 When an adversary attacks a PC, the GM rolls a d20 and adds the adversary's Attack Modifier to the result. If the total meets or beats the target's Evasion, the attack succeeds; otherwise, it fails. Before rolling, the GM can grant the attacking adversary advantage, impose disadvantage, or spend a Fear to add a relevant Experience from the adversary's stat block to the total.
 
@@ -1841,7 +1844,7 @@ On a success, the adversary deals the damage listed in their stat block to the t
 
 When an adversary's action lets the GM make an **attack against multiple targets,** they make one attack roll and compare it to each target's Evasion separately.
 
-### COUNTDOWNS
+#### COUNTDOWNS
 
 **Countdowns** represent a period of time or series of events preceding a future effect. A countdown begins at a starting value. When a countdown **advances,** it's reduced by 1. The countdown's effect is triggered when the countdown reaches 0.
 
@@ -1851,7 +1854,7 @@ When an adversary's action lets the GM make an **attack against multiple targets
 
 **Dynamic countdowns** advance by up to 3 depending on the outcomes of action rolls. **Consequence countdowns** are dynamic countdowns to negative effects. **Progress countdowns** are dynamic countdowns to positive effects. Dynamic countdowns advance according to this chart:
 
-### DYNAMIC COUNTDOWN ADVANCEMENT
+#### DYNAMIC COUNTDOWN ADVANCEMENT
 
 | Roll Result       | Progress Advancement | Consequence Advancement |
 | ----------------- | -------------------- | ----------------------- |
@@ -1861,7 +1864,7 @@ When an adversary's action lets the GM make an **attack against multiple targets
 | Success with Hope | Tick down 2          | No advancement          |
 | Critical Success  | Tick down 3          | No advancement          |
 
-#### ADVANCED COUNTDOWN FEATURES
+##### ADVANCED COUNTDOWN FEATURES
 
 - Countdowns with **randomized starting values**
 - **Loop** countdowns that reset to their starting value after their countdown effect is triggered.
@@ -1870,7 +1873,7 @@ When an adversary's action lets the GM make an **attack against multiple targets
 - **Linked** progress and consequence countdowns that simultaneously advance according to the same action roll outcomes.
 - **Long-term countdowns** that advance after **rests** instead of action rolls.
 
-### GIVING OUT GOLD, EQUIPMENT, AND LOOT
+#### GIVING OUT GOLD, EQUIPMENT, AND LOOT
 
 It's up to you and your players how much importance you want to place on gold, equipment, and loot in your campaign.
 
@@ -1896,7 +1899,7 @@ Otherwise, set the prices of goods and services by adjusting the entries in the 
 | Tier 3 equipment (weapons, armor)          | 5-10 Bags    |
 | Tier 4 equipment (weapons, armor)          | 1-2 Chests   |
 
-### RUNNING GM NPCS
+#### RUNNING GM NPCS
 
 When you run NPCs as the GM, you should always strive to follow your GM principles and use them to bring the world to life. Differentiate NPCs with unique manners of speech and action; let their individual goals and desires motivate their actions.
 
@@ -1906,39 +1909,39 @@ If an NPC becomes an ally in combat, they don't need a stat block—just put the
 
 If you want an important NPC to mechanically interact with the system, you can give them one or more features with specific **triggers** and **effects.** An NPC might also have a choice that adjusts the parameters of their feature. For example:
 
-#### NPC FEATURE EXAMPLES
+##### NPC FEATURE EXAMPLES
 
-##### ARCANE HOLD
+###### ARCANE HOLD
 
 - _Choice:_ When the battle begins, choose a favored PC.
 - _Trigger:_ The first time during a battle the favored PC is within Close range and hit with an attack.
 - _Effect:_ Make an attack roll with a +6 modifier against the adversary. On a success, the target is temporarily Restrained by tendrils of powerful magic.
 
-##### VOLLEY OF ARROWS
+###### VOLLEY OF ARROWS
 
 - _Trigger:_ A battle begins and this NPC is involved.
 - _Effect:_ Activate a countdown (Loop 3). It ticks down when a PC misses an attack. When it triggers, this NPC releases a volley of arrows at a target of the PCs' choice, dealing **2d8+3** physical damage.
 
-##### MENTOR
+###### MENTOR
 
 - _Choice:_ When the battle begins, choose a protégé PC.
 - _Trigger:_ Your protégé is within Close range and fails an attack roll.
 - _Effect:_ Move into Melee range with the PC and give them advice or guidance. The next attack roll they make has advantage.
 
-##### REGROUP
+###### REGROUP
 
 - _Choice:_ When a battle begins, choose a point within Far range.
 - _Trigger:_ All PCs have marked all of their Armor Slots.
 - _Effect:_ Teleport all PCs and this NPC to the chosen spot and clear an Armor Slot on each target.
 
-##### INTO THE NIGHT
+###### INTO THE NIGHT
 
 - _Trigger:_ The PCs start a long rest with this NPC.
 - _Effect:_ Roll 1d4. On a 2 or less, this NPC steals 1 handful of gold from the party while they are sleeping, then disappears into the night.
 
-### OPTIONAL GM MECHANICS
+#### OPTIONAL GM MECHANICS
 
-##### FATE ROLLS
+###### FATE ROLLS
 
 When the GM wants to leave an outcome entirely up to chance, they call for a fate roll. The GM establishes what's at stake and how the roll will be interpreted. Then a player rolls one of their Duality Dice and interprets the result.
 
@@ -1952,7 +1955,7 @@ When the GM wants to leave an outcome entirely up to chance, they call for a fat
 >
 > _"Make a roll using your Hope Die to determine the number of Stamina Potions the shop has in stock."_
 
-##### FALLING AND COLLISION DAMAGE
+###### FALLING AND COLLISION DAMAGE
 
 If a character falls to the ground, you can use the following as a guide to determine the damage they take:
 
@@ -1962,7 +1965,7 @@ If a character falls to the ground, you can use the following as a guide to dete
 
 If a character collides with an object or another character at a dangerous speed, they take 1d20+5 direct physical damage.
 
-##### MOVING AND FIGHTING UNDERWATER
+###### MOVING AND FIGHTING UNDERWATER
 
 By default, attack rolls made while the attacker is underwater have disadvantage.
 
@@ -1970,29 +1973,29 @@ For creatures that can't breathe underwater, use a standard countdown (3) to tra
 
 Once the countdown ends, the underwater PC must mark a Stress whenever they take an action.
 
-##### CONFLICT BETWEEN PCS
+###### CONFLICT BETWEEN PCS
 
 Sometimes a player might want their character to act against another PC in the scene. Before jumping to rolling dice, discuss the situation with both players to decide how to resolve the conflict. A roll might not be necessary to reach an outcome—but if rolling will be fun for everyone involved, come to a consensus on the terms of the roll, then facilitate the scene according to the results.
 
 On an attack roll against a PC, the attacker rolls against the defender's Evasion, just like an adversary. On any other kind of action roll, the instigator makes an action roll and the target makes a reaction roll. To succeed, the instigator must beat a Difficulty equal to the total value of the reaction roll.
 
-## ADVERSARIES AND ENVIRONMENTS
+### ADVERSARIES AND ENVIRONMENTS
 
-### USING ADVERSARIES
+#### USING ADVERSARIES
 
-#### ADVERSARY STAT BLOCKS
+##### ADVERSARY STAT BLOCKS
 
 All the information required to run an adversary is contained in their stat block. An adversary's stat block includes their:
 
-##### NAME
+###### NAME
 
 Each stat block has a unique **name.** Abilities that affect adversaries with a certain name include all adversaries who use that stat block, regardless of their in-story name.
 
-##### TIER
+###### TIER
 
 Each adversary is designed to oppose PCs of a certain **tier.** If you confront the party with an adversary from another tier, adjust their stats.
 
-##### TYPE
+###### TYPE
 
 The adversary's type appears alongside their tier. An adversary's **type** represents the role they play in a conflict. The adversary types are:
 
@@ -2007,33 +2010,33 @@ The adversary's type appears alongside their tier. An adversary's **type** repre
 - **Standards:** representative of their fictional group.
 - **Supports:** enhance their allies and disrupt their opponents.
 
-##### DESCRIPTION
+###### DESCRIPTION
 
 A summary of the adversary's appearance and demeanor.
 
-##### MOTIVES & TACTICS
+###### MOTIVES & TACTICS
 
 Suggusted impulses, actions and goals for the adversary.
 
-##### DIFFICULTY
+###### DIFFICULTY
 
 The Difficulty of any roll made against the adversary, unless otherwise noted.
 
-##### DAMAGE THRESHOLDS, HIT POINTS, AND STRESS
+###### DAMAGE THRESHOLDS, HIT POINTS, AND STRESS
 
 These systems function the same way they do for PCs. The
 
 numbers listed after "Threshold" are the adversary's Major and Severe Thresholds.
 
-##### ATTACK MODIFIER
+###### ATTACK MODIFIER
 
 When you attack with the adversary, apply this bonus or penalty to your attack roll.
 
-##### STANDARD ATTACK
+###### STANDARD ATTACK
 
 A description of the adversary's primary mode of inflicting harm on the PCs. It includes the attack's **name,** its effective **range,** and the **damage** it deals on a success. Using an adversary's **standard attack** is a GM move.
 
-##### EXPERIENCE (OPTIONAL)
+###### EXPERIENCE (OPTIONAL)
 
 The GM can spend a Fear to add an adversary's relevant Experience to raise their attack roll or increase the Difficulty of a roll made against them.
 
@@ -2047,7 +2050,7 @@ The GM can spend a Fear to add an adversary's relevant Experience to raise their
 | Bodyguard   | Magical Knowledge | Stealth        |
 | Commander   | Nature's Friend   | Tracker        |
 
-##### FEATURE(S)
+###### FEATURE(S)
 
 There are three kinds of adversary features: **actions, reactions,** and **passives.** Note: each adversaries stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activate. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
 
@@ -2055,13 +2058,13 @@ There are three kinds of adversary features: **actions, reactions,** and **passi
 - **Reactions:** special effects that take effect when their trigger occurs, regardless of whether the spotlight is on the adversary.
 - **Passives:** special abilities that remain in effect by default and require no resources or triggers to activate.
 
-##### FEAR FEATURE(S)
+###### FEAR FEATURE(S)
 
 High-impact effects that cost a Fear to activate.
 
 **EXAMPLE ADVERSARY FEATURES:**
 
-##### ACTIONS
+###### ACTIONS
 
 **Haymaker - Action:** Make an attack against a target within Very Close range. On a success, deal X direct physical damage.
 
@@ -2069,7 +2072,7 @@ High-impact effects that cost a Fear to activate.
 
 **More Where That Came From - Action:** Summon three Jagged Knife Lackeys, who appear at Far range.
 
-##### REACTIONS
+###### REACTIONS
 
 **Heavy Hitter - Reaction:** When this adversary deals damage with a standard attack, you can spend a Fear to gain a +X bonus to the damage roll.
 
@@ -2077,7 +2080,7 @@ High-impact effects that cost a Fear to activate.
 
 **Momentum - Reaction:** When this adversary makes a successful attack against a PC, you gain a Fear.
 
-#### PASSIVES
+##### PASSIVES
 
 **Horde (X) - Passive:** When the Horde has marked half or more of their HP, their standard attack deals X damage instead.
 
@@ -2091,11 +2094,11 @@ High-impact effects that cost a Fear to activate.
 
 **Armored Carapace - Passive:** When this adversary takes physical damage, reduce it by X.
 
-##### FEAR FEATURES
+###### FEAR FEATURES
 
 **Explosion - Action:** Spend a Fear to erupt in a fiery explosion. Make an attack against all targets within Close range. Targets the adversary succeeds against take 1d8 magic damage and are knocked back to Far range.
 
-### BUILDING BALANCED ENCOUNTERS
+#### BUILDING BALANCED ENCOUNTERS
 
 When planning a battle, start with **[(3 x the number of PCs in combat) + 2] Battle Points** and make the following adjustments:
 
@@ -2115,7 +2118,7 @@ Then spend your Battle Points to add an adversary to the encounter:
 - **Spend 4 points** for each Bruiser adversary.
 - **Spend 5 points** for each Solo adversary.
 
-##### DEFEATED ADVERSARIES
+###### DEFEATED ADVERSARIES
 
 When an adversary marks their last Hit Point, they are defeated: incapacitated, tied up, routed, killed, or anything else the table decides makes sense.
 
@@ -2128,11 +2131,11 @@ When an adversary marks their last Hit Point, they are defeated: incapacitated, 
 | Difficulty          | 11                | 14                 | 17                 | 20                 |
 | Damage Thresholds   | Major 7/Severe 12 | Major 10/Severe 20 | Major 20/Severe 32 | Major 25/Severe 45 |
 
-### ADVERSARIES BY TIER
+#### ADVERSARIES BY TIER
 
 This section contains the following stat blocks:
 
-##### TIER 1 (LEVEL 1)
+###### TIER 1 (LEVEL 1)
 
 - [Acid Burrower](adversaries/Acid%20Burrower.md)
 - [Bear](adversaries/Bear.md)
@@ -2186,7 +2189,7 @@ This section contains the following stat blocks:
 - [Shambling Zombie](adversaries/Shambling%20Zombie.md)
 - [Zombie Pack](adversaries/Zombie%20Pack.md)
 
-##### TIER 2 (LEVELS 2-4)
+###### TIER 2 (LEVELS 2-4)
 
 - [Archer Squadron](adversaries/Archer%20Squadron.md)
 - [Apprentice Assassin](adversaries/Apprentice%20Assassin.md)
@@ -2214,7 +2217,7 @@ This section contains the following stat blocks:
 - [Minotaur Wrecker](adversaries/Minotaur%20Wrecker.md)
 - [Mortal Hunter](adversaries/Mortal%20Hunter.md)
 - [Royal Advisor](adversaries/Royal%20Advisor.md)
-- [Secret-keeper](adversaries/Secret-keeper.md)
+- [Secret-Keeper](adversaries/Secret-Keeper.md)
 - [Shark](adversaries/Shark.md)
 - [Siren](adversaries/Siren.md)
 - [Spectral Archer](adversaries/Spectral%20Archer.md)
@@ -2224,7 +2227,7 @@ This section contains the following stat blocks:
 - [Stonewraith](adversaries/Stonewraith.md)
 - [War Wizard](adversaries/War%20Wizard.md)
 
-##### TIER 3 (LEVELS 5-7)
+###### TIER 3 (LEVELS 5-7)
 
 - [Adult Flickerfly](adversaries/Adult%20Flickerfly.md)
 - [Demon of Avarice](adversaries/Demon%20of%20Avarice.md)
@@ -2250,12 +2253,12 @@ This section contains the following stat blocks:
 - [Vault Guardian Turret](adversaries/Vault%20Guardian%20Turret.md)
 - [Young Ice Dragon](adversaries/Young%20Ice%20Dragon.md)
 
-##### TIER 4 (LEVELS 8-10)
+###### TIER 4 (LEVELS 8-10)
 
-- [Arch-necromancer](adversaries/Arch-necromancer.md)
+- [Arch-Necromancer](adversaries/Arch-Necromancer.md)
 - [Fallen Shock Troop](adversaries/Fallen%20Shock%20Troop.md)
 - [Fallen Sorcerer](adversaries/Fallen%20Sorcerer.md)
-- [Fallen Warlord: Realm-breaker](adversaries/Fallen%20Warlord%20Realm-breaker.md)
+- [Fallen Warlord: Realm-Breaker](adversaries/Fallen%20Warlord%20Realm-Breaker.md)
 - [Fallen Warlord: Undefeated Champion](adversaries/Fallen%20Warlord%20Undefeated%20Champion.md)
 - [Hallowed Archer](adversaries/Hallowed%20Archer.md)
 - [Hallowed Soldier](adversaries/Hallowed%20Soldier.md)
@@ -2271,23 +2274,23 @@ This section contains the following stat blocks:
 - [Perfected Zombie](adversaries/Perfected%20Zombie.md)
 - [Zombie Legion](adversaries/Zombie%20Legion.md)
 
-## USING ENVIRONMENTS
+### USING ENVIRONMENTS
 
 _Environments represent everything in a scene beyond the PCs and adversaries, such as the physical space, background NPCs, and natural forces._
 
-#### ENVIRONMENT STAT BLOCK
+##### ENVIRONMENT STAT BLOCK
 
 Each environment's **stat block** presents their necessary mechanical statistics:
 
-##### NAME
+###### NAME
 
 The unique name of the environment stat block.
 
-##### TIER
+###### TIER
 
 The PC tier the environment is designed to challenge.
 
-##### TYPE
+###### TYPE
 
 The type of scene it most easily supports:
 
@@ -2296,31 +2299,31 @@ The type of scene it most easily supports:
 - **Traversals** dangerous locations where movement through and around the space itself is a challenge
 - **Events** special activities or occurrences (rather than physical spaces)
 
-##### DESCRIPTION
+###### DESCRIPTION
 
 An evocative one-line summary of the environment.
 
-##### IMPULSES
+###### IMPULSES
 
 The manner or mode with which the environment pushs and pulls the people within them.
 
-##### DIFFICULTY
+###### DIFFICULTY
 
 The standard Difficulty for action rolls made to overcome, oppose, or resist the environment or its elements.
 
-##### POTENTIAL ADVERSARIES
+###### POTENTIAL ADVERSARIES
 
 Suggested adversaries that might appear in scenes within the environment.
 
-##### FEATURES
+###### FEATURES
 
 Features provide inspiration for GM moves you can use that represent the dynamic landscape or situation.
 
-##### FEATURE QUESTIONS
+###### FEATURE QUESTIONS
 
 Prompts for plot hooks, narrative engines, and connections to other story elements.
 
-#### ADAPTING ENVIRONMENTS
+##### ADAPTING ENVIRONMENTS
 
 Sometimes you want to use an environment but it's at the wrong tier for your party. Or you might want to replace a feature or two, then present it as an entirely different environment. Whether planning your session or even improvising an environment mid-session, you can adjust an existing environment's stat block to fit the needs of your scene or improvise elements as needed. The environments framework is there to help organize ideas, not to stifle creativity.
 
@@ -2333,11 +2336,11 @@ When you need to quickly adjust a stat block to a different tier, you can simply
 | Damage Dice           | 1d6+1 to 1d8+3 | 2d6+3 to 2d10+2 | 3d8+3 to 3d10+1 | 4d8+3 to 4d10+10 |
 | Difficulty            | 11             | 14              | 17              | 20               |
 
-#### ENVIRONMENT STAT BLOCKS BY TIER
+##### ENVIRONMENT STAT BLOCKS BY TIER
 
 This section contains the following stat blocks.
 
-##### TIER 1 (LEVEL 1)
+###### TIER 1 (LEVEL 1)
 
 - [Abandoned Grove](environments/Abandoned%20Grove.md) (Exploration)
 - [Ambushed](environments/Ambushed.md) (Event)
@@ -2348,39 +2351,39 @@ This section contains the following stat blocks.
 - [Outpost Town](environments/Outpost%20Town.md) (Social)
 - [Raging River](environments/Raging%20River.md) (Traversal)
 
-##### TIER 2 (LEVELS 2-4)
+###### TIER 2 (LEVELS 2-4)
 
 - [Cult Ritual](environments/Cult%20Ritual.md) (Event)
 - [Hallowed Temple](environments/Hallowed%20Temple.md) (Social)
 - [Haunted City](environments/Haunted%20City.md) (Exploration)
 - [Mountain Pass](environments/Mountain%20Pass.md) (Traversal)
 
-##### TIER 3 (LEVELS 5-7)
+###### TIER 3 (LEVELS 5-7)
 
 - [Burning Heart of the Woods](environments/Burning%20Heart%20of%20the%20Woods.md) (Exploration)
 - [Castle Siege](environments/Castle%20Siege.md) (Event)
 - [Pitched Battle](environments/Pitched%20Battle.md) (Event)
 
-##### TIER 4 (LEVELS 8-10)
+###### TIER 4 (LEVELS 8-10)
 
 - [Chaos Realm](environments/Chaos%20Realm.md) (Traversal)
 - [Divine Usurpation](environments/Divine%20Usurpation.md) (Event)
 - [Imperial Court](environments/Imperial%20Court.md) (Social)
 - [Necromancer's Ossuary](environments/Necromancers%20Ossuary.md) (Exploration)
 
-## ADDITIONAL GM GUIDANCE
+### ADDITIONAL GM GUIDANCE
 
 _This section provides additional guidance for preparing and running a session of Daggerheart._
 
-#### STORY BEATS
+##### STORY BEATS
 
 In storytelling, a beat is a moment that changes the trajectory of the narrative—a shift in the world, a significant action or reaction, an emotional revelation, or an important decision. Take turns with the players, narrating a beat and then letting them react and carry the scene forward with their own beats. When preparing for a session, plan in terms of the moments that give shape to each scene or sequence, rather than prescripting specific details or exchanges.
 
-#### PREPARING COMBAT ENCOUNTERS
+##### PREPARING COMBAT ENCOUNTERS
 
 Build the hurdles the PCs face around the question of "What helps tell the story?" Enemies, environments, and hazards are the tools for heightening tension and creating drama. Ensure that combat is being used to give players more information about the unfolding story, revealing the world, the plot, or the characters.
 
-#### BATTLES AND NARRATIVE
+##### BATTLES AND NARRATIVE
 
 Dynamic battles create suspense by forcing players to choose between their various objectives, engaging their character's motivations and weaknesses, and creating the crucible that the players use to forge their characters into legendary heroes. When preparing combat encounters:
 
@@ -2389,7 +2392,7 @@ Dynamic battles create suspense by forcing players to choose between their vario
 - Use dynamic environments to bring the battleground to life
 - Add enemies that can interact with the PCs' features and special abilities
 
-#### SESSION REWARDS
+##### SESSION REWARDS
 
 Reward players at the end of a session with:
 
@@ -2399,11 +2402,11 @@ Reward players at the end of a session with:
 - Gold
 - Access to new equipment or enhancements
 
-#### CRAFTING SCENES
+##### CRAFTING SCENES
 
 Whenever you start a session, arrive at a new place, or change the situation, tell the players what they need to know by thinking with all of your senses and sharing something unique or unexpected about the fiction.
 
-#### ENGAGING YOUR PLAYERS
+##### ENGAGING YOUR PLAYERS
 
 Keep your players engaged by:
 
@@ -2431,7 +2434,7 @@ Keep your players engaged by:
 | 11   | Destroy a piece of architecture, a statue, a shrine, or a weapon.     |
 | 12   | Investigate a situation to confirm or deny existing information.      |
 
-#### PHASED BATTLES
+##### PHASED BATTLES
 
 Make battles by shifting the nature of its enemies or environment mid-combat:
 
@@ -2439,13 +2442,13 @@ Make battles by shifting the nature of its enemies or environment mid-combat:
 - Alter the Environment
 - Evolve the Opposition
 
-#### USING DOWNTIME
+##### USING DOWNTIME
 
 Use downtime scenes as a pressure release valve to vary the intensity of the story and give the PCs room to breathe.
 
 Empower your players to frame their own downtime scenes. Ask the players what it looks like as they tend to their wounds or unwind together, encouraging them to take the reins and work with other players whose characters are involved
 
-#### PROJECTS DURING DOWNTIME
+##### PROJECTS DURING DOWNTIME
 
 The Work on a Project downtime move requires more GM input than other downtime moves and is best suited for longterm endeavors the PCs wish to undertake.
 
@@ -2453,11 +2456,11 @@ These projects are typically tracked using a Progress Countdown. When deciding t
 
 Simple projects advance their countdown each time a player uses the Work on a Project move, but complex projects require a roll.
 
-#### EXTENDED DOWNTIME
+##### EXTENDED DOWNTIME
 
 When you fast-forward the story across an extended period, use montages to illustrate the passage of time. You gain 1d6 Fear per PC and advance any long-term countdowns as appropriate.
 
-### CAMPAIGN FRAMES
+#### CAMPAIGN FRAMES
 
 A campaign frame provides inspiration, tools, and mechanics to support a particular type of story at the table.
 
@@ -2477,7 +2480,7 @@ Each campaign frame includes the following sections.
 
 > _You can find each campaign frame map in the appendix of the core rulebook or at www.daggerheart.com/downloads._
 
-## THE WITHERWILD
+### THE WITHERWILD
 
 _When an invading nation attacks an ancient forest deity, a virulent overgrowth spreads throughout the land._
 
@@ -2485,25 +2488,25 @@ _Designed by Carlos Cisco, Rowan Hall, & Spenser Starke_
 
 **COMPLEXITY RATING:** 1
 
-#### THE PITCH
+##### THE PITCH
 
 _Read this section to your players to introduce them to the campaign._
 
 > _Fanewick was once a place of great abundance and peace—dangerous to those unfamiliar with the land, but a cornucopia to those who respected its ways. When Haven invaded the wilds and forced the land into eternal spring, a dangerous bloom known as the Witherwild took hold and now threatens the lives of all who live there. In a Witherwild campaign, you'll play unlikely heroes from humble beginnings who are reckoning with their newfound duty to save Fanewick's people from dangerous corruption._
 
-#### TONE & FEEL
+##### TONE & FEEL
 
 Adventurous, Dynamic, Epic, Heroic, Thrilling, Uncanny, Whimsical
 
-#### THEMES
+##### THEMES
 
 Cultural Clash, Ends Justify Means, Grief, People vs. Nature, Transformation and Change, Survival
 
-#### TOUCHSTONES
+##### TOUCHSTONES
 
 _Princess Mononoke, The Legend of Zelda, The Dark Crystal, Nausicaä of the Valley of the Wind_
 
-#### OVERVIEW
+##### OVERVIEW
 
 _If your group decides to play this campaign, give your players the following information before character creation._
 
@@ -2525,11 +2528,11 @@ In the year since, Haven has conquered the bogs, turning them into fields to har
 
 Prior to the Serpent's Sickness and the Shepherd's endless growth, your party lived a peaceful life in Fanewick or a life of toil and conquest in Haven. But when the danger demands a response, even the unprepared—and unwilling—must make a stand.
 
-#### COMMUNITIES
+##### COMMUNITIES
 
 _All communities are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero._
 
-##### LOREBORNE AND HIGHBORNE
+###### LOREBORNE AND HIGHBORNE
 
 In Fanewick, knowledge is the most valuable commodity, and those who have expertise have the most power. This economy of information functions primarily through gifting and trading, and wisdom would be considered acceptable collateral for a weapon or warm meal. As such, loreborne community members are the wealthiest in Fanewick and might be smaller, distinct groups of hunters, historians, or artisans within larger villages.
 
@@ -2547,7 +2550,7 @@ In Haven, the wealthiest members are highborne, having inherited riches built in
 >
 > _You grew up in a world of abundance but were kept from learning something about the world. What was this knowledge and when did you discover it?_
 
-##### RIDGEBORNE, UNDERBORNE, AND WILDBORNE
+###### RIDGEBORNE, UNDERBORNE, AND WILDBORNE
 
 Characters from these communities were likely raised in Fanewick's deadly environs, which have only become more dangerous as the Witherwild grows. Each community has unique customs, some freely shared and others kept secret, that allow them safe passage through dangerous terrain and the Faint Divinities' territories.
 
@@ -2559,112 +2562,112 @@ In exchange for protection from the Witherwild for themselves and their families
 >
 > _You fled the place of your birth. What circumstances drove you to leave?_
 
-#### ANCESTRIES
+##### ANCESTRIES
 
 _All ancestries are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players._
 
-##### CLANKS
+###### CLANKS
 
 Clanks from Haven are commonly made from iron and steel, while clanks from Fanewick are typically constructed from wood and stone.
 
-##### DRAKONA, FAUNS, FIRBOLGS, AND INFERNIS
+###### DRAKONA, FAUNS, FIRBOLGS, AND INFERNIS
 
 After the Witherwild corrupted Fanewick, some drakona, fauns, firbolgs, and infernis have noticed their horns growing faster and longer.
 
-##### GALAPA AND RIBBETS
+###### GALAPA AND RIBBETS
 
 Many families of galapa and ribbets who lived in the bogs of Fanewick were displaced when Haven's army invaded.
 
-#### Havenites and the Serpent's Sickness
+##### Havenites and the Serpent's Sickness
 
 Anyone, but especially those from Haven, may carry the Serpent's Sickness, which stiffens their movements and gives them limited time to survive without a cure.
 
-#### CLASSES
+##### CLASSES
 
 _All classes are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players._
 
-##### DRUIDS, RANGERS, AND SORCERERS
+###### DRUIDS, RANGERS, AND SORCERERS
 
 Druids, rangers, and sorcerers are commonly found throughout Fanewick. If players choose one of these classes, they should consider how their character's connection to the natural world might be impacted by the Witherwild.
 
-##### WARRIORS AND WIZARDS
+###### WARRIORS AND WIZARDS
 
 Warriors and wizards are prevalent in Haven. A large wizarding school in Haven teaches fighters and healers, and the Haven Army is largely composed of warriors and School of War wizards. If a PC is either of these classes, consider their personal relationship to the Haven Army.
 
-##### VENGEANCE GUARDIAN
+###### VENGEANCE GUARDIAN
 
 Many Wicklings who seek revenge on Haven or to expel them from Fanewick become Vengeance guardians. If players choose this subclass, they should consider what ideals or institutions their character protects.
 
-##### SYNDICATE ROGUE
+###### SYNDICATE ROGUE
 
 The Haven Army sends spies into Fanewick communities to gain information on planned attacks and manipulate public perception. When selecting the Syndicate rogue subclass, players should consider how their character might be connected to or impacted by these covert operatives.
 
-#### PLAYER PRINCIPLES
+##### PLAYER PRINCIPLES
 
 _If your group decides to play this campaign, give your players the following information before character creation._
 
-##### MAKE THE INVASION PERSONAL
+###### MAKE THE INVASION PERSONAL
 
 Consider how Haven's invasion of Fanewick deeply impacts your character. Let these details inform what they want and what they're willing to do to get it. Everyone has lost a loved one to the Witherwild or the Serpent's Sickness, and more are dying by the day. Consider how the growing conflict caused your character to act in ways they aren't proud of, or transformed personal truths they once believed were unshakable.
 
-##### TREAT DEATH WITH IMPORTANCE
+###### TREAT DEATH WITH IMPORTANCE
 
 Taking a life should not be done without consideration, desperation, and consequences. As your character journeys, they should remember those they've lost and those they've slain, allowing each death to affect their choices in the future.
 
-##### EMBRACE VULNERABILITY
+###### EMBRACE VULNERABILITY
 
 Find your character's humanity and showcase it whenever you can. They should be as vulnerable during quiet moments as they are vicious during violent ones, opening up to their allies even if they close themself off to everyone else.
 
-#### GM PRINCIPLES
+##### GM PRINCIPLES
 
 _Keep the following guidance in mind while you GM this campaign._
 
-##### PAINT THE WORLD IN CONTRAST
+###### PAINT THE WORLD IN CONTRAST
 
 Subvert expectations by giving space for the nightmarish to charm and the beautiful to terrify. Give the PCs visions of the natural beauty of Fanewick that has run roughshod across the region, breaking the bounds of the bogs and forests and devastating homes and communities. Show the grim and ordered life behind Haven's walls, but also show the culture, art, and progress that has come out of centuries of safety. Contrast the capricious nature of the Faint Divinities with the devotion of the Wicklings and Havenites fighting to save their home. In a place of long nights and days, dual seasons, and two nations in conflict, look for ways to highlight bold dualities.
 
-##### SHOW THEM TRUE DANGER
+###### SHOW THEM TRUE DANGER
 
 Though it may be tragic, bodily harm is not the worst tragedy that can befall the characters. To illustrate what's truly at stake, use the PCs' origins in Fanewick or Haven to show them what they stand to lose, be it their homes, family, friends, communities, or even their core truths and beliefs. The events of this campaign may change, threaten, or destroy these aspects of their past—when your players create and are invested in their character's backstory, they have something to fight for.
 
-##### OFFER ALTERNATIVES TO VIOLENCE
+###### OFFER ALTERNATIVES TO VIOLENCE
 
 By illuminating nonviolent approaches to problem-solving, the PCs can help break the brutal cycle that binds this world. For example, showing compassion—rather than swordpoint to a corrupted beast can free them from the Witherwild. Similarly, the conflict between Haven and Fanewick shouldn't only be solved with blood and blade. What threatens both could also unify them. Give the PCs opportunities to mend old wounds, right past wrongs, and heal the rift between Haven and Fanewick from within.
 
-##### CREATE MULTIDIMENSIONAL ALLIES AND ADVERSARIES
+###### CREATE MULTIDIMENSIONAL ALLIES AND ADVERSARIES
 
 No adversary or ally is all good or all bad, and they each have multidimensional lives. Even the most congenial ally should be hiding darkness inside them, hoping their failings will go undiscovered. Those painted as evil should sometimes do the right thing, even if it's for the wrong reason. Just because a PC or NPC is from Haven doesn't make them a villain, and, conversely, not all the inhabitants of Fanewick are virtuous. Finding the nuance, complications, and deeper motivations of the people of Haven and Fanewick will lead to richer interactions, more complex moral choices, and a deeper sense of attachment to the world for the players.
 
-#### DISTINCTIONS
+##### DISTINCTIONS
 
 _Use this information to prepare your campaign. You can also share it with your players as needed._
 
-##### THE WEEKS OF DAY AND NIGHT
+###### THE WEEKS OF DAY AND NIGHT
 
 The day and night cycle occurs weekly, meaning the sun rises for an entire week before setting into a nighttime of the same length. This has an impact on everything from agriculture to trade, as many merchants refuse to travel through the night.
 
 But this cycle doesn't just affect Wicklings, it's dictated how Fanewick's wondrous ecology has evolved. Days and nights are accompanied by entirely different natural soundscapes as Fanewick's nocturnal denizens sleep through the long days and stalk the woods in times of darkness while their diurnal counterparts sleep. The plants similarly live on this strange day-night loop, and many live out their entire life cycles in a week. Sun rose vines make a thorny ascent to the top of the tree canopy over the course of the week, only to wilt under the light of the moon. Conversely, night bloom, a bioluminescent flower that emits the smell of burnt sugar and decay, only blossoms when evening falls, illuminating patches of forest—a godsend to anyone forced to travel in the dark.
 
-##### THE SERPENT'S SICKNESS
+###### THE SERPENT'S SICKNESS
 
 The plague sweeping across Haven spares no one. Since the initial outbreak, Haven ocials have worked tirelessly to quarantine those in the early stages of the disease, but this effort has done little to stop its spread. Due to the rarity of crimson lady's veil, many citizens began to carry or consume all manner of flowers and snake sheddings in an attempt to protect or cure themselves.
 
 In the initial stages, victims are a
 icted with a hacking cough laden with dust that resembles powdered bone. Then a scaled rash erupts across their skin, cracking their flesh in a unique and painful pattern that resembles a snake's skin. Not long after, the victims' bodies harden until their organs solidify and cease to function. The final stages of the Serpent's Sickness is so quick that many transform into statues where they stand, leaving all of Haven a cenotaph to a once-great power.
 
-##### LADY'S VEIL
+###### LADY'S VEIL
 
 These small flowers grow in patches of sun throughout Fanewick. For every ten thousand blossoms of white-petaled flowers, one blooms a unique and vibrant red. These flowers have long been used in herbal teas across the region, with the crimson flowers holding a place in specific ceremonies. Even so, they were only foraged until the Havenites discovered crimson lady's veil—the only known cure for Serpent's Sickness.
 
 Thus, the Haven Army invaded Fanewick and began cultivating the flowers on massive farms that have overtaken the region's bogs. Though the theft of the Reaping Eye has created an indefinite growing season, the red flowers remain just as rare, and Fanewick is permeated by a sickly sweet smell as the Haven Army races to mass-produce a cure for the Serpent's Sickness.
 
-##### THE WITHERWILD
+###### THE WITHERWILD
 
 This corruption, empowered by the endless spring, is spreading throughout Fanewick. Some believe the overgrowth began in the forest, while others claim it sprang from the bogs. But no matter its origins, this flourishing malignancy induces horrific changes and massive growth on anything it touches, transforming them into Withered beings. Plants spring to life with a desire to consume all around them. Animals grow to immense proportions, with onerous dispositions to match their exaggerated teeth, tusks, and claws. Even harmless creatures that were once hunted for food have become dangerous and formidable adversaries.
 
 When a person is corrupted by the Witherwild, either from a purposeful attack or accidental harm (see the upcoming "Corruption from the Witherwild" section), they are transformed. They become a nightmarish hybrid—their body warped and intertwined with plant or beast. The Witherwild slowly replaces the personality of its victims with the same drive to consume exhibited by the rest of the corrupted Fanewick. Though the Withered may retain a semblance of who they are for a time, they eventually face the final loss of their personhood. Some Wicklings believe the Withered are gifted this power by Nikta's wrath to drive the forces of Haven from Fanewick and return the Shepherd's Reaping Eye.
 
-##### THE GODS OF FANEWICK
+###### THE GODS OF FANEWICK
 
 Gods in this land aren't ethereal concepts that exist in another realm; instead, they wander the land as incarnate beings, residing in both the natural world as well as within homes and small villages. As such, they're generally present in Wicklings' lives. Many communities, and some larger families, even have their own small god or tutelary spirit who watches over them.
 
@@ -2692,7 +2695,7 @@ These are but a small slice of the hundreds, if not thousands, of Faint Diviniti
 >
 > _Which gods ally themselves with Haven to preserve the endless spring? Which align with Fanewick?_
 
-#### THE INCITING INCIDENT
+##### THE INCITING INCIDENT
 
 _You can use the prompt below to start your campaign, or create your own._
 
@@ -2708,11 +2711,11 @@ The party is sent an invitation from Haven to meet with Kreil. But is his inform
 
 Kreil advises the party to start their hunt for the Fanewraith in the treetop village of Alula, where he suspects she runs her operation.
 
-#### CAMPAIGN MECHANICS
+##### CAMPAIGN MECHANICS
 
 _The following mechanics are unique to this campaign._
 
-##### CORRUPTION FROM THE WITHERWILD
+###### CORRUPTION FROM THE WITHERWILD
 
 Adversaries and environments in this campaign can gain an additional type called Withered. When an adversary is Withered, describe how the Witherwild changed or impacted how they would normally appear or operate. You also need about 20 Wither tokens (these can be the same as the tokens you use for Fear).
 
@@ -2720,7 +2723,7 @@ Any time a PC takes Severe damage from a Withered adversary or environment, gain
 
 At the end of each session, clear all Wither tokens from the PCs' sheets and gain an equal amount of Fear. If a character ever dies with Wither tokens on their sheet, their body is permanently taken over by the Witherwild.
 
-#### SESSION ZERO QUESTIONS
+##### SESSION ZERO QUESTIONS
 
 _Ask any of these questions to your players, or make your own._
 
@@ -2732,11 +2735,11 @@ _Ask any of these questions to your players, or make your own._
 >
 > _Your character has witnessed something beautiful that came from the Witherwild. What is it and how has it transformed their view of the corruption?_
 
-# APPENDIX
+## APPENDIX
 
 _This section contains additional information and reference sheets._
 
-## DOMAIN CARD REFERENCE
+### DOMAIN CARD REFERENCE
 
 - [Arcana](domains/Arcana.md)
 - [Blade](domains/Blade.md)

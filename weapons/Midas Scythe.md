@@ -1,7 +1,12 @@
-# MIDAS SCYTHE
+# Midas Scythe
 
-**Trait:** Knowledge; **Range:** Melee; **Damage:** d10+9 mag; **Burden:** Two-Handed
+**_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Greedy:_** Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll.
+- **Trait:** Knowledge
+- **Range:** Melee
+- **Damage:** d10+9 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 4_
+### FEATURE
+
+**_Greedy:_** Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll.

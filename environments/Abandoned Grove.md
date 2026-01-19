@@ -1,13 +1,12 @@
-# ABANDONED GROVE
+# Abandoned Grove
 
-**_Tier 1 Exploration_**
-_A former druidic grove lying fallow and fully reclaimed by nature._
-**Impulses:** Draw in the curious, echo the past
+**_Tier 1 Exploration._** _A former druidic grove lying fallow and fully reclaimed by nature._
 
-> **Difficulty:** 11
-> **Potential Adversaries:** Beasts (Bear, Dire Wolf, Glass Snake), Grove Guardians (Minor Treant, Sylvan Soldier, Young Dryad)
+- **Impulses:** Draw in the curious, echo the past
+- **Difficulty:** 11
+- **Potential Adversaries:** Beasts (Bear, Dire Wolf, Glass Snake), Grove Guardians (Minor Treant, Sylvan Soldier, Young Dryad)
 
-## FEATURES
+### FEATURES
 
 **_Overgrown Battlefield - Passive:_** There has been a battle here. A PC can make an Instinct Roll to identify evidence of that fight. On a success with Hope, learn all three pieces of information below. On a success with Fear, learn two. On a failure, a PC can mark a Stress to learn one and gain advantage on the next action roll to investigate this environment. A PC with an appropriate background or Experience can learn an additional detail and ask a follow-up question about the scene and get a truthful (if not always complete) answer. _Why did these groups come to blows? Why is the grove unused now?_
 

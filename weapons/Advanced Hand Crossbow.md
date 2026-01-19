@@ -1,7 +1,8 @@
-# ADVANCED HAND CROSSBOW
+# Advanced Hand Crossbow
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+5 phy; **Burden:** One-Handed
+**_Tier 3_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Secondary Physical Weapon - Tier 3_
+- **Trait:** Finesse
+- **Range:** Far
+- **Damage:** d6+5 phy
+- **Burden:** One-Handed

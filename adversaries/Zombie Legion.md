@@ -1,13 +1,12 @@
-# ZOMBIE LEGION
+# Zombie Legion
 
-**_Tier 4 Horde (3/HP)_**
-_A large pack of undead, still powerful despite their rotting flesh._
-**Motives & Tactics:** Consume brain, shred flesh, surround
+**_Tier 4 Horde (3/HP)._** _A large pack of undead, still powerful despite their rotting flesh._
 
-> **Difficulty:** 17 | **Thresholds:** 25/45 | **HP:** 8 | **Stress:** 5
-> **ATK:** +2 | **Undead Hands:** Close | 4d6+10 phy
+- **Motives & Tactics:** Consume brain, shred flesh, surround
+- **Difficulty:** 17 | **Thresholds:** 25/45 | **HP:** 8 | **Stress:** 5
+- **ATK:** +2 | **Undead Hands:** Close | 4d6+10 phy
 
-## FEATURES
+### FEATURES
 
 **_Horde (2d6+5) - Passive:_** When the Legion has marked half or more of their HP, their standard attack deals **2d6+5** physical damage instead.
 

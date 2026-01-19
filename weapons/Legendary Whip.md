@@ -1,7 +1,12 @@
-# LEGENDARY WHIP
+# Legendary Whip
 
-**Trait:** Presence; **Range:** Very Close; **Damage:** d6+6 phy; **Burden:** One-Handed
+**_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Startling:_** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
+- **Trait:** Presence
+- **Range:** Very Close
+- **Damage:** d6+6 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 4_
+### FEATURE
+
+**_Startling:_** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.

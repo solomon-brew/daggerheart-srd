@@ -1,14 +1,13 @@
-# MONARCH
+# Monarch
 
-**_Tier 3 Social_**
-_The sovereign ruler of a nation, wreathed in the privilege of tradition and wielding unmatched power in their domain._
-**Motives & Tactics:** Control vassals, destroy rivals, forge a legacy
+**_Tier 3 Social._** _The sovereign ruler of a nation, wreathed in the privilege of tradition and wielding unmatched power in their domain._
 
-> **Difficulty:** 16 | **Thresholds:** 16/32 | **HP:** 6 | **Stress:** 5
-> **ATK:** +0 | **Warhammer:** Melee | 3d6+3 phy
-> **Experience:** History +3, Nobility +3
+- **Motives & Tactics:** Control vassals, destroy rivals, forge a legacy
+- **Difficulty:** 16 | **Thresholds:** 16/32 | **HP:** 6 | **Stress:** 5
+- **ATK:** +0 | **Warhammer:** Melee | 3d6+3 phy
+- **Experience:** History +3, Nobility +3
 
-## FEATURES
+### FEATURES
 
 **_Execute Them! - Action:_** **Spend a Fear** per PC in the party to have the group condemned for crimes real or imagined. A PC who succeeds on a Presence Roll can demand trial by combat or another special form of trial.
 

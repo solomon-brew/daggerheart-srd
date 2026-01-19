@@ -1,14 +1,13 @@
-# MORTAL HUNTER
+# Mortal Hunter
 
-**_Tier 2 Leader_**
-_An undead figure wearing a heavy leather coat, with searching eyes and a casually cruel demeanor._
-**Motives & Tactics:** Devour, hunt, track
+**_Tier 2 Leader._** _An undead figure wearing a heavy leather coat, with searching eyes and a casually cruel demeanor._
 
-> **Difficulty:** 16 | **Thresholds:** 15/27 | **HP:** 6 | **Stress:** 4
-> **ATK:** +5 | **Tear at Flesh:** Very Close | 2d12+1 phy
-> **Experience:** Bloodhound +3
+- **Motives & Tactics:** Devour, hunt, track
+- **Difficulty:** 16 | **Thresholds:** 15/27 | **HP:** 6 | **Stress:** 4
+- **ATK:** +5 | **Tear at Flesh:** Very Close | 2d12+1 phy
+- **Experience:** Bloodhound +3
 
-## FEATURES
+### FEATURES
 
 **_Terrifying - Passive:_** When the Hunter makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
 

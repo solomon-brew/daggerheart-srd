@@ -1,7 +1,6 @@
-# HOLD THE LINE
+# Hold the Line
 
-> **Level 9 Valor Ability**
-> **Recall Cost:** 1
+**_Level 9_** _Valor Ability._ **_Recall Cost_** _1._
 
 Describe the defensive stance you take and **spend a Hope**. If an adversary moves within Very Close range, they're pulled into Melee range and _Restrained_.
 

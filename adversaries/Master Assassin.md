@@ -1,14 +1,13 @@
-# MASTER ASSASSIN
+# Master Assassin
 
-**_Tier 2 Leader_**
-_A seasoned killer with a threatening voice and a deadly blade._
-**Motives & Tactics:** Ambush, get out alive, kill, prepare for all scenarios
+**_Tier 2 Leader._** _A seasoned killer with a threatening voice and a deadly blade._
 
-> **Difficulty:** 15 | **Thresholds:** 12/25 | **HP:** 7 | **Stress:** 5
-> **ATK:** +5 | **Serrated Dagger:** Close | 2d10+2 phy
-> **Experience:** Command +3, Intrusion +3
+- **Motives & Tactics:** Ambush, get out alive, kill, prepare for all scenarios
+- **Difficulty:** 15 | **Thresholds:** 12/25 | **HP:** 7 | **Stress:** 5
+- **ATK:** +5 | **Serrated Dagger:** Close | 2d10+2 phy
+- **Experience:** Command +3, Intrusion +3
 
-## FEATURES
+### FEATURES
 
 **_Won't See It Coming - Passive:_** The Assassin deals direct damage while they're _Hidden_.
 

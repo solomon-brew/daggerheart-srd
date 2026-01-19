@@ -1,7 +1,12 @@
-# AXE OF FORTUNIS
+# Axe of Fortunis
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+8 mag; **Burden:** Two-Handed
+**_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Lucky:_** On a failed attack, you can mark a Stress to reroll your attack.
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d10+8 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 3_
+### FEATURE
+
+**_Lucky:_** On a failed attack, you can mark a Stress to reroll your attack.

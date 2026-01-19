@@ -1,13 +1,12 @@
-# MINOR TREANT
+# Minor Treant
 
-**_Tier 1 Minion_**
-_An ambulatory sapling rising up to defend their forest._
-**Motives & Tactics:** Crush, overwhelm, protect
+**_Tier 1 Minion._** _An ambulatory sapling rising up to defend their forest._
 
-> **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** -2 | **Clawed Branch:** Melee | 4 phy
+- **Motives & Tactics:** Crush, overwhelm, protect
+- **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
+- **ATK:** -2 | **Clawed Branch:** Melee | 4 phy
 
-## FEATURES
+### FEATURES
 
 **_Minion (5) - Passive:_** The Treant is defeated when they take any damage. For every 5 damage a PC deals to the Treant, defeat an additional Minion within range the attack would succeed against.
 

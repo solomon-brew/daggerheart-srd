@@ -1,7 +1,12 @@
-# LEGENDARY GREATSTAFF
+# Legendary Greatstaff
 
-**Trait:** Knowledge; **Range:** Very Far; **Damage:** d6+9 mag; **Burden:** Two-Handed
+**_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.
+- **Trait:** Knowledge
+- **Range:** Very Far
+- **Damage:** d6+9 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 4_
+### FEATURE
+
+**_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.

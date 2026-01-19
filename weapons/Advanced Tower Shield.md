@@ -1,7 +1,12 @@
-# ADVANCED TOWER SHIELD
+# Advanced Tower Shield
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6+4 phy; **Burden:** One-Handed
+**_Tier 3_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Barrier:_** +4 to Armor Score; -1 to Evasion
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d6+4 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Barrier:_** +4 to Armor Score; -1 to Evasion

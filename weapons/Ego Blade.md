@@ -1,7 +1,12 @@
-# EGO BLADE
+# Ego Blade
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d12+4 mag; **Burden:** One-Handed
+**_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Pompous:_** You must have a Presence of 0 or lower to use this weapon.
+- **Trait:** Agility
+- **Range:** Melee
+- **Damage:** d12+4 mag
+- **Burden:** One-Handed
 
-_Primary Magical Weapon - Tier 2_
+### FEATURE
+
+**_Pompous:_** You must have a Presence of 0 or lower to use this weapon.

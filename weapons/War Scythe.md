@@ -1,7 +1,12 @@
-# WAR SCYTHE
+# War Scythe
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+5 phy; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Reliable:_** +1 to attack rolls
+- **Trait:** Finesse
+- **Range:** Very Close
+- **Damage:** d8+5 phy
+- **Burden:** Two-Handed
 
-_Primary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Reliable:_** +1 to attack rolls

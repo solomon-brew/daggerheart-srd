@@ -1,7 +1,6 @@
-# WILD SURGE
+# Wild Surge
 
-> **Level 7 Sage Spell**
-> **Recall Cost:** 2
+**_Level 7_** _Sage Spell._ **_Recall Cost_** _2._
 
 Once per long rest, **mark a Stress** to channel the natural world around you and enhance yourself. Describe how your appearance changes, then place a **d6** on this card with the 1 value facing up.
 

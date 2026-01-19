@@ -1,7 +1,8 @@
-# IMPROVED ARCANE GAUNTLETS
+# Improved Arcane Gauntlets
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+6 mag; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** —
-
-_Primary Magical Weapon - Tier 2_
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d10+6 mag
+- **Burden:** Two-Handed

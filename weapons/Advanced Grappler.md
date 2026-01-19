@@ -1,7 +1,12 @@
-# ADVANCED GRAPPLER
+# Advanced Grappler
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d6+4 phy; **Burden:** One-Handed
+**_Tier 3_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Hooked:_** On a successful attack, you can pull the target into Melee range.
+- **Trait:** Finesse
+- **Range:** Close
+- **Damage:** d6+4 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Hooked:_** On a successful attack, you can pull the target into Melee range.

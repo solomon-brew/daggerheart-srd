@@ -1,7 +1,12 @@
-# IMPROVED ROUND SHIELD
+# Improved Round Shield
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d4+2 phy; **Burden:** One-Handed
+**_Tier 2_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Protective:_** +2 to Armor Score
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d4+2 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Protective:_** +2 to Armor Score

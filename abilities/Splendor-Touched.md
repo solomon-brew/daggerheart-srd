@@ -1,7 +1,6 @@
-# SPLENDOR-TOUCHED
+# Splendor-Touched
 
-> **Level 7 Splendor Ability**
-> **Recall Cost:** 2
+**_Level 7_** _Splendor Ability._ **_Recall Cost_** _2._
 
 When 4 or more of the domain cards in your loadout are from the Splendor domain, gain the following benefits:
 

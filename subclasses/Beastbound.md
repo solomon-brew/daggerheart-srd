@@ -1,30 +1,30 @@
-# BEASTBOUND
+# Beastbound
 
 Play the Beastbound if you want to form a deep bond with an animal ally.
 
-## SPELLCAST TRAIT
+### SPELLCAST TRAIT
 
 Agility
 
-## FOUNDATION FEATURE
+### FOUNDATION FEATURE
 
 **_Companion:_** You have an animal companion of your choice (at the GM's discretion). They stay by your side unless you tell them otherwise.
 
 Take the Ranger Companion sheet. When you level up your character, choose a level-up option for your companion from this sheet as well.
 
-## SPECIALIZATION FEATURES
+### SPECIALIZATION FEATURES
 
 **_Expert Training:_** Choose an additional level-up option for your companion.
 
 **_Battle-Bonded:_** When an adversary attacks you while they're within your companion's Melee range, you gain a +2 bonus to your Evasion against the attack.
 
-## MASTERY FEATURES
+### MASTERY FEATURES
 
 **_Advanced Training:_** Choose two additional level-up options for your companion.
 
 **_Loyal Friend:_** Once per long rest, when the damage from an attack would mark your companion's last Stress or your last Hit Point and you're within Close range of each other, you or your companion can rush to the other's side and take that damage instead.
 
-## RANGER COMPANION
+### RANGER COMPANION
 
 When you choose the Beastbound Ranger subclass, take a companion sheet. This sheet is for tracking important information about your character's companion and can be tucked beneath the right side of your character sheet for ease of viewing.
 

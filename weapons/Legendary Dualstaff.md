@@ -1,7 +1,8 @@
-# LEGENDARY DUALSTAFF
+# Legendary Dualstaff
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d8+12 mag; **Burden:** Two-Handed
+**_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** —
-
-_Primary Magical Weapon - Tier 4_
+- **Trait:** Instinct
+- **Range:** Far
+- **Damage:** d8+12 mag
+- **Burden:** Two-Handed

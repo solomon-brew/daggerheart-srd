@@ -1,7 +1,6 @@
-# BONE-TOUCHED
+# Bone-Touched
 
-> **Level 7 Bone Ability**
-> **Recall Cost:** 2
+**_Level 7_** _Bone Ability._ **_Recall Cost_** _2._
 
 When 4 or more of the domain cards in your loadout are from the Bone domain, gain the following benefits:
 

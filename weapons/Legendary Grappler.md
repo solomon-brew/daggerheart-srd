@@ -1,7 +1,12 @@
-# LEGENDARY GRAPPLER
+# Legendary Grappler
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d6+6 phy; **Burden:** One-Handed
+**_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Hooked:_** On a successful attack, you can pull the target into Melee range.
+- **Trait:** Finesse
+- **Range:** Close
+- **Damage:** d6+6 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 4_
+### FEATURE
+
+**_Hooked:_** On a successful attack, you can pull the target into Melee range.

@@ -1,8 +1,8 @@
-# {{ upper .name }}
+# {{ .name }}
 
 {{ .description }}
 
-## ANCESTRY FEATURES
+### ANCESTRY FEATURES
 
 {{- range .feature }}
 

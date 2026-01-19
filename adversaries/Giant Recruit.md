@@ -1,13 +1,12 @@
-# GIANT RECRUIT
+# Giant Recruit
 
-**_Tier 2 Minion_**
-_A giant fighter wearing borrowed armor._
-**Motives & Tactics:** Batter, make a living, overwhelm, terrify
+**_Tier 2 Minion._** _A giant fighter wearing borrowed armor._
 
-> **Difficulty:** 13 | **Thresholds:** None | **HP:** 1 | **Stress:** 2
-> **ATK:** +1 | **Warhammer:** Very Close | 5 phy
+- **Motives & Tactics:** Batter, make a living, overwhelm, terrify
+- **Difficulty:** 13 | **Thresholds:** None | **HP:** 1 | **Stress:** 2
+- **ATK:** +1 | **Warhammer:** Very Close | 5 phy
 
-## FEATURES
+### FEATURES
 
 **_Minion (7) - Passive:_** The Recruit is defeated when they take any damage. For every 7 damage a PC deals to the Recruit, defeat an additional Minion within range the attack would succeed against.
 

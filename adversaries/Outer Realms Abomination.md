@@ -1,13 +1,12 @@
-# OUTER REALMS ABOMINATION
+# Outer Realms Abomination
 
-**_Tier 4 Bruiser_**
-_A chaotic mockery of life, constantly in flux._
-**Motives & Tactics:** Demolish, devour, undermine
+**_Tier 4 Bruiser._** _A chaotic mockery of life, constantly in flux._
 
-> **Difficulty:** 19 | **Thresholds:** 35/71 | **HP:** 7 | **Stress:** 5
-> **ATK:** +2d4 | **Massive Pseudopod:** Very Close | 4d6+13 mag
+- **Motives & Tactics:** Demolish, devour, undermine
+- **Difficulty:** 19 | **Thresholds:** 35/71 | **HP:** 7 | **Stress:** 5
+- **ATK:** +2d4 | **Massive Pseudopod:** Very Close | 4d6+13 mag
 
-## FEATURES
+### FEATURES
 
 **_Chaotic Form - Passive:_** When the Abomination attacks, roll **2d4** and use the result as their attack modifier.
 

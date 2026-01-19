@@ -1,14 +1,13 @@
-# HEAD VAMPIRE
+# Head Vampire
 
-**_Tier 3 Leader_**
-_A captivating undead dressed in aristocratic finery._
-**Motives & Tactics:** Create thralls, charm, command, fly, intimidate
+**_Tier 3 Leader._** _A captivating undead dressed in aristocratic finery._
 
-> **Difficulty:** 17 | **Thresholds:** 22/42 | **HP:** 6 | **Stress:** 6
-> **ATK:** +5 | **Rapier:** Melee | 2d20+4 phy
-> **Experience:** Aristocrat +3
+- **Motives & Tactics:** Create thralls, charm, command, fly, intimidate
+- **Difficulty:** 17 | **Thresholds:** 22/42 | **HP:** 6 | **Stress:** 6
+- **ATK:** +5 | **Rapier:** Melee | 2d20+4 phy
+- **Experience:** Aristocrat +3
 
-## FEATURES
+### FEATURES
 
 **_Terrifying - Passive:_** When the Vampire makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
 

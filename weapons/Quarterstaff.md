@@ -1,7 +1,8 @@
-# QUARTERSTAFF
+# Quarterstaff
 
-**Trait:** Instinct; **Range:** Melee; **Damage:** d10+3 phy; **Burden:** Two-Handed
+**_Tier 1_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 1_
+- **Trait:** Instinct
+- **Range:** Melee
+- **Damage:** d10+3 phy
+- **Burden:** Two-Handed

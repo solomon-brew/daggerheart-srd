@@ -1,14 +1,13 @@
-# GORGON
+# Gorgon
 
-**_Tier 2 Solo_**
-_A snake-headed, scaled humanoid with a gilded bow, enraged that their peace has been disturbed._
-**Motives & Tactics:** Corner, hit-and-run, petrify, seek vengeance
+**_Tier 2 Solo._** _A snake-headed, scaled humanoid with a gilded bow, enraged that their peace has been disturbed._
 
-> **Difficulty:** 15 | **Thresholds:** 13/25 | **HP:** 9 | **Stress:** 3
-> **ATK:** +4 | **Sunsear Shortbow:** Far | 2d20+3 mag
-> **Experience:** Stealth +3
+- **Motives & Tactics:** Corner, hit-and-run, petrify, seek vengeance
+- **Difficulty:** 15 | **Thresholds:** 13/25 | **HP:** 9 | **Stress:** 3
+- **ATK:** +4 | **Sunsear Shortbow:** Far | 2d20+3 mag
+- **Experience:** Stealth +3
 
-## FEATURES
+### FEATURES
 
 **_Relentless (2) - Passive:_** The Gorgon can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
 

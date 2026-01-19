@@ -1,13 +1,12 @@
-# AMBUSHERS
+# Ambushers
 
-**_Tier 1 Event_**
-_An ambush is set by the PCs to catch unsuspecting adversaries off-guard._
-**Impulses:** Escape, group up, protect the most vulnerable
+**_Tier 1 Event._** _An ambush is set by the PCs to catch unsuspecting adversaries off-guard._
 
-> **Difficulty:** <no value>
-> **Potential Adversaries:** Any
+- **Impulses:** Escape, group up, protect the most vulnerable
+- **Difficulty:** Special (see "Relative Strength")
+- **Potential Adversaries:** Any
 
-## FEATURES
+### FEATURES
 
 **_Relative Strength - Passive:_** The Difficulty of this environment equals that of the adversary with the highest Difficulty. _Which adversary is the least prepared? Which one is the most?_
 

@@ -1,7 +1,6 @@
-# ASTRAL PROJECTION
+# Astral Projection
 
-> **Level 8 Grace Spell**
-> **Recall Cost:** 0
+**_Level 8_** _Grace Spell._ **_Recall Cost_** _0._
 
 Once per long rest, **mark a Stress** to create a projected copy of yourself that can appear anywhere you've been before.
 

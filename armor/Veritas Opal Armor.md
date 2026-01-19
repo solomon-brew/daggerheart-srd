@@ -1,7 +1,10 @@
-# VERITAS OPAL ARMOR
+# Veritas Opal Armor
 
-> **Base Thresholds:** 13 / 36 | **Base Score:** 6
+**_Tier 4_** _Armor_
 
-**Feature:** **_Truthseeking:_** This armor glows when another creature within Close range tells a lie.
+- **Base Thresholds:** 13 / 36
+- **Base Score:** 6
 
-_Armor - Tier 4_
+### FEATURE
+
+**_Truthseeking:_** This armor glows when another creature within Close range tells a lie.

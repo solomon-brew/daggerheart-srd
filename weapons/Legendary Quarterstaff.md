@@ -1,7 +1,8 @@
-# LEGENDARY QUARTERSTAFF
+# Legendary Quarterstaff
 
-**Trait:** Instinct; **Range:** Melee; **Damage:** d10+12 phy; **Burden:** Two-Handed
+**_Tier 4_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 4_
+- **Trait:** Instinct
+- **Range:** Melee
+- **Damage:** d10+12 phy
+- **Burden:** Two-Handed

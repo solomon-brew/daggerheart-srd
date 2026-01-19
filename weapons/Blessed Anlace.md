@@ -1,7 +1,12 @@
-# BLESSED ANLACE
+# Blessed Anlace
 
-**Trait:** Instinct; **Range:** Melee; **Damage:** d10+6 mag; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Healing:_** During downtime, automatically clear a Hit Point.
+- **Trait:** Instinct
+- **Range:** Melee
+- **Damage:** d10+6 mag
+- **Burden:** One-Handed
 
-_Primary Magical Weapon - Tier 3_
+### FEATURE
+
+**_Healing:_** During downtime, automatically clear a Hit Point.

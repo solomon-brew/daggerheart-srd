@@ -1,7 +1,12 @@
-# BLADED WHIP
+# Bladed Whip
 
-**Trait:** Agility; **Range:** Very Close; **Damage:** d8+3 phy; **Burden:** One-Handed
+**_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Quick:_** When you make an attack, you can mark a Stress to target another creature within range.
+- **Trait:** Agility
+- **Range:** Very Close
+- **Damage:** d8+3 phy
+- **Burden:** One-Handed
 
-_Primary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Quick:_** When you make an attack, you can mark a Stress to target another creature within range.

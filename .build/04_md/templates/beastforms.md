@@ -1,13 +1,13 @@
-# {{ upper .name }}
+# {{ .name }}
 
-_Tier {{ .tier }}_
+**_Tier {{ .tier }}_** _{{ .examples }}_
 
-{{ .examples }}
+- **Trait Bonus:** {{ .trait_bonus }}
+- **Evasion Bonus:** {{ .evasion_bonus }}
+- **Attack:** {{ .attack }}
+- **Advantages:** {{ .advantages }}
 
-> **Trait Bonus:** {{ .trait_bonus }} | **Evasion Bonus:** {{ .evasion_bonus }}
-> **Attack:** {{ .attack }} | **Advantages:** {{ .advantages }}
-
-## FEATURES
+### FEATURES
 
 {{- range .feature }}
 

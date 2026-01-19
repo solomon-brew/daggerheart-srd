@@ -1,7 +1,6 @@
-# RAIN OF BLADES
+# Rain of Blades
 
-> **Level 1 Midnight Spell**
-> **Recall Cost:** 1
+**_Level 1_** _Midnight Spell._ **_Recall Cost_** _1._
 
 **Spend a Hope** to make a **Spellcast Roll** and conjure throwing blades that strike out at all targets within Very Close range. Targets you succeed against take **d8+2** magic damage using your Proficiency.
 

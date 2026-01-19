@@ -1,13 +1,12 @@
-# MINOR CHAOS ELEMENTAL
+# Minor Chaos Elemental
 
-**_Tier 1 Solo_**
-_A coruscating mass of uncontrollable magic._
-**Motives & Tactics:** Confound, destabilize, transmogrify
+**_Tier 1 Solo._** _A coruscating mass of uncontrollable magic._
 
-> **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 3
-> **ATK:** +3 | **Warp Blast:** Close | 1d12+6 mag
+- **Motives & Tactics:** Confound, destabilize, transmogrify
+- **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 3
+- **ATK:** +3 | **Warp Blast:** Close | 1d12+6 mag
 
-## FEATURES
+### FEATURES
 
 **_Arcane Form - Passive:_** The Elemental is resistant to magic damage.
 

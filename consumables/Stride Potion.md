@@ -1,5 +1,5 @@
-# STRIDE POTION
+# Stride Potion
+
+**_Consumable_**
 
 You gain a +1 bonus to your next Agility Roll.
-
-_Consumable_

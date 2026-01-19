@@ -1,7 +1,12 @@
-# MAGE ORB
+# Mage Orb
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d6+7 mag; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.
+- **Trait:** Knowledge
+- **Range:** Far
+- **Damage:** d6+7 mag
+- **Burden:** One-Handed
 
-_Primary Magical Weapon - Tier 3_
+### FEATURE
+
+**_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.

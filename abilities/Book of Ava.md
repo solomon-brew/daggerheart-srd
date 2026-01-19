@@ -1,7 +1,6 @@
-# BOOK OF AVA
+# Book of Ava
 
-> **Level 1 Codex Grimoire**
-> **Recall Cost:** 2
+**_Level 1_** _Codex Grimoire._ **_Recall Cost_** _2._
 
 _Power Push:_ Make a **Spellcast Roll** against a target within Melee range. On a success, they're knocked back to Far range and take **d10+2** magic damage using your Proficiency.
 

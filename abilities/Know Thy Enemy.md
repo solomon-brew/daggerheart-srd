@@ -1,7 +1,6 @@
-# KNOW THY ENEMY
+# Know Thy Enemy
 
-> **Level 5 Bone Ability**
-> **Recall Cost:** 1
+**_Level 5_** _Bone Ability._ **_Recall Cost_** _1._
 
 When observing a creature, you can make an **Instinct Roll** against them. On a success, **spend a Hope** and ask the GM for one set of information about the target from the following options:
 

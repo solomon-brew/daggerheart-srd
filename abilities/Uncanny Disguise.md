@@ -1,7 +1,6 @@
-# UNCANNY DISGUISE
+# Uncanny Disguise
 
-> **Level 1 Midnight Spell**
-> **Recall Cost:** 0
+**_Level 1_** _Midnight Spell._ **_Recall Cost_** _0._
 
 When you have a few minutes to prepare, you can **mark a Stress** to don the facade of any humanoid you can picture clearly in your mind. While disguised, you have advantage on Presence Rolls to avoid scrutiny.
 

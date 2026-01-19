@@ -1,14 +1,13 @@
-# TANGLE BRAMBLE SWARM
+# Tangle Bramble Swarm
 
-**_Tier 1 Horde (3/HP)_**
-_A cluster of animate, blood-drinking tumbleweeds, each the size of a large gourd._
-**Motives & Tactics:** Digest, entangle, immobilize
+**_Tier 1 Horde (3/HP)._** _A cluster of animate, blood-drinking tumbleweeds, each the size of a large gourd._
 
-> **Difficulty:** 12 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 3
-> **ATK:** +0 | **Thorns:** Melee | 1d6+3 phy
-> **Experience:** Camouflage +2
+- **Motives & Tactics:** Digest, entangle, immobilize
+- **Difficulty:** 12 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 3
+- **ATK:** +0 | **Thorns:** Melee | 1d6+3 phy
+- **Experience:** Camouflage +2
 
-## FEATURES
+### FEATURES
 
 **_Horde (1d4+2) - Passive:_** When the Swarm has marked half or more of their HP, their standard attack deals **1d4+2** physical damage instead.
 

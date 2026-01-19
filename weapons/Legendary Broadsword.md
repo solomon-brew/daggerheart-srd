@@ -1,7 +1,12 @@
-# LEGENDARY BROADSWORD
+# Legendary Broadsword
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+9 phy; **Burden:** One-Handed
+**_Tier 4_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Reliable:_** +1 to attack rolls
+- **Trait:** Agility
+- **Range:** Melee
+- **Damage:** d8+9 phy
+- **Burden:** One-Handed
 
-_Primary Physical Weapon - Tier 4_
+### FEATURE
+
+**_Reliable:_** +1 to attack rolls

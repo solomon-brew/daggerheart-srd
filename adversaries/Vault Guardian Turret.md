@@ -1,13 +1,12 @@
-# VAULT GUARDIAN TURRET
+# Vault Guardian Turret
 
-**_Tier 3 Ranged_**
-_A massive living turret with reinforced armor and twelve pistondriven mechanical legs._
-**Motives & Tactics:** Concentrate fire, lock down, mark, protect
+**_Tier 3 Ranged._** _A massive living turret with reinforced armor and twelve pistondriven mechanical legs._
 
-> **Difficulty:** 16 | **Thresholds:** 20/32 | **HP:** 5 | **Stress:** 4
-> **ATK:** +3 | **Magitech Cannon:** Far | 3d10+3 mag
+- **Motives & Tactics:** Concentrate fire, lock down, mark, protect
+- **Difficulty:** 16 | **Thresholds:** 20/32 | **HP:** 5 | **Stress:** 4
+- **ATK:** +3 | **Magitech Cannon:** Far | 3d10+3 mag
 
-## FEATURES
+### FEATURES
 
 **_Slow Firing - Passive:_** When you spotlight the Turret and they don't have a token on their stat block, they can't make a standard attack. Place a token on their stat block and describe what they're preparing to do. When you spotlight the Turret and they have a token on their stat block, clear the token and they can attack.
 

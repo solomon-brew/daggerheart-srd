@@ -1,7 +1,10 @@
-# CHAINMAIL ARMOR
+# Chainmail Armor
 
-> **Base Thresholds:** 7 / 15 | **Base Score:** 4
+**_Tier 1_** _Armor_
 
-**Feature:** **_Heavy:_** -1 to Evasion
+- **Base Thresholds:** 7 / 15
+- **Base Score:** 4
 
-_Armor - Tier 1_
+### FEATURE
+
+**_Heavy:_** -1 to Evasion

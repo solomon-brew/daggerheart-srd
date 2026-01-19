@@ -1,14 +1,13 @@
-# MASKED THIEF
+# Masked Thief
 
-**_Tier 2 Skulk_**
-_A cunning thief with acrobatic skill and a flair for the dramatic._
-**Motives & Tactics:** Evade, hide, pilfer, profit
+**_Tier 2 Skulk._** _A cunning thief with acrobatic skill and a flair for the dramatic._
 
-> **Difficulty:** 14 | **Thresholds:** 8/17 | **HP:** 4 | **Stress:** 5
-> **ATK:** +3 | **Backsword:** Melee | 2d8+3 phy
-> **Experience:** Acrobatics +3
+- **Motives & Tactics:** Evade, hide, pilfer, profit
+- **Difficulty:** 14 | **Thresholds:** 8/17 | **HP:** 4 | **Stress:** 5
+- **ATK:** +3 | **Backsword:** Melee | 2d8+3 phy
+- **Experience:** Acrobatics +3
 
-## FEATURES
+### FEATURES
 
 **_Quick Hands - Action:_** Make an attack against a target within Melee range. On a success, deal **1d8+2** physical damage and the Thief steals one item or consumable from the target's inventory.
 

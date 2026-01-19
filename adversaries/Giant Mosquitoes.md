@@ -1,14 +1,13 @@
-# GIANT MOSQUITOES
+# Giant Mosquitoes
 
-**_Tier 1 Horde (5/HP)_**
-_Dozens of fist-sized mosquitoes, flying together for protection._
-**Motives & Tactics:** Fly away, harass, steal blood
+**_Tier 1 Horde (5/HP)._** _Dozens of fist-sized mosquitoes, flying together for protection._
 
-> **Difficulty:** 10 | **Thresholds:** 5/9 | **HP:** 6 | **Stress:** 3
-> **ATK:** -2 | **Proboscis:** Melee | 1d8+3 phy
-> **Experience:** Camouflage +2
+- **Motives & Tactics:** Fly away, harass, steal blood
+- **Difficulty:** 10 | **Thresholds:** 5/9 | **HP:** 6 | **Stress:** 3
+- **ATK:** -2 | **Proboscis:** Melee | 1d8+3 phy
+- **Experience:** Camouflage +2
 
-## FEATURES
+### FEATURES
 
 **_Horde (1d4+1) - Passive:_** When the Mosquitoes have marked half or more of their HP, their standard attack deals **1d4+1** physical damage instead.
 

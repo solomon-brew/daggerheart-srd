@@ -1,7 +1,12 @@
-# IMPROVED BROADSWORD
+# Improved Broadsword
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+3 phy; **Burden:** One-Handed
+**_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Reliable:_** +1 to attack rolls
+- **Trait:** Agility
+- **Range:** Melee
+- **Damage:** d8+3 phy
+- **Burden:** One-Handed
 
-_Primary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Reliable:_** +1 to attack rolls

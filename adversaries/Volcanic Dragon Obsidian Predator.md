@@ -1,14 +1,13 @@
-# VOLCANIC DRAGON: OBSIDIAN PREDATOR
+# Volcanic Dragon: Obsidian Predator
 
-**_Tier 4 Solo_**
-_A massive winged creature with obsidian scales and impossibly sharp claws._
-**Motives & Tactics:** Defend lair, dive-bomb, fly, hunt, intimidate
+**_Tier 4 Solo._** _A massive winged creature with obsidian scales and impossibly sharp claws._
 
-> **Difficulty:** 19 | **Thresholds:** 33/65 | **HP:** 6 | **Stress:** 5
-> **ATK:** +8 | **Obsidian Claws:** Close | 4d10+4 phy
-> **Experience:** Hunt from Above +5
+- **Motives & Tactics:** Defend lair, dive-bomb, fly, hunt, intimidate
+- **Difficulty:** 19 | **Thresholds:** 33/65 | **HP:** 6 | **Stress:** 5
+- **ATK:** +8 | **Obsidian Claws:** Close | 4d10+4 phy
+- **Experience:** Hunt from Above +5
 
-## FEATURES
+### FEATURES
 
 **_Relentless (2) - Passive:_** The Obsidian Predator can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
 

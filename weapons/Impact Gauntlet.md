@@ -1,7 +1,12 @@
-# IMPACT GAUNTLET
+# Impact Gauntlet
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+11 phy; **Burden:** One-Handed
+**_Tier 4_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Concussive:_** On a successful attack, you can spend a Hope to knock the target back to Far range.
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d10+11 phy
+- **Burden:** One-Handed
 
-_Primary Physical Weapon - Tier 4_
+### FEATURE
+
+**_Concussive:_** On a successful attack, you can spend a Hope to knock the target back to Far range.

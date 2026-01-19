@@ -1,7 +1,6 @@
-# BOOK OF TYFAR
+# Book of Tyfar
 
-> **Level 1 Codex Grimoire**
-> **Recall Cost:** 2
+**_Level 1_** _Codex Grimoire._ **_Recall Cost_** _2._
 
 _Wild Flame:_ Make a **Spellcast Roll** against up to three adversaries within Melee range. Targets you succeed against take **2d6** magic damage and must mark a Stress as flames erupt from your hand.
 

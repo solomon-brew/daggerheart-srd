@@ -1,13 +1,12 @@
-# SHAMBLING ZOMBIE
+# Shambling Zombie
 
-**_Tier 1 Standard_**
-_An animated corpse that moves shakily, driven only by hunger._
-**Motives & Tactics:** Devour, hungry, mob enemy, shred flesh
+**_Tier 1 Standard._** _An animated corpse that moves shakily, driven only by hunger._
 
-> **Difficulty:** 10 | **Thresholds:** 4/6 | **HP:** 4 | **Stress:** 1
-> **ATK:** +0 | **Bite:** Melee | 1d6+1 phy
+- **Motives & Tactics:** Devour, hungry, mob enemy, shred flesh
+- **Difficulty:** 10 | **Thresholds:** 4/6 | **HP:** 4 | **Stress:** 1
+- **ATK:** +0 | **Bite:** Melee | 1d6+1 phy
 
-## FEATURES
+### FEATURES
 
 **_Too Many to Handle - Passive:_** When the Zombie is within Melee range of a creature and at least one other Zombie is within Close range, all attacks against that creature have advantage.
 

@@ -1,7 +1,12 @@
-# DOUBLE FLAIL
+# Double Flail
 
-**Trait:** Agility; **Range:** Very Close; **Damage:** d10+8 phy; **Burden:** Two-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.
+- **Trait:** Agility
+- **Range:** Very Close
+- **Damage:** d10+8 phy
+- **Burden:** Two-Handed
 
-_Primary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.

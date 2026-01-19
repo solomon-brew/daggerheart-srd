@@ -1,7 +1,6 @@
-# IMPROVED LEATHER ARMOR
+# Improved Leather Armor
 
-> **Base Thresholds:** 9 / 20 | **Base Score:** 4
+**_Tier 2_** _Armor_
 
-**Feature:** —
-
-_Armor - Tier 2_
+- **Base Thresholds:** 9 / 20
+- **Base Score:** 4

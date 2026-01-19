@@ -1,7 +1,12 @@
-# SCEPTER
+# Scepter
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6 mag; **Burden:** Two-Handed
+**_Tier 1_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Versatile:_** This weapon can also be used with these statistics—Presence, Melee, d8.
+- **Trait:** Presence
+- **Range:** Far
+- **Damage:** d6 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 1_
+### FEATURE
+
+**_Versatile:_** This weapon can also be used with these statistics—Presence, Melee, d8.

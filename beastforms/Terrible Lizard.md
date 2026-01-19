@@ -1,13 +1,13 @@
-# TERRIBLE LIZARD
+# Terrible Lizard
 
-_Tier 4_
+**_Tier 4_** _(Brachiosaurus, Tyrannosaurus, etc.)_
 
-(Brachiosaurus, Tyrannosaurus, etc.)
+- **Trait Bonus:** Strength +3
+- **Evasion Bonus:** Evasion +2
+- **Attack:** Melee Strength d12+10 phy
+- **Advantages:** attack, deceive, scare, track
 
-> **Trait Bonus:** Strength +3 | **Evasion Bonus:** Evasion +2
-> **Attack:** Melee Strength d12+10 phy | **Advantages:** attack, deceive, scare, track
-
-## FEATURES
+### FEATURES
 
 **_Devastating Strikes:_** When you deal Severe damage to a target within Melee range, you can **mark a Stress** to force them to mark an additional Hit Point.
 

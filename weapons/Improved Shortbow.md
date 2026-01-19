@@ -1,7 +1,8 @@
-# IMPROVED SHORTBOW
+# Improved Shortbow
 
-**Trait:** Agility; **Range:** Far; **Damage:** d6+6 phy; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 2_
+- **Trait:** Agility
+- **Range:** Far
+- **Damage:** d6+6 phy
+- **Burden:** Two-Handed

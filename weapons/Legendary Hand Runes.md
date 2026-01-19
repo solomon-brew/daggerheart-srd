@@ -1,7 +1,8 @@
-# LEGENDARY HAND RUNES
+# Legendary Hand Runes
 
-**Trait:** Instinct; **Range:** Very Close; **Damage:** d10+9 mag; **Burden:** One-Handed
+**_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** —
-
-_Primary Magical Weapon - Tier 4_
+- **Trait:** Instinct
+- **Range:** Very Close
+- **Damage:** d10+9 mag
+- **Burden:** One-Handed

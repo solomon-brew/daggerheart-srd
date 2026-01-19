@@ -1,13 +1,12 @@
-# AMBUSHED
+# Ambushed
 
-**_Tier 1 Event_**
-_An ambush is set to catch an unsuspecting party off-guard._
-**Impulses:** Overwhelm, scatter, surround
+**_Tier 1 Event._** _An ambush is set to catch an unsuspecting party off-guard._
 
-> **Difficulty:** <no value>
-> **Potential Adversaries:** Any
+- **Impulses:** Overwhelm, scatter, surround
+- **Difficulty:** Special (see "Relative Strength")
+- **Potential Adversaries:** Any
 
-## FEATURES
+### FEATURES
 
 **_Relative Strength - Passive:_** The Difficulty of this environment equals that of the adversary with the highest Difficulty. _Who cues the ambush? What makes it clear they're in charge?_
 

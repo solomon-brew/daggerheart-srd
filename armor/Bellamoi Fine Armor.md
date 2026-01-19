@@ -1,7 +1,10 @@
-# BELLAMOI FINE ARMOR
+# Bellamoi Fine Armor
 
-> **Base Thresholds:** 11 / 27 | **Base Score:** 5
+**_Tier 3_** _Armor_
 
-**Feature:** **_Gilded:_** +1 to Presence
+- **Base Thresholds:** 11 / 27
+- **Base Score:** 5
 
-_Armor - Tier 3_
+### FEATURE
+
+**_Gilded:_** +1 to Presence

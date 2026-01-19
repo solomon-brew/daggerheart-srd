@@ -1,7 +1,10 @@
-# RUNETAN FLOATING ARMOR
+# Runetan Floating Armor
 
-> **Base Thresholds:** 9 / 20 | **Base Score:** 4
+**_Tier 2_** _Armor_
 
-**Feature:** **_Shifting:_** When you are targeted for an attack, you can mark an Armor Slot to give the attack roll against you disadvantage.
+- **Base Thresholds:** 9 / 20
+- **Base Score:** 4
 
-_Armor - Tier 2_
+### FEATURE
+
+**_Shifting:_** When you are targeted for an attack, you can mark an Armor Slot to give the attack roll against you disadvantage.

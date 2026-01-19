@@ -1,14 +1,13 @@
-# SPELLBLADE
+# Spellblade
 
-**_Tier 1 Leader_**
-_A mercenary combining swordplay and magic to deadly effect._
-**Motives & Tactics:** Blast, command, endure
+**_Tier 1 Leader._** _A mercenary combining swordplay and magic to deadly effect._
 
-> **Difficulty:** 14 | **Thresholds:** 8/14 | **HP:** 6 | **Stress:** 3
-> **ATK:** +3 | **Empowered Longsword:** Melee | 1d8+4 phy/mag
-> **Experience:** Magical Knowledge +2
+- **Motives & Tactics:** Blast, command, endure
+- **Difficulty:** 14 | **Thresholds:** 8/14 | **HP:** 6 | **Stress:** 3
+- **ATK:** +3 | **Empowered Longsword:** Melee | 1d8+4 phy/mag
+- **Experience:** Magical Knowledge +2
 
-## FEATURES
+### FEATURES
 
 **_Arcane Steel - Passive:_** Damage dealt by the Spellblade's standard attack is considered both physical and magic.
 

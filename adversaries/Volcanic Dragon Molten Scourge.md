@@ -1,14 +1,13 @@
-# VOLCANIC DRAGON: MOLTEN SCOURGE
+# Volcanic Dragon: Molten Scourge
 
-**_Tier 4 Solo_**
-_Enraged by their wounds, the dragon bursts into molten lava._
-**Motives & Tactics:** Douse with lava, incinerate, repel Invaders, reposition
+**_Tier 4 Solo._** _Enraged by their wounds, the dragon bursts into molten lava._
 
-> **Difficulty:** 20 | **Thresholds:** 30/58 | **HP:** 7 | **Stress:** 5
-> **ATK:** +9 | **Lava-Coated Claws:** Close | 4d12+4 phy
-> **Experience:** Hunt from Above +5
+- **Motives & Tactics:** Douse with lava, incinerate, repel Invaders, reposition
+- **Difficulty:** 20 | **Thresholds:** 30/58 | **HP:** 7 | **Stress:** 5
+- **ATK:** +9 | **Lava-Coated Claws:** Close | 4d12+4 phy
+- **Experience:** Hunt from Above +5
 
-## FEATURES
+### FEATURES
 
 **_Relentless (3) - Passive:_** The Molten Scourge can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 

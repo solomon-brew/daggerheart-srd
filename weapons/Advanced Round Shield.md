@@ -1,7 +1,12 @@
-# ADVANCED ROUND SHIELD
+# Advanced Round Shield
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d4+4 phy; **Burden:** One-Handed
+**_Tier 3_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Protective:_** +3 to Armor Score
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d4+4 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Protective:_** +3 to Armor Score

@@ -1,6 +1,5 @@
-# SUPPORT TANK
+# Support Tank
 
-> **Level 4 Valor Ability**
-> **Recall Cost:** 2
+**_Level 4_** _Valor Ability._ **_Recall Cost_** _2._
 
 When an ally within Close range fails a roll, you can **spend 2 Hope** to allow them to reroll either their Hope or Fear Die.

@@ -1,14 +1,13 @@
-# PETTY NOBLE
+# Petty Noble
 
-**_Tier 1 Social_**
-_A richly dressed and adorned aristocrat brimming with hubris._
-**Motives & Tactics:** Abuse power, gather resources, mobilize minions
+**_Tier 1 Social._** _A richly dressed and adorned aristocrat brimming with hubris._
 
-> **Difficulty:** 14 | **Thresholds:** 6/10 | **HP:** 3 | **Stress:** 5
-> **ATK:** -3 | **Rapier:** Melee | 1d6+1 phy
-> **Experience:** Aristocrat +3
+- **Motives & Tactics:** Abuse power, gather resources, mobilize minions
+- **Difficulty:** 14 | **Thresholds:** 6/10 | **HP:** 3 | **Stress:** 5
+- **ATK:** -3 | **Rapier:** Melee | 1d6+1 phy
+- **Experience:** Aristocrat +3
 
-## FEATURES
+### FEATURES
 
 **_My Land, My Rules - Passive:_** All social actions made against the Noble on their land have disadvantage.
 

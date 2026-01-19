@@ -87,12 +87,16 @@ func titleizeAllCaps(s string) string {
 			words[i] = w
 			continue
 		}
-		runes := []rune(lower)
-		if len(runes) == 0 {
-			continue
+		segments := strings.Split(lower, "-")
+		for j, seg := range segments {
+			runes := []rune(seg)
+			if len(runes) == 0 {
+				continue
+			}
+			runes[0] = []rune(strings.ToUpper(string(runes[0])))[0]
+			segments[j] = string(runes)
 		}
-		runes[0] = []rune(strings.ToUpper(string(runes[0])))[0]
-		words[i] = string(runes)
+		words[i] = strings.Join(segments, "-")
 	}
 	return strings.Join(words, " ")
 }
@@ -1283,9 +1287,9 @@ func extractEnvironments(content, outputDir string) {
 		if m := reImp.FindStringSubmatch(fullText); len(m) > 1 {
 			imp = strings.TrimSpace(m[1])
 		}
-		reDiff := regexp.MustCompile(`[*][*]Difficulty:[*][*]\s*(\d+)`)
+		reDiff := regexp.MustCompile(`[*][*]Difficulty:[*][*]\s*([^\n]+)`)
 		if m := reDiff.FindStringSubmatch(fullText); len(m) > 1 {
-			diff = m[1]
+			diff = strings.TrimSpace(m[1])
 		}
 		reAdv := regexp.MustCompile(`[*][*]Potential Adversaries:[*][*]\s*(.*)`)
 		if m := reAdv.FindStringSubmatch(fullText); len(m) > 1 {

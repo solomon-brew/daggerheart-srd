@@ -1,13 +1,12 @@
-# ARCHER SQUADRON
+# Archer Squadron
 
-**_Tier 2 Horde (2/HP)_**
-_A group of trained archers bearing massive bows._
-**Motives & Tactics:** Stick together, survive, volley fire
+**_Tier 2 Horde (2/HP)._** _A group of trained archers bearing massive bows._
 
-> **Difficulty:** 13 | **Thresholds:** 8/16 | **HP:** 4 | **Stress:** 3
-> **ATK:** +0 | **Longbow:** Far | 2d6+3 phy
+- **Motives & Tactics:** Stick together, survive, volley fire
+- **Difficulty:** 13 | **Thresholds:** 8/16 | **HP:** 4 | **Stress:** 3
+- **ATK:** +0 | **Longbow:** Far | 2d6+3 phy
 
-## FEATURES
+### FEATURES
 
 **_Horde (1d6+3) - Passive:_** When the Squadron has marked half or more of their HP, their standard attack deals **1d6+3** physical damage instead.
 

@@ -1,14 +1,13 @@
-# {{ upper .name }}
+# {{ .name }}
 
-**_Tier {{ .tier }} {{ .type }}_**
-_{{ .description }}_
-**Motives & Tactics:** {{ .motives_and_tactics }}
+**_Tier {{ .tier }} {{ .type }}._** _{{ .description }}_
 
-> **Difficulty:** {{ .difficulty }} | **Thresholds:** {{ .thresholds }} | **HP:** {{ .hp }} | **Stress:** {{ .stress }}
-> **ATK:** {{ .atk }} | **{{ .attack }}:** {{ .range }} | {{ .damage }}{{ if .experience }}
-> **Experience:** {{ .experience }}{{ end }}
+- **Motives & Tactics:** {{ .motives_and_tactics }}
+- **Difficulty:** {{ .difficulty }} | **Thresholds:** {{ .thresholds }} | **HP:** {{ .hp }} | **Stress:** {{ .stress }}
+- **ATK:** {{ .atk }} | **{{ .attack }}:** {{ .range }} | {{ .damage }}{{ if .experience }}
+- **Experience:** {{ .experience }}{{ end }}
 
-## FEATURES
+### FEATURES
 
 {{- range .feature }}
 

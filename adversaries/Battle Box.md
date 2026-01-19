@@ -1,14 +1,13 @@
-# BATTLE BOX
+# Battle Box
 
-**_Tier 2 Solo_**
-_A cube-shaped construct with a different rune on each of their six sides._
-**Motives & Tactics:** Change tactics, trample foes, wait in disguise
+**_Tier 2 Solo._** _A cube-shaped construct with a different rune on each of their six sides._
 
-> **Difficulty:** 15 | **Thresholds:** 10/20 | **HP:** 8 | **Stress:** 6
-> **ATK:** +2 | **Slam:** Melee | 2d6+3 phy
-> **Experience:** Camouflage +2
+- **Motives & Tactics:** Change tactics, trample foes, wait in disguise
+- **Difficulty:** 15 | **Thresholds:** 10/20 | **HP:** 8 | **Stress:** 6
+- **ATK:** +2 | **Slam:** Melee | 2d6+3 phy
+- **Experience:** Camouflage +2
 
-## FEATURES
+### FEATURES
 
 **_Relentless (2) - Passive:_** The Box can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
 

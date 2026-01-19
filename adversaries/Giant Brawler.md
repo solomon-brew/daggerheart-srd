@@ -1,14 +1,13 @@
-# GIANT BRAWLER
+# Giant Brawler
 
-**_Tier 2 Bruiser_**
-_An especially muscular giant wielding a warhammer larger than a human._
-**Motives & Tactics:** Make a living, overwhelm, slam, topple
+**_Tier 2 Bruiser._** _An especially muscular giant wielding a warhammer larger than a human._
 
-> **Difficulty:** 15 | **Thresholds:** 14/28 | **HP:** 7 | **Stress:** 4
-> **ATK:** +2 | **Warhammer:** Very Close | 2d12+3 phy
-> **Experience:** Intrusion +2
+- **Motives & Tactics:** Make a living, overwhelm, slam, topple
+- **Difficulty:** 15 | **Thresholds:** 14/28 | **HP:** 7 | **Stress:** 4
+- **ATK:** +2 | **Warhammer:** Very Close | 2d12+3 phy
+- **Experience:** Intrusion +2
 
-## FEATURES
+### FEATURES
 
 **_Battering Ram - Action:_** **Mark a Stress** to have the Brawler charge at an inanimate object within Close range they could feasibly smash (such as a wall, cart, or market stand) and destroy it. All targets within Very Close range of the object must succeed on an Agility Reaction Roll or take **2d4+3** physical damage from the shrapnel.
 

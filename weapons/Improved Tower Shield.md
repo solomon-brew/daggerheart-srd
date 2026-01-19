@@ -1,7 +1,12 @@
-# IMPROVED TOWER SHIELD
+# Improved Tower Shield
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6+2 phy; **Burden:** One-Handed
+**_Tier 2_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Barrier:_** +3 to Armor Score; -1 to Evasion
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d6+2 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Barrier:_** +3 to Armor Score; -1 to Evasion

@@ -1,7 +1,10 @@
-# LEGENDARY CHAINMAIL ARMOR
+# Legendary Chainmail Armor
 
-> **Base Thresholds:** 15 / 40 | **Base Score:** 7
+**_Tier 4_** _Armor_
 
-**Feature:** **_Heavy:_** -1 to Evasion
+- **Base Thresholds:** 15 / 40
+- **Base Score:** 7
 
-_Armor - Tier 4_
+### FEATURE
+
+**_Heavy:_** -1 to Evasion

@@ -1,7 +1,10 @@
-# IMPROVED FULL PLATE ARMOR
+# Improved Full Plate Armor
 
-> **Base Thresholds:** 13 / 28 | **Base Score:** 5
+**_Tier 2_** _Armor_
 
-**Feature:** **_Very Heavy:_** -2 to Evasion; -1 to Agility
+- **Base Thresholds:** 13 / 28
+- **Base Score:** 5
 
-_Armor - Tier 2_
+### FEATURE
+
+**_Very Heavy:_** -2 to Evasion; -1 to Agility

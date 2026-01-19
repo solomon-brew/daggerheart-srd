@@ -1,7 +1,12 @@
-# IMPROVED SMALL DAGGER
+# Improved Small Dagger
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+2 phy; **Burden:** One-Handed
+**_Tier 2_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Paired:_** +3 to primary weapon damage to targets within Melee range
+- **Trait:** Finesse
+- **Range:** Melee
+- **Damage:** d8+2 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Paired:_** +3 to primary weapon damage to targets within Melee range

@@ -1,7 +1,12 @@
-# IMPROVED WARHAMMER
+# Improved Warhammer
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d12+6 phy; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Heavy:_** -1 to Evasion
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d12+6 phy
+- **Burden:** Two-Handed
 
-_Primary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Heavy:_** -1 to Evasion

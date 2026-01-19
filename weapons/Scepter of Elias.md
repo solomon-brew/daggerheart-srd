@@ -1,7 +1,12 @@
-# SCEPTER OF ELIAS
+# Scepter of Elias
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6+3 mag; **Burden:** One-Handed
+**_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Invigorating:_** On a successful attack, roll a d4. On a result of 4, clear a Stress.
+- **Trait:** Presence
+- **Range:** Far
+- **Damage:** d6+3 mag
+- **Burden:** One-Handed
 
-_Primary Magical Weapon - Tier 2_
+### FEATURE
+
+**_Invigorating:_** On a successful attack, roll a d4. On a result of 4, clear a Stress.

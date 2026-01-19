@@ -1,7 +1,8 @@
-# ADVANCED CROSSBOW
+# Advanced Crossbow
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+7 phy; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 3_
+- **Trait:** Finesse
+- **Range:** Far
+- **Damage:** d6+7 phy
+- **Burden:** One-Handed

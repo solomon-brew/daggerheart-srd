@@ -1,13 +1,12 @@
-# HYDRA
+# Hydra
 
-**_Tier 3 Solo_**
-_A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs._
-**Motives & Tactics:** Devour, regenerate, terrify
+**_Tier 3 Solo._** _A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs._
 
-> **Difficulty:** 18 | **Thresholds:** 19/35 | **HP:** 10 | **Stress:** 5
-> **ATK:** +3 | **Bite:** Close | 2d12+2 phy
+- **Motives & Tactics:** Devour, regenerate, terrify
+- **Difficulty:** 18 | **Thresholds:** 19/35 | **HP:** 10 | **Stress:** 5
+- **ATK:** +3 | **Bite:** Close | 2d12+2 phy
 
-## FEATURES
+### FEATURES
 
 **_Many-Headed Menace - Passive:_** The Hydra begins with three heads and can have up to five. When the Hydra takes Major or greater damage, they lose a head.
 

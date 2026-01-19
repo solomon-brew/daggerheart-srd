@@ -1,7 +1,8 @@
-# ADVANCED HALLOWED AXE
+# Advanced Hallowed Axe
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d8+7 mag; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** —
-
-_Primary Magical Weapon - Tier 3_
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d8+7 mag
+- **Burden:** One-Handed

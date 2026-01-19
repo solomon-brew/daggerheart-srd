@@ -1,7 +1,8 @@
-# SPEAR
+# Spear
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+3 phy; **Burden:** Two-Handed
+**_Tier 1_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 1_
+- **Trait:** Finesse
+- **Range:** Very Close
+- **Damage:** d8+3 phy
+- **Burden:** Two-Handed

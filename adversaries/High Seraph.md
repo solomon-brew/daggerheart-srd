@@ -1,14 +1,13 @@
-# HIGH SERAPH
+# High Seraph
 
-**_Tier 4 Leader_**
-_A divine champion, head of a hallowed host of warriors who enforce their god's will._
-**Motives & Tactics:** Enforce dogma, fly, pronounce judgment, smite
+**_Tier 4 Leader._** _A divine champion, head of a hallowed host of warriors who enforce their god's will._
 
-> **Difficulty:** 20 | **Thresholds:** 37/70 | **HP:** 7 | **Stress:** 5
-> **ATK:** +8 | **Holy Sword:** Very Close | 4d10+10 phy
-> **Experience:** Divine Knowledge +3
+- **Motives & Tactics:** Enforce dogma, fly, pronounce judgment, smite
+- **Difficulty:** 20 | **Thresholds:** 37/70 | **HP:** 7 | **Stress:** 5
+- **ATK:** +8 | **Holy Sword:** Very Close | 4d10+10 phy
+- **Experience:** Divine Knowledge +3
 
-## FEATURES
+### FEATURES
 
 **_Relentless (3) - Passive:_** The Seraph can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 

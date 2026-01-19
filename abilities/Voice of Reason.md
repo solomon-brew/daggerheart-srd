@@ -1,7 +1,6 @@
-# VOICE OF REASON
+# Voice of Reason
 
-> **Level 3 Splendor Ability**
-> **Recall Cost:** 1
+**_Level 3_** _Splendor Ability._ **_Recall Cost_** _1._
 
 You speak with an unmatched power and authority. You have advantage on action rolls to de-escalate violent situations or convince someone to follow your lead.
 

@@ -1,7 +1,8 @@
-# IMPROVED SPEAR
+# Improved Spear
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+6 phy; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 2_
+- **Trait:** Finesse
+- **Range:** Very Close
+- **Damage:** d8+6 phy
+- **Burden:** Two-Handed

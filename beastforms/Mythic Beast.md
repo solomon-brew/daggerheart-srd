@@ -1,13 +1,13 @@
-# MYTHIC BEAST
+# Mythic Beast
 
-_Tier 4_
+**_Tier 4_** _(Upgraded Tier 1 or Tier 2 Options)_
 
-(Upgraded Tier 1 or Tier 2 Options)
+- **Trait Bonus:** <no value>
+- **Evasion Bonus:** <no value>
+- **Attack:** <no value>
+- **Advantages:** <no value>
 
-> **Trait Bonus:** <no value> | **Evasion Bonus:** <no value>
-> **Attack:** <no value> | **Advantages:** <no value>
-
-## FEATURES
+### FEATURES
 
 **_Evolved:_** Pick a Tier 1 or Tier 2 Beastform option and become a larger, more powerful version of that creature. While you're in this form, you retain all traits and features from the original form and gain the following bonuses:
 

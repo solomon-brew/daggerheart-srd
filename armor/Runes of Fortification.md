@@ -1,7 +1,10 @@
-# RUNES OF FORTIFICATION
+# Runes of Fortification
 
-> **Base Thresholds:** 17 / 43 | **Base Score:** 6
+**_Tier 3_** _Armor_
 
-**Feature:** **_Painful:_** Each time you mark an Armor Slot, you must mark a Stress.
+- **Base Thresholds:** 17 / 43
+- **Base Score:** 6
 
-_Armor - Tier 3_
+### FEATURE
+
+**_Painful:_** Each time you mark an Armor Slot, you must mark a Stress.

@@ -1,14 +1,13 @@
-# SPY
+# Spy
 
-**_Tier 2 Social_**
-_A skilled espionage agent with a knack for being in the right place to overhear secrets._
-**Motives & Tactics:** Cut and run, disguise appearance, eavesdrop
+**_Tier 2 Social._** _A skilled espionage agent with a knack for being in the right place to overhear secrets._
 
-> **Difficulty:** 15 | **Thresholds:** 8/17 | **HP:** 4 | **Stress:** 3
-> **ATK:** -2 | **Dagger:** Melee | 2d6+3 phy
-> **Experience:** Espionage +3
+- **Motives & Tactics:** Cut and run, disguise appearance, eavesdrop
+- **Difficulty:** 15 | **Thresholds:** 8/17 | **HP:** 4 | **Stress:** 3
+- **ATK:** -2 | **Dagger:** Melee | 2d6+3 phy
+- **Experience:** Espionage +3
 
-## FEATURES
+### FEATURES
 
 **_Gathering Secrets - Action:_** **Spend a Fear** to describe how the Spy knows a secret about a PC in the scene.
 

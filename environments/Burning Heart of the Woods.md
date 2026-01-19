@@ -1,13 +1,12 @@
-# BURNING HEART OF THE WOODS
+# Burning Heart of the Woods
 
-**_Tier 3 Exploration_**
-_Thick indigo ash fills the air around a towering moss-covered tree that burns eternally with flames a sickly shade of blue._
-**Impulses:** Beat out an uncanny rhythm for all to follow, corrupt the woods
+**_Tier 3 Exploration._** _Thick indigo ash fills the air around a towering moss-covered tree that burns eternally with flames a sickly shade of blue._
 
-> **Difficulty:** 16
-> **Potential Adversaries:** Beasts (Bear, Glass Snake), Elementals (Elemental Spark), Verdant Defenders (Dryad, Oak Treant, Stag Knight)
+- **Impulses:** Beat out an uncanny rhythm for all to follow, corrupt the woods
+- **Difficulty:** 16
+- **Potential Adversaries:** Beasts (Bear, Glass Snake), Elementals (Elemental Spark), Verdant Defenders (Dryad, Oak Treant, Stag Knight)
 
-## FEATURES
+### FEATURES
 
 **_Chaos Magic Locus - Passive:_** When a PC makes a Spellcast Roll, they must roll two Fear Dice and take the higher result. _What does it feel like to work magic in this chaos-touched place? What do you fear will happen if you lose control of the spell?_
 

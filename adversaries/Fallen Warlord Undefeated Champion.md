@@ -1,14 +1,13 @@
-# FALLEN WARLORD: UNDEFEATED CHAMPION
+# Fallen Warlord: Undefeated Champion
 
-**_Tier 4 Solo_**
-_That which only the most feared have a chance to fear._
-**Motives & Tactics:** Dispatch merciless death, punish the defiant, secure victory at any cost
+**_Tier 4 Solo._** _That which only the most feared have a chance to fear._
 
-> **Difficulty:** 18 | **Thresholds:** 35/58 | **HP:** 11 | **Stress:** 5
-> **ATK:** +8 | **Heart-Shattering Sword:** Very Close | 4d12+13 phy
-> **Experience:** Conquest +3, History +2, Intimidation +3
+- **Motives & Tactics:** Dispatch merciless death, punish the defiant, secure victory at any cost
+- **Difficulty:** 18 | **Thresholds:** 35/58 | **HP:** 11 | **Stress:** 5
+- **ATK:** +8 | **Heart-Shattering Sword:** Very Close | 4d12+13 phy
+- **Experience:** Conquest +3, History +2, Intimidation +3
 
-## FEATURES
+### FEATURES
 
 **_Relentless (3) - Passive:_** The Undefeated Champion can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 

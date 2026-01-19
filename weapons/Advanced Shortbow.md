@@ -1,7 +1,8 @@
-# ADVANCED SHORTBOW
+# Advanced Shortbow
 
-**Trait:** Agility; **Range:** Far; **Damage:** d6+9 phy; **Burden:** Two-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** —
-
-_Primary Physical Weapon - Tier 3_
+- **Trait:** Agility
+- **Range:** Far
+- **Damage:** d6+9 phy
+- **Burden:** Two-Handed

@@ -1,7 +1,12 @@
-# ADVANCED SMALL DAGGER
+# Advanced Small Dagger
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+4 phy; **Burden:** One-Handed
+**_Tier 3_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Paired:_** +4 to primary weapon damage to targets within Melee range
+- **Trait:** Finesse
+- **Range:** Melee
+- **Damage:** d8+4 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Paired:_** +4 to primary weapon damage to targets within Melee range

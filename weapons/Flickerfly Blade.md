@@ -1,7 +1,12 @@
-# FLICKERFLY BLADE
+# Flickerfly Blade
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+5 phy; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Sharpwing:_** Gain a bonus to your damage rolls equal to your Agility.
+- **Trait:** Agility
+- **Range:** Melee
+- **Damage:** d8+5 phy
+- **Burden:** One-Handed
 
-_Primary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Sharpwing:_** Gain a bonus to your damage rolls equal to your Agility.

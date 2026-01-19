@@ -1,7 +1,12 @@
-# LEGENDARY LONGBOW
+# Legendary Longbow
 
-**Trait:** Agility; **Range:** Very Far; **Damage:** d8+12 phy; **Burden:** Two-Handed
+**_Tier 4_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Cumbersome:_** -1 to Finesse
+- **Trait:** Agility
+- **Range:** Very Far
+- **Damage:** d8+12 phy
+- **Burden:** Two-Handed
 
-_Primary Physical Weapon - Tier 4_
+### FEATURE
+
+**_Cumbersome:_** -1 to Finesse

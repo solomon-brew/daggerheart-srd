@@ -1,14 +1,13 @@
-# ORACLE OF DOOM
+# Oracle of Doom
 
-**_Tier 4 Solo_**
-_A towering immortal and incarnation of fate, cursed to only see bad outcomes._
-**Motives & Tactics:** Change environment, condemn, dishearten, toss aside
+**_Tier 4 Solo._** _A towering immortal and incarnation of fate, cursed to only see bad outcomes._
 
-> **Difficulty:** 20 | **Thresholds:** 38/68 | **HP:** 11 | **Stress:** 10
-> **ATK:** +8 | **Psychic Attack:** Far | 4d8+9 mag
-> **Experience:** Boundless Knowledge +4
+- **Motives & Tactics:** Change environment, condemn, dishearten, toss aside
+- **Difficulty:** 20 | **Thresholds:** 38/68 | **HP:** 11 | **Stress:** 10
+- **ATK:** +8 | **Psychic Attack:** Far | 4d8+9 mag
+- **Experience:** Boundless Knowledge +4
 
-## FEATURES
+### FEATURES
 
 **_Terrifying - Passive:_** When the Oracle makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
 

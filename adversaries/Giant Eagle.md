@@ -1,13 +1,12 @@
-# GIANT EAGLE
+# Giant Eagle
 
-**_Tier 2 Skulk_**
-_A giant bird of prey with blood-stained talons._
-**Motives & Tactics:** Hunt prey, stay mobile, strike decisively
+**_Tier 2 Skulk._** _A giant bird of prey with blood-stained talons._
 
-> **Difficulty:** 14 | **Thresholds:** 8/19 | **HP:** 4 | **Stress:** 4
-> **ATK:** +1 | **Claws and Beak:** Very Close | 2d6+3 phy
+- **Motives & Tactics:** Hunt prey, stay mobile, strike decisively
+- **Difficulty:** 14 | **Thresholds:** 8/19 | **HP:** 4 | **Stress:** 4
+- **ATK:** +1 | **Claws and Beak:** Very Close | 2d6+3 phy
 
-## FEATURES
+### FEATURES
 
 **_Flight - Passive:_** While flying, the Eagle gains a +3 bonus to their Difficulty.
 

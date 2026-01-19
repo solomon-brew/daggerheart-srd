@@ -1,7 +1,6 @@
-# BOOK OF SITIL
+# Book of Sitil
 
-> **Level 2 Codex Grimoire**
-> **Recall Cost:** 2
+**_Level 2_** _Codex Grimoire._ **_Recall Cost_** _2._
 
 _Adjust Appearance:_ You magically shift your appearance and clothing to avoid recognition.
 

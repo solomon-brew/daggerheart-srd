@@ -1,7 +1,10 @@
-# LEGENDARY FULL PLATE ARMOR
+# Legendary Full Plate Armor
 
-> **Base Thresholds:** 17 / 44 | **Base Score:** 7
+**_Tier 4_** _Armor_
 
-**Feature:** **_Very Heavy:_** -2 to Evasion; -1 to Agility
+- **Base Thresholds:** 17 / 44
+- **Base Score:** 7
 
-_Armor - Tier 4_
+### FEATURE
+
+**_Very Heavy:_** -2 to Evasion; -1 to Agility

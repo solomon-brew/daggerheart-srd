@@ -1,13 +1,12 @@
-# SKELETON DREDGE
+# Skeleton Dredge
 
-**_Tier 1 Minion_**
-_A clattering pile of bones._
-**Motives & Tactics:** Fall apart, overwhelm, play dead, steal skin
+**_Tier 1 Minion._** _A clattering pile of bones._
 
-> **Difficulty:** 8 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** -1 | **Bone Claws:** Melee | 1 phy
+- **Motives & Tactics:** Fall apart, overwhelm, play dead, steal skin
+- **Difficulty:** 8 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
+- **ATK:** -1 | **Bone Claws:** Melee | 1 phy
 
-## FEATURES
+### FEATURES
 
 **_Minion (4) - Passive:_** The Dredge is defeated when they take any damage. For every 4 damage a PC deals to the Dredge, defeat an additional Minion within range the attack would succeed against.
 

@@ -1,28 +1,28 @@
-# {{ upper .name }}
+# {{ .name }}
 
 {{ .description }}
 {{- if .spellcast_trait }}
 
-## SPELLCAST TRAIT
+### SPELLCAST TRAIT
 
 {{ .spellcast_trait }}
 {{- end }}
 
-## FOUNDATION FEATURE{{ if gt (len .foundation) 1 }}S{{ end }}
+### FOUNDATION FEATURE{{ if gt (len .foundation) 1 }}S{{ end }}
 
 {{- range .foundation }}
 
 **_{{ .name }}:_** {{ .text }}
 {{- end }}
 
-## SPECIALIZATION FEATURE{{ if gt (len .specialization) 1 }}S{{ end }}
+### SPECIALIZATION FEATURE{{ if gt (len .specialization) 1 }}S{{ end }}
 
 {{- range .specialization }}
 
 **_{{ .name }}:_** {{ .text }}
 {{- end }}
 
-## MASTERY FEATURE{{ if gt (len .mastery) 1 }}S{{ end }}
+### MASTERY FEATURE{{ if gt (len .mastery) 1 }}S{{ end }}
 
 {{- range .mastery }}
 
@@ -31,7 +31,7 @@
 
 {{- if eq .name "Beastbound" }}
 
-## RANGER COMPANION
+### RANGER COMPANION
 
 When you choose the Beastbound Ranger subclass, take a companion sheet. This sheet is for tracking important information about your character's companion and can be tucked beneath the right side of your character sheet for ease of viewing.
 

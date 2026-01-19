@@ -1,7 +1,10 @@
-# TYRIS SOFT ARMOR
+# Tyris Soft Armor
 
-> **Base Thresholds:** 8 / 18 | **Base Score:** 5
+**_Tier 2_** _Armor_
 
-**Feature:** **_Quiet:_** You gain a +2 bonus to rolls you make to move silently.
+- **Base Thresholds:** 8 / 18
+- **Base Score:** 5
 
-_Armor - Tier 2_
+### FEATURE
+
+**_Quiet:_** You gain a +2 bonus to rolls you make to move silently.

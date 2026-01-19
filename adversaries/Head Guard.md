@@ -1,14 +1,13 @@
-# HEAD GUARD
+# Head Guard
 
-**_Tier 1 Leader_**
-_A seasoned guard with a mace, a whistle, and a bellowing voice._
-**Motives & Tactics:** Arrest, close gates, pin down, seek glory
+**_Tier 1 Leader._** _A seasoned guard with a mace, a whistle, and a bellowing voice._
 
-> **Difficulty:** 15 | **Thresholds:** 7/13 | **HP:** 7 | **Stress:** 3
-> **ATK:** +4 | **Mace:** Melee | 1d10+4 phy
-> **Experience:** Commander +2, Local Knowledge +2
+- **Motives & Tactics:** Arrest, close gates, pin down, seek glory
+- **Difficulty:** 15 | **Thresholds:** 7/13 | **HP:** 7 | **Stress:** 3
+- **ATK:** +4 | **Mace:** Melee | 1d10+4 phy
+- **Experience:** Commander +2, Local Knowledge +2
 
-## FEATURES
+### FEATURES
 
 **_Rally Guards - Action:_** **Spend 2 Fear** to spotlight the Head Guard and up to **2d4** allies within Far range.
 

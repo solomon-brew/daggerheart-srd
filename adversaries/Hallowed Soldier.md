@@ -1,13 +1,12 @@
-# HALLOWED SOLDIER
+# Hallowed Soldier
 
-**_Tier 4 Minion_**
-_Souls of the faithful, lifted up with divine weaponry._
-**Motives & Tactics:** Obey, outmaneuver, punish, swarm
+**_Tier 4 Minion._** _Souls of the faithful, lifted up with divine weaponry._
 
-> **Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 2
-> **ATK:** +2 | **Sword and Shield:** Melee | 10 phy
+- **Motives & Tactics:** Obey, outmaneuver, punish, swarm
+- **Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 2
+- **ATK:** +2 | **Sword and Shield:** Melee | 10 phy
 
-## FEATURES
+### FEATURES
 
 **_Minion (13) - Passive:_** The Soldier is defeated when they take any damage. For every 13 damage a PC deals to the Soldier, defeat an additional Minion within range the attack would succeed against.
 

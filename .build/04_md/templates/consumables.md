@@ -1,5 +1,5 @@
-# {{ upper .name }}
+# {{ .name }}
+
+**_Consumable_**
 
 {{ .description }}
-
-_Consumable_

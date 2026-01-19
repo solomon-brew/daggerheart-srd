@@ -1,7 +1,12 @@
-# HAMMER OF EXOTA
+# Hammer of Exota
 
-**Trait:** Instinct; **Range:** Melee; **Damage:** d8+6 mag; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Eruptive:_** On a successful attack against a target within Melee range, all other adversaries within Very Close range must succeed on a reaction roll (14) or take half damage.
+- **Trait:** Instinct
+- **Range:** Melee
+- **Damage:** d8+6 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 2_
+### FEATURE
+
+**_Eruptive:_** On a successful attack against a target within Melee range, all other adversaries within Very Close range must succeed on a reaction roll (14) or take half damage.

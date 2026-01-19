@@ -1,14 +1,13 @@
-# MERCHANT BARON
+# Merchant Baron
 
-**_Tier 2 Social_**
-_An accomplished merchant with a large operation under their command._
-**Motives & Tactics:** Abuse power, gather resources, mobilize minions
+**_Tier 2 Social._** _An accomplished merchant with a large operation under their command._
 
-> **Difficulty:** 15 | **Thresholds:** 9/19 | **HP:** 5 | **Stress:** 3
-> **ATK:** -2 | **Rapier:** Melee | 1d6+2 phy
-> **Experience:** Nobility +2, Trade +2
+- **Motives & Tactics:** Abuse power, gather resources, mobilize minions
+- **Difficulty:** 15 | **Thresholds:** 9/19 | **HP:** 5 | **Stress:** 3
+- **ATK:** -2 | **Rapier:** Melee | 1d6+2 phy
+- **Experience:** Nobility +2, Trade +2
 
-## FEATURES
+### FEATURES
 
 **_Everyone Has a Price - Action:_** **Spend a Fear** to offer a target a dangerous bargain for something they want or need. If used on a PC, they must make a Presence Reaction Roll (17). On a failure, they must mark 2 Stress or take the deal.
 

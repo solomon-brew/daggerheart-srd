@@ -1,14 +1,13 @@
-# KRAKEN
+# Kraken
 
-**_Tier 4 Solo_**
-_A legendary beast of the sea, bigger than the largest galleon, with sucker-laden tentacles and a terrifying maw._
-**Motives & Tactics:** Consume, crush, drown, grapple
+**_Tier 4 Solo._** _A legendary beast of the sea, bigger than the largest galleon, with sucker-laden tentacles and a terrifying maw._
 
-> **Difficulty:** 20 | **Thresholds:** 35/70 | **HP:** 11 | **Stress:** 8
-> **ATK:** +7 | **Tentacles:** Close | 4d12+10 phy
-> **Experience:** Swimming +3
+- **Motives & Tactics:** Consume, crush, drown, grapple
+- **Difficulty:** 20 | **Thresholds:** 35/70 | **HP:** 11 | **Stress:** 8
+- **ATK:** +7 | **Tentacles:** Close | 4d12+10 phy
+- **Experience:** Swimming +3
 
-## FEATURES
+### FEATURES
 
 **_Relentless (3) - Passive:_** The Kraken can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 

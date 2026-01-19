@@ -1,7 +1,8 @@
-# HAND RUNES
+# Hand Runes
 
-**Trait:** Instinct; **Range:** Very Close; **Damage:** d10 mag; **Burden:** One-Handed
+**_Tier 1_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** —
-
-_Primary Magical Weapon - Tier 1_
+- **Trait:** Instinct
+- **Range:** Very Close
+- **Damage:** d10 mag
+- **Burden:** One-Handed

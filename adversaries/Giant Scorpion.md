@@ -1,14 +1,13 @@
-# GIANT SCORPION
+# Giant Scorpion
 
-**_Tier 1 Bruiser_**
-_A human-sized arachnid with tearing claws and a stinging tail._
-**Motives & Tactics:** Ambush, feed, grapple, poison
+**_Tier 1 Bruiser._** _A human-sized arachnid with tearing claws and a stinging tail._
 
-> **Difficulty:** 13 | **Thresholds:** 7/13 | **HP:** 6 | **Stress:** 3
-> **ATK:** +1 | **Pincers:** Melee | 1d12+2 phy
-> **Experience:** Camouflage +2
+- **Motives & Tactics:** Ambush, feed, grapple, poison
+- **Difficulty:** 13 | **Thresholds:** 7/13 | **HP:** 6 | **Stress:** 3
+- **ATK:** +1 | **Pincers:** Melee | 1d12+2 phy
+- **Experience:** Camouflage +2
 
-## FEATURES
+### FEATURES
 
 **_Double Strike - Action:_** **Mark a Stress** to make a standard attack against two targets within Melee range.
 

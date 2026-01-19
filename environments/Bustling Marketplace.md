@@ -1,13 +1,12 @@
-# BUSTLING MARKETPLACE
+# Bustling Marketplace
 
-**_Tier 1 Social_**
-_The economic heart of the settlement, with local artisans, traveling merchants, and patrons across social classes._
-**Impulses:** Buy low, and sell high, tempt and tantalize with wares from near and far
+**_Tier 1 Social._** _The economic heart of the settlement, with local artisans, traveling merchants, and patrons across social classes._
 
-> **Difficulty:** 10
-> **Potential Adversaries:** Guards (Bladed Guard, Head Guard), Masked Thief, Merchant
+- **Impulses:** Buy low, and sell high, tempt and tantalize with wares from near and far
+- **Difficulty:** 10
+- **Potential Adversaries:** Guards (Bladed Guard, Head Guard), Masked Thief, Merchant
 
-## FEATURES
+### FEATURES
 
 **_Tip the Scales - Passive:_** PCs can gain advantage on a Presence Roll by offering a handful of gold as part of the interaction. _Will any coin be accepted, or only local currency? How overt are the PCs in offering this bribe?_
 

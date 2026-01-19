@@ -1,13 +1,13 @@
-# EPIC AQUATIC BEAST
+# Epic Aquatic Beast
 
-_Tier 4_
+**_Tier 4_** _(Giant Squid, Whale, etc.)_
 
-(Giant Squid, Whale, etc.)
+- **Trait Bonus:** Agility +3
+- **Evasion Bonus:** Evasion +3
+- **Attack:** Melee Agility d10+10 phy
+- **Advantages:** locate, protect, scare, track
 
-> **Trait Bonus:** Agility +3 | **Evasion Bonus:** Evasion +3
-> **Attack:** Melee Agility d10+10 phy | **Advantages:** locate, protect, scare, track
-
-## FEATURES
+### FEATURES
 
 **_Ocean Master:_** You can breathe and move naturally underwater. When you succeed on an attack against a target within Melee range, you can temporarily _Restrain_ them.
 

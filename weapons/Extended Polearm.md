@@ -1,7 +1,12 @@
-# EXTENDED POLEARM
+# Extended Polearm
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+10 phy; **Burden:** Two-Handed
+**_Tier 4_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Long:_** This weapon's attack targets all adversaries in a line within range.
+- **Trait:** Finesse
+- **Range:** Very Close
+- **Damage:** d8+10 phy
+- **Burden:** Two-Handed
 
-_Primary Physical Weapon - Tier 4_
+### FEATURE
+
+**_Long:_** This weapon's attack targets all adversaries in a line within range.

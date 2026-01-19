@@ -1,13 +1,12 @@
-# DIVINE USURPATION
+# Divine Usurpation
 
-**_Tier 4 Event_**
-_A massive ritual designed to breach the gates of the Hallows Above and unseat the New Gods themselves._
-**Impulses:** Collect power, overawe, silence dissent
+**_Tier 4 Event._** _A massive ritual designed to breach the gates of the Hallows Above and unseat the New Gods themselves._
 
-> **Difficulty:** 20
-> **Potential Adversaries:** Arch-Necromancer, Fallen Shock Troops, Mortal Hunter, Oracle of Doom, Perfected Zombie
+- **Impulses:** Collect power, overawe, silence dissent
+- **Difficulty:** 20
+- **Potential Adversaries:** Arch-Necromancer, Fallen Shock Troops, Mortal Hunter, Oracle of Doom, Perfected Zombie
 
-## FEATURES
+### FEATURES
 
 **_Final Preparations - Passive:_** When the environment first takes the spotlight, designate one adversary as the Usurper seeking to overthrow the gods. Activate a Long-Term Countdown (8) as the Usurper assembles what they need to conduct the ritual. When it triggers, spotlight this environment to use the "Beginning of the End" feature. While this environment remains in play, you can hold up to 15 Fear. _What does the Usurper still require: The heart of a High Seraph? The lodestone of an ancient waygate? The loyalty of two archenemies? The heartbroken tears of a pure soul?_
 

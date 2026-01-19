@@ -1,4 +1,4 @@
-# SORCERER
+# Sorcerer
 
 Not all innate magic users choose to hone their craft, but those who do can become powerful sorcerers. The gifts of these wielders are passed down through families, even if the family is unaware of or reluctant to practice them. A sorcerer’s abilities can range from the elemental to the illusionary and beyond, and many practitioners band together into collectives based on their talents. The act of becoming a formidable sorcerer is not the practice of acquiring power, but learning to cultivate and control the power one already possesses. The magic of a misguided or undisciplined sorcerer is a dangerous force indeed.
 
@@ -17,11 +17,11 @@ Not all innate magic users choose to hone their craft, but those who do can beco
 
 ---
 
-## SORCERER’S HOPE FEATURE
+### HOPE FEATURE
 
 **_Volatile Magic:_** **Spend 3 Hope** to reroll any number of your damage dice on an attack that deals magic damage.
 
-## CLASS FEATURES
+### CLASS FEATURES
 
 **_Arcane Sense:_** You can sense the presence of magical people and objects within Close range.
 
@@ -32,11 +32,11 @@ Not all innate magic users choose to hone their craft, but those who do can beco
 - Gain Hope equal to the level of the card.
 - Enhance a spell that deals damage, gaining a bonus to your damage roll equal to twice the level of the card.
 
-## SORCERER SUBCLASSES
+### SUBCLASSES
 
 Choose either the **[Elemental Origin](../subclasses/Elemental%20Origin.md)** or **[Primal Origin](../subclasses/Primal%20Origin.md)** subclass.
 
-## BACKGROUND QUESTIONS
+### BACKGROUND QUESTIONS
 
 _Answer any of the following background questions. You can also create your own questions._
 
@@ -44,7 +44,7 @@ _Answer any of the following background questions. You can also create your own 
 - What mentor taught you to control your untamed magic, and why are they no longer able to guide you?
 - You have a deep fear you hide from everyone. What is it, and why does it scare you?
 
-## CONNECTIONS
+### CONNECTIONS
 
 _Ask your fellow players one of the following questions for their character to answer, or create your own questions._
 

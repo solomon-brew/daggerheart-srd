@@ -1,7 +1,12 @@
-# ADVANCED BROADSWORD
+# Advanced Broadsword
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
+**_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-**Feature:** **_Reliable:_** +1 to attack rolls
+- **Trait:** Agility
+- **Range:** Melee
+- **Damage:** d8+6 phy
+- **Burden:** One-Handed
 
-_Primary Physical Weapon - Tier 3_
+### FEATURE
+
+**_Reliable:_** +1 to attack rolls

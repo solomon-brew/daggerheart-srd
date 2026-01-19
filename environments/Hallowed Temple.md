@@ -1,13 +1,12 @@
-# HALLOWED TEMPLE
+# Hallowed Temple
 
-**_Tier 2 Social_**
-_A bustling but well-kept temple that provides healing and hosts regular services, overseen by a priest or seraph._
-**Impulses:** Connect the Mortal Realm with the Hallows Above, display the power of the divine, provide aid and succor to the faithful
+**_Tier 2 Social._** _A bustling but well-kept temple that provides healing and hosts regular services, overseen by a priest or seraph._
 
-> **Difficulty:** 13
-> **Potential Adversaries:** Guards (Archer Guard, Bladed Guard, Head Guard)
+- **Impulses:** Connect the Mortal Realm with the Hallows Above, display the power of the divine, provide aid and succor to the faithful
+- **Difficulty:** 13
+- **Potential Adversaries:** Guards (Archer Guard, Bladed Guard, Head Guard)
 
-## FEATURES
+### FEATURES
 
 **_A Place of Healing - Passive:_** A PC who takes a rest in the Hallowed Temple automatically clears all HP. _What does the incense smell like? What kinds of songs do the acolytes sing?_
 

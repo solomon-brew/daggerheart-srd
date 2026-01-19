@@ -26,3 +26,9 @@ And then a lot of manual markdown cleanup...
     go run .build/02_csv/extract_from_md.go
     go run .build/03_json/extract_from_csv.go
     go run .build/04_md/extract_from_json.go
+
+## Testing Static Site
+
+    pipx install mkdocs
+    pipx inject mkdocs mkdocs-material
+    mkdocs serve

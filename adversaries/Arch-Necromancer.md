@@ -1,14 +1,13 @@
-# ARCH-NECROMANCER
+# Arch-Necromancer
 
-**_Tier 4 Leader_**
-_A decaying mage adorned in dark, tattered robes._
-**Motives & Tactics:** Corrupt, decay, flee to fight another day, resurrect
+**_Tier 4 Leader._** _A decaying mage adorned in dark, tattered robes._
 
-> **Difficulty:** 21 | **Thresholds:** 33/66 | **HP:** 9 | **Stress:** 8
-> **ATK:** +6 | **Necrotic Blast:** Far | 4d12+8 mag
-> **Experience:** Forbidden Knowledge +3, Wisdom of Centuries +3
+- **Motives & Tactics:** Corrupt, decay, flee to fight another day, resurrect
+- **Difficulty:** 21 | **Thresholds:** 33/66 | **HP:** 9 | **Stress:** 8
+- **ATK:** +6 | **Necrotic Blast:** Far | 4d12+8 mag
+- **Experience:** Forbidden Knowledge +3, Wisdom of Centuries +3
 
-## FEATURES
+### FEATURES
 
 **_Dance of Death - Action:_** **Mark a Stress** to spotlight **1d4** allies. Attacks they make while spotlighted in this way deal half damage, or full damage if you **spend a Fear**.
 

@@ -1,7 +1,6 @@
-# UNLEASH CHAOS
+# Unleash Chaos
 
-> **Level 1 Arcana Spell**
-> **Recall Cost:** 1
+**_Level 1_** _Arcana Spell._ **_Recall Cost_** _1._
 
 At the beginning of a session, place a number of tokens equal to your Spellcast trait on this card.
 

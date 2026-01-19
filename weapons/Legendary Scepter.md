@@ -1,7 +1,12 @@
-# LEGENDARY SCEPTER
+# Legendary Scepter
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6+9 mag; **Burden:** Two-Handed
+**_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Versatile:_** This weapon can also be used with these statistics—Presence, Melee, d8+6.
+- **Trait:** Presence
+- **Range:** Far
+- **Damage:** d6+9 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 4_
+### FEATURE
+
+**_Versatile:_** This weapon can also be used with these statistics—Presence, Melee, d8+6.

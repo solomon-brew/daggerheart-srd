@@ -1,5 +1,5 @@
-# MAJOR BOLSTER POTION
+# Major Bolster Potion
+
+**_Consumable_**
 
 You gain a +1 bonus to your Strength until your next rest.
-
-_Consumable_

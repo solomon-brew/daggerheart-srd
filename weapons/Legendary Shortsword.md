@@ -1,7 +1,12 @@
-# LEGENDARY SHORTSWORD
+# Legendary Shortsword
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
+**_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Paired:_** +5 to primary weapon damage to targets within Melee range
+- **Trait:** Agility
+- **Range:** Melee
+- **Damage:** d8+6 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 4_
+### FEATURE
+
+**_Paired:_** +5 to primary weapon damage to targets within Melee range

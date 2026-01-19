@@ -1,14 +1,13 @@
-# SYLVAN SOLDIER
+# Sylvan Soldier
 
-**_Tier 1 Standard_**
-_A faerie warrior adorned in armor made of leaves and bark._
-**Motives & Tactics:** Ambush, hide, overwhelm, protect, trail
+**_Tier 1 Standard._** _A faerie warrior adorned in armor made of leaves and bark._
 
-> **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 4 | **Stress:** 2
-> **ATK:** +0 | **Scythe:** Melee | 1d8+1 phy
-> **Experience:** Tracker +2
+- **Motives & Tactics:** Ambush, hide, overwhelm, protect, trail
+- **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 4 | **Stress:** 2
+- **ATK:** +0 | **Scythe:** Melee | 1d8+1 phy
+- **Experience:** Tracker +2
 
-## FEATURES
+### FEATURES
 
 **_Pack Tactics - Passive:_** If the Soldier makes a standard attack and another Sylvan Soldier is within Melee range of the target, deal **1d8+5** physical damage instead of their standard damage.
 

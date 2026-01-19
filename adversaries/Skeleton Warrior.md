@@ -1,13 +1,12 @@
-# SKELETON WARRIOR
+# Skeleton Warrior
 
-**_Tier 1 Standard_**
-_A dirt-covered skeleton armed with a rusted blade._
-**Motives & Tactics:** Feign death, gang up, steal skin
+**_Tier 1 Standard._** _A dirt-covered skeleton armed with a rusted blade._
 
-> **Difficulty:** 10 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 2
-> **ATK:** +0 | **Sword:** Melee | 1d6+2 phy
+- **Motives & Tactics:** Feign death, gang up, steal skin
+- **Difficulty:** 10 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 2
+- **ATK:** +0 | **Sword:** Melee | 1d6+2 phy
 
-## FEATURES
+### FEATURES
 
 **_Only Bones - Passive:_** The Warrior is resistant to physical damage.
 

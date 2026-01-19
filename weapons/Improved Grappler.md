@@ -1,7 +1,12 @@
-# IMPROVED GRAPPLER
+# Improved Grappler
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d6+2 phy; **Burden:** One-Handed
+**_Tier 2_** _Secondary_ _Physical_ _Weapon_
 
-**Feature:** **_Hooked:_** On a successful attack, you can pull the target into Melee range.
+- **Trait:** Finesse
+- **Range:** Close
+- **Damage:** d6+2 phy
+- **Burden:** One-Handed
 
-_Secondary Physical Weapon - Tier 2_
+### FEATURE
+
+**_Hooked:_** On a successful attack, you can pull the target into Melee range.

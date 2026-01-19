@@ -1,7 +1,6 @@
-# ECLIPSE
+# Eclipse
 
-> **Level 10 Midnight Spell**
-> **Recall Cost:** 2
+**_Level 10_** _Midnight Spell._ **_Recall Cost_** _2._
 
 Make a **Spellcast Roll (16)**. Once per long rest on a success, plunge the entire area within Far range into complete darkness only you and your allies can see through. Attack rolls have disadvantage when targeting you or an ally within this shadow.
 

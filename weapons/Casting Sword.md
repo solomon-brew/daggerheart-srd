@@ -1,7 +1,12 @@
-# CASTING SWORD
+# Casting Sword
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+4 mag; **Burden:** Two-Handed
+**_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-**Feature:** **_Versatile:_** This weapon can also be used with these statistics—Knowledge, Far, d6+3.
+- **Trait:** Strength
+- **Range:** Melee
+- **Damage:** d10+4 mag
+- **Burden:** Two-Handed
 
-_Primary Magical Weapon - Tier 2_
+### FEATURE
+
+**_Versatile:_** This weapon can also be used with these statistics—Knowledge, Far, d6+3.

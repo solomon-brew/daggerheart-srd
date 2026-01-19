@@ -1,13 +1,13 @@
-# MIGHTY STRIDER
+# Mighty Strider
 
-_Tier 2_
+**_Tier 2_** _(Camel, Horse, Zebra, etc.)_
 
-(Camel, Horse, Zebra, etc.)
+- **Trait Bonus:** Agility +1
+- **Evasion Bonus:** Evasion +2
+- **Attack:** Melee Agility d8+1 phy
+- **Advantages:** leap, navigate, sprint
 
-> **Trait Bonus:** Agility +1 | **Evasion Bonus:** Evasion +2
-> **Attack:** Melee Agility d8+1 phy | **Advantages:** leap, navigate, sprint
-
-## FEATURES
+### FEATURES
 
 **_Carrier:_** You can carry up to two willing allies with you when you move.
 
